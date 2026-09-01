@@ -1,0 +1,14 @@
+---
+description: No unrequested git attribution trailers
+alwaysApply: true
+---
+
+# Commit messages
+
+Use a plain `-m` or `-F` commit message. Do not add unrequested
+attribution trailers (`Co-authored-by`, `Signed-off-by`, Generated-by,
+or `git commit --trailer`) unless the user asks.
+
+This repo's `.cursor/rules/git-user-commits.mdc` is an explicit
+exception: after substantive work, include
+`Co-authored-by: Cursor <cursoragent@cursor.com>`.

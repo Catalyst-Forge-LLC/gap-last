@@ -1,0 +1,267 @@
+{
+  "project": {
+    "name": "Gap Last",
+    "created": "2026-09-01",
+    "description": "Constraint-first reconstruction instrument. Don't invent a cause until you can name the gap. Skill first; CLI and FilePress site later.",
+    "archetype": "product",
+    "status": "active"
+  },
+  "currentPhase": "2-scaffolding",
+  "phases": {
+    "1-architecture": {
+      "status": "completed",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-04",
+      "exitCriteriaMet": [
+        "Tech choices confirmed",
+        "Folder structure confirmed",
+        "Data model shape confirmed",
+        "First feature batch defined",
+        "Claude's understanding verified by user",
+        "PHASE_1_BRIEF.md created, complete, and locked (docs/)",
+        "Major decisions recorded in workflow_tracking.json decisions[]"
+      ],
+      "exitCriteriaRemaining": [],
+      "notes": [
+        "Kickoff 2026-09-01. GENESIS.md at repo root is the builder spec.",
+        "Locked 2026-09-04: MIT, Catalyst-Forge-LLC/gap-last, proceed with M2 (not FilePress-first)."
+      ]
+    },
+    "2-scaffolding": {
+      "status": "in_progress",
+      "startedAt": "2026-09-04",
+      "completedAt": null,
+      "exitCriteriaMet": [
+        "package.json name gaplast, private, type module, pnpm",
+        "Validator: hypothesis must point at a live gap; section order",
+        "Tests: Langtang Wednesday /full; Thursday /reopen moves leftover; who-caused-it does not answer first",
+        "CLI: stdin or file in, reconstruction markdown out",
+        "Skill shipped in package files list",
+        "CONTEXT_PROMPT.md created and populated by merging PHASE_1_BRIEF.md",
+        "README.md expanded from current stub without becoming a second spec",
+        "TODO.md created (seeded from PHASE_1_BRIEF §11)",
+        "IDEAS.md created",
+        "Phase 2 doc scope only (no premature extra templates)",
+        "No FilePress site scaffold in this phase unless Sam pulls M3 forward"
+      ],
+      "exitCriteriaRemaining": [],
+      "notes": [
+        "This is not a PocketBase CRUD app. Phase 2 spine is M2 in GENESIS: package, validator, fixture tests, CLI. Hero flow for the spine is: fixture packet in → valid reconstruction markdown out."
+      ]
+    },
+    "3-stabilization": {
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "exitCriteriaMet": [],
+      "exitCriteriaRemaining": [
+        "pnpm test fails if an allowed hypothesis has no points-at",
+        "CLI completes on Langtang-scale input without a research loop",
+        "Error messages are human-readable (not just status codes)"
+      ],
+      "notes": []
+    },
+    "4-feature-iteration": {
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "exitCriteriaMet": [],
+      "exitCriteriaRemaining": [
+        "Core value proposition delivered",
+        "Hero flow works with real data including edge cases",
+        "Features tested beyond happy path"
+      ],
+      "notes": [],
+      "iterations": []
+    },
+    "5-refactoring": {
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "exitCriteriaMet": [],
+      "exitCriteriaRemaining": [
+        "No file exceeds ~500 lines without justification",
+        "Shared utilities extracted",
+        "No duplicated patterns",
+        "Build passes after each refactor"
+      ],
+      "notes": []
+    },
+    "6-strategic-review": {
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "exitCriteriaMet": [],
+      "exitCriteriaRemaining": [
+        "BRAND_AND_PRODUCT.md created (from ForgeTrail template)",
+        "TODO reorganized by brand value pillars",
+        "Features mapped to brand pillars",
+        "Gap between brand promise and product identified",
+        "IDEAS.md processed into TODO",
+        "Build order decided"
+      ],
+      "notes": []
+    },
+    "7-hardening": {
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "exitCriteriaMet": [],
+      "exitCriteriaRemaining": [
+        "CODE_QUALITY.md produced (from ForgeTrail template) and critical findings fixed",
+        "BLACK_HAT_REPORT.md produced (via ForgeTrail security audit) and critical/high findings fixed",
+        "All findings triaged into TODO.md with P0/P1/P2 priority",
+        "No silent failures in core workflows (grep for empty catch blocks)",
+        "DEPLOYMENT.md created (from ForgeTrail template)",
+        "TEST_PLAN.md complete or extended",
+        "TECHNICAL_REFERENCE.md complete and current",
+        "Docs alignment audit passed",
+        "All documentation consolidated and cross-referenced",
+        "FilePress site on gaplast.dev (M3) if pulled in this lifecycle"
+      ],
+      "notes": [
+        "Payments/auth criteria omitted: v1 has no accounts and no paid surface. Log if that changes."
+      ]
+    }
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "timestamp": "2026-09-01",
+      "phase": "1-architecture",
+      "decision": "Product archetype. Skill + reconstruction artifact first (M1), package/validator/CLI next (M2), FilePress site on gaplast.dev later (M3).",
+      "rationale": "GENESIS §15. The prohibition is the product. M1 already exists in this folder. Do not invent a stack that skips the order.",
+      "alternatives_considered": ["Scaffold a web app first", "Ship CLI before the skill can run"]
+    },
+    {
+      "id": "D2",
+      "timestamp": "2026-09-01",
+      "phase": "1-architecture",
+      "decision": "Markdown reconstruction is the source of truth. JSON is a projection for tests and a future CLI.",
+      "rationale": "GENESIS §7. The reconstruction is the format. Do not wrap another app's disk format.",
+      "alternatives_considered": ["JSON-first artifact", "ACH matrix as native format"]
+    },
+    {
+      "id": "D3",
+      "timestamp": "2026-09-01",
+      "phase": "1-architecture",
+      "decision": "House stack: TypeScript, ESM only, pnpm, Node 20+. package.json name gaplast, private until Sam publishes.",
+      "rationale": "GENESIS N5 and house defaults. Agents never npm publish. gaplast@0.0.0 is a name hold, not this tree.",
+      "alternatives_considered": ["Python CLI", "CommonJS"]
+    },
+    {
+      "id": "D4",
+      "timestamp": "2026-09-01",
+      "phase": "1-architecture",
+      "decision": "Site engine is FilePress (getfilepress) under site/. Do not hand-roll. Do not scaffold in M1.",
+      "rationale": "GENESIS F23 / §17. House pattern matches smellcheck. FilePress is markdown → static build, no admin UI, no database.",
+      "alternatives_considered": ["Bespoke SvelteKit marketing site", "PocketBase-backed app"]
+    },
+    {
+      "id": "D5",
+      "timestamp": "2026-09-01",
+      "phase": "1-architecture",
+      "decision": "LocalSlip names local ports when a FilePress or CLI preview is running. FilePress already uses ensure-lease.",
+      "rationale": "Sam named LocalSlip for this project. localhost is the machine; LocalSlip is the slip. Prevents Vite port shuffle from breaking bookmarks.",
+      "alternatives_considered": ["Hardcoded 5173", "No named local host"]
+    },
+    {
+      "id": "D6",
+      "timestamp": "2026-09-01",
+      "phase": "1-architecture",
+      "decision": "Local-first. No PocketBase, no auth, no runtime LLM API in this repo for v1.",
+      "rationale": "GENESIS N1–N2, F20–F22. Reconstructions are produced by the user's agent following the skill. CLI validates; it does not call a model.",
+      "alternatives_considered": ["Runtime LLM API", "Accounts and sync"]
+    },
+    {
+      "id": "D7",
+      "timestamp": "2026-09-01",
+      "phase": "1-architecture",
+      "decision": "Source gathering: user packet plus named URLs only. No unsolicited browsing for a cause.",
+      "rationale": "GENESIS §7.4 / Q1. Too much fetching turns the tool into a generic research assistant.",
+      "alternatives_considered": ["Live web search API in v1"]
+    },
+    {
+      "id": "D8",
+      "timestamp": "2026-09-01",
+      "phase": "1-architecture",
+      "decision": "Confidence is settled / provisional / open. No 0–100 scores in v1.",
+      "rationale": "GENESIS Q2 / E14.",
+      "alternatives_considered": ["Numeric confidence"]
+    },
+    {
+      "id": "D9",
+      "timestamp": "2026-09-04",
+      "phase": "1-architecture",
+      "decision": "This tree is MIT. npm name-hold stub stays Apache-2.0 until Sam replaces it.",
+      "rationale": "Sam confirmed MIT on 2026-09-04.",
+      "alternatives_considered": ["Keep Apache-2.0 for the real package"]
+    },
+    {
+      "id": "D10",
+      "timestamp": "2026-09-04",
+      "phase": "1-architecture",
+      "decision": "GitHub remote is Catalyst-Forge-LLC/gap-last. Keep GENESIS order: M2 now, FilePress/LocalSlip later.",
+      "rationale": "Sam provided the repo and said proceed after the A/B/C choice. Did not pick FilePress-first.",
+      "alternatives_considered": ["Wait to lock", "Pull FilePress and LocalSlip forward now"]
+    },
+    {
+      "id": "D11",
+      "timestamp": "2026-09-04",
+      "phase": "2-scaffolding",
+      "decision": "Pull M3 FilePress site now. LocalSlip lease gaplast-site on 5200 (5198 is haulout-site). Homepage is the sentence, not the eight steps. Spec and paper are generated pages from docs/.",
+      "rationale": "Sam said proceed after M2. GENESIS F23 / M3.",
+      "alternatives_considered": ["Wait for Cloudflare project first", "Hand-roll SvelteKit"]
+    },
+    {
+      "id": "D12",
+      "timestamp": "2026-09-04",
+      "phase": "2-scaffolding",
+      "decision": "Do not publish the living spec, paper, or GENESIS as site pages. Deed holds the nine-section order and stop questions. Private corpus tools stay off this repo.",
+      "rationale": "Sam: unpublished drafts should not be on gaplast.dev. GENESIS is the builder spec, not a public manual.",
+      "alternatives_considered": ["Keep /spec and /paper as generated pages", "Publish a thinned public spec page"]
+    },
+    {
+      "id": "D13",
+      "timestamp": "2026-09-04",
+      "phase": "2-scaffolding",
+      "decision": "Purge out-of-scope draft receipts from this tree. Keep the method contract, paper rationale, GENESIS builder spec, and Langtang facts. Rewrite history before the remote goes public.",
+      "rationale": "Sam said purge what we need, then B, then that the repo will be public.",
+      "alternatives_considered": ["Leave docs/ as unpublished-draft copies", "Leave git history in place"]
+    }
+  ],
+  "gotchas": [
+    {
+      "date": "2026-09-04",
+      "phase": "2-scaffolding",
+      "note": "pnpm exec does not expose the root package bin on Windows unless the package is linked to itself (devDependency gaplast: link:.). Use pnpm gaplast as the documented command."
+    }
+  ],
+  "sessions": [
+    {
+      "date": "2026-09-01",
+      "phase": "1-architecture",
+      "notes": "Reviewed README and GENESIS. Installed ForgeTrail tracking and Cursor phase/lessons rules. Drafted docs/PHASE_1_BRIEF.md from GENESIS plus FilePress and LocalSlip. Waiting on Sam to confirm the brief (and GitHub remote when ready). Did not scaffold src/ or site/."
+    },
+    {
+      "date": "2026-09-04",
+      "phase": "2-scaffolding",
+      "notes": "Sam locked MIT + GitHub + proceed. Scaffolded validator, CLI, Langtang reconstruction fixtures, Phase 2 docs. FilePress not started."
+    },
+    {
+      "date": "2026-09-04",
+      "phase": "2-scaffolding",
+      "notes": "Sam pulled M3. FilePress site under site/, LocalSlip 5198, sentence-first homepage. Spec/paper synced from docs/. Did not npm publish or deploy live."
+    },
+    {
+      "date": "2026-09-04",
+      "phase": "2-scaffolding",
+      "notes": "Unpublished /spec and /paper. Deed holds the public order. Do not pull private corpus tools from other projects."
+    },
+    {
+      "date": "2026-09-04",
+      "phase": "2-scaffolding",
+      "notes": "Purged out-of-scope draft receipts from spec, paper, and GENESIS. Method and Langtang kept. History rewritten for a public remote."
+    }
+  ]
+}
