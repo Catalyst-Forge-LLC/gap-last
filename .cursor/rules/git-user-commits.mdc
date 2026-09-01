@@ -1,0 +1,14 @@
+---
+description: Git commit and push policy for this repo
+alwaysApply: true
+---
+
+# Git policy
+
+- After substantive work, commit with a good message
+  (Co-authored-by: Cursor <cursoragent@cursor.com>).
+- Do not push until a remote exists and Sam asks, or a local mirror
+  is attached the way sister tools use `D:/git-mirrors/`.
+- **Never publish to npm.** Do not run `npm publish`, `pnpm publish`,
+  or `yarn npm publish`. The user publishes. `gaplast@0.0.0` is a
+  name hold, not this tree.

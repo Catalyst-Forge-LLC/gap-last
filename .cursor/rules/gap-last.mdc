@@ -1,0 +1,19 @@
+---
+description: Gap Last order and prohibition for this repo
+alwaysApply: true
+---
+
+# Gap Last
+
+This repo is the Gap Last instrument. Read `GENESIS.md` before
+building. Method behavior follows `docs/gap-last-tool-spec.md`.
+Paper: `docs/constraint-first-reconstruction.md`. Skill digest:
+`skills/gaplast/SKILL.md`.
+
+Do not invent a cause until a residual gap is named. Do not answer
+"who caused it?" first. Do not publish to npm. Do not promote
+unpublished drafts onto a public site unless Sam asks. Do not pull
+in private corpus tools from other projects.
+
+Maxim (protect): Pursue the "how" at your folly if you fail to frame
+the correct "what".
