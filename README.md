@@ -17,9 +17,12 @@ from an agent.
 ```bash
 pnpm install
 pnpm test
-pnpm exec gaplast validate fixtures/reconstructions/langtang-thursday.json
-pnpm exec gaplast fixtures/reconstructions/langtang-wednesday.json
+pnpm gaplast validate fixtures/reconstructions/langtang-thursday.json
+pnpm gaplast fixtures/reconstructions/langtang-wednesday.json
 ```
+
+`pnpm exec gaplast` works after install (this package is linked to itself
+so Windows can find the bin). `pnpm gaplast` is the same command.
 
 Reads a reconstruction (JSON or markdown) and writes canonical
 markdown. A raw packet that is not a reconstruction gets a thin open

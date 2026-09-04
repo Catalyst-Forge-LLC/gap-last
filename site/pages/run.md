@@ -62,8 +62,8 @@ From a clone of this repo:
 
 ```bash
 pnpm install
-pnpm exec gaplast validate path/to/reconstruction.json
-pnpm exec gaplast path/to/reconstruction.json
+pnpm gaplast validate path/to/reconstruction.json
+pnpm gaplast path/to/reconstruction.json
 ```
 
 A raw packet that is not a reconstruction gets a thin open bound and no hypotheses. No cause is invented.

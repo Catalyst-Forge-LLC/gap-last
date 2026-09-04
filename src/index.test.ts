@@ -245,6 +245,24 @@ test("CLI validate fails a hypothesis with no points-at", () => {
   assert.match(result.stderr, /hypothesis-missing-points-at/);
 });
 
+test("pnpm gaplast validate runs the Thursday fixture", () => {
+  const result = spawnSync(
+    "pnpm",
+    [
+      "gaplast",
+      "validate",
+      "fixtures/reconstructions/langtang-thursday.json",
+    ],
+    {
+      cwd: root,
+      encoding: "utf8",
+      shell: process.platform === "win32",
+    },
+  );
+  assert.equal(result.status, 0, result.stderr + result.stdout);
+  assert.match(result.stderr, /^ok\b/m);
+});
+
 test("CLI emit writes markdown for a valid reconstruction", () => {
   const cli = join(root, "dist", "cli.js");
   const result = spawnSync(process.execPath, [cli, "-"], {

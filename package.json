@@ -43,6 +43,8 @@
   ],
   "scripts": {
     "build": "tsc",
+    "prepare": "tsc",
+    "gaplast": "node dist/cli.js",
     "test": "tsc && node --test dist/index.test.js",
     "site:dev": "pnpm --dir site dev",
     "site:build": "pnpm --dir site run build",
@@ -55,6 +57,7 @@
   "packageManager": "pnpm@10.30.1",
   "devDependencies": {
     "@types/node": "^24.3.0",
+    "gaplast": "link:.",
     "typescript": "^5.9.2"
   }
 }
