@@ -2,10 +2,10 @@
 title: "Langtang Lirung: the bound moved"
 date: 2026-08-31
 description: Wednesday ice moved. Thursday the object was a north-face rock avalanche with ice as cargo. The leftover question moved with it.
-tags: [fixture]
+tags: [langtang]
 ---
 
-The method was named on this flood. It is the fixture, not the scope.
+The method was named on this flood.
 
 ## Wednesday bound (provisional)
 
@@ -41,6 +41,6 @@ Hydropower in the runout may stay live as exposure. It is not initiation unless 
 
 The last increment on that slab (thaw, water in joints, something nobody has isolated). Climate as possible preconditioning of permafrost glue is live. It is not the precise trigger. Flood water budget and who was in the path are separate gaps, not rivals to the scar.
 
-A writeup that picks a winner between two late stories, before the chain is split, has failed the fixture.
+A writeup that picks a winner between two late stories, before the chain is split, has skipped the order.
 
 Source writeup: [Onmanorama, 2026-08-28](https://www.onmanorama.com/news/world/2026/08/28/satellite-images-reveal-massive-bedrock-collaps-nepal-floods.amp.html).

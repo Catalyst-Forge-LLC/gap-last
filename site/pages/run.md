@@ -26,15 +26,13 @@ Copy `skills/gaplast/` from the clone into a skills directory.
 
 ## Install from npm
 
-The public `gaplast@0.0.0` listing is a name hold. This tree is private until Sam publishes. After a real publish:
+The ZIP or the clone is the way to get the skill today. After a real publish:
 
 ```bash
 pnpm add -D gaplast
 ```
 
 Copy `node_modules/gaplast/skills/gaplast/` into a skills directory.
-
-Until then, use the ZIP or the clone.
 
 ## Skills directories
 
