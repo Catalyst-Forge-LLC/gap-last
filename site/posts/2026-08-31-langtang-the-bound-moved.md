@@ -13,7 +13,7 @@ Gap Last got its name from that work: what failed, in what order, and what was s
 
 ## Wednesday bound (provisional)
 
-Ice came off Langtang Lirung. Images were cloudy and dusty. Enough to say ice moved. Not enough to name what failed first. Leftover closer to: why did that ice detach?
+Ice came off Langtang Lirung. Images were cloudy and dusty. Enough to say ice moved. Not enough to name what failed first. What was still unknown sat closer to why that ice detached.
 
 "Glacier collapse" was a first noun, not a settled initiation.
 
@@ -21,9 +21,7 @@ Ice came off Langtang Lirung. Images were cloudy and dusty. Enough to say ice mo
 
 A clearer satellite pass. North-face rock avalanche on Langtang Lirung, ice included, then a long runout. Shugar: a big bedrock failure that took part of the glacier with it. Cook: the rock collapsed; the glacier was cargo.
 
-Leftover: why did that rock slab fail, taking ice with it?
-
-The old leftover was retired. That is a gap-move, not a failure.
+What is still unknown is why that rock failed, taking ice with it. Wednesday's question, why the ice detached, can be set down. The leftover moved because the object moved.
 
 ## Chain parts, kept separate
 
