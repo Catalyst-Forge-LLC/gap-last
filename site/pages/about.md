@@ -14,7 +14,7 @@ You cannot answer ***how*** until you have a solid ***what***. ***How*** is a me
 
 > Pursue the ***how*** at your folly if you fail to frame the correct ***what***.
 
-A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming.
+A parent, a patient, a founder, and an agent all face the same situation: something arrived, you did not get to rerun it, and a story is already forming.
 
 Gap Last got its name from a week in late August 2026, watching the understanding of a flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved) move from ice to rock. The Gap Last method is what happened there, written down so it can continue to happen on purpose, and so the next warning system, the next treatment, the next fix aims at the right object.
 
@@ -24,7 +24,7 @@ It exists because a cause that is wrong, or too thin, aims the next warning syst
 
 If the first question is "who caused it?", reconstruct first. The prohibition is the product.
 
-The prohibition has an older relative. Chesterton's Fence says find out why the fence stands before you clear it away. A fence is a cause somebody paid for, and tearing it down unread throws away what they paid. Gap Last stands on [the other side of that fence](/posts/2026-09-04-the-other-side-of-chestertons-fence): name the gap before you put one up, so the next person who finds your fence can read what it closed. Both refuse the same move, a cause invented ahead of the question.
+Chesterton's Fence is older, and related. It says find out why the fence stands before you clear it away. A fence is a cause somebody paid for, and tearing it down unread throws away what they paid. Gap Last stands on [the other side of that fence](/posts/2026-09-04-the-other-side-of-chestertons-fence): name the gap before you put one up, so the next person who finds your fence can read what it closed. Both refuse the same move, a cause invented ahead of the question.
 
 If you can run the experiment, run it. If you can prove the theorem, prove it. If the bottleneck is sampling, do the statistics. Those are later steps, not the starting posture.
 

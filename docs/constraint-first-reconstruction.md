@@ -75,12 +75,11 @@ also scales whatever you got wrong about the object.
 "Who caused it?" and "what's my theory?" feel like work. They
 skip the ***what***. The ***what*** of the event is the bound:
 what happened, where, in what order, at what scale. Skip that
-and every later mechanism scales the wrong peak.
+and every later mechanism aims at the wrong object.
 
 The first answer to "what happened" is almost always a noun.
-Glacier. Construction. Climate. The noun is the elephant. The
-real ***what*** sits a few questions further in, the same way
-the real destination sits past the word "summit."
+Glacier. Construction. Climate. That noun is almost never the
+object. The real ***what*** sits a few questions further in.
 
 The common failure is not a missing ***how***. It is cementing
 a flawed or incomplete ***what*** too fast. Limited
@@ -264,10 +263,10 @@ the leftover gap trivial. Climate preconditioning and a
 last-increment trigger can both be true. One may remain hard
 to pin down.
 
-First principles are a knife. They are for asking whether a
-proposed mechanism can exist in these materials at this
-distance. They are not a license to decorate a clever machine
-that the traces do not require. I like to take first
+First principles are for asking whether a proposed mechanism
+can exist in these materials at this distance. They are not a
+license to decorate a clever machine that the traces do not
+require. I like to take first
 principles to ridiculous levels. That habit is useful when it
 eliminates a story. It is vanity when it builds one the traces do
 not ask for.
@@ -275,8 +274,8 @@ not ask for.
 Remainder is allowed. "We may never know the last increment"
 is a legal result.
 
-The gap is not a trophy you find once. Naming a leftover
-question is not the same as knowing you have the last one.
+Naming a leftover question is not the same as knowing you
+have the last one.
 Gap Last is the order. Last Gap is a claim you usually cannot
 yet make. A later trace can move the question. Treating the
 gap you named as closed, when you do not yet know enough to
@@ -360,7 +359,8 @@ ice, resonated at an unsupported extent, and caused the break.
   the scar.
 
 The method's value here is not that it settles climate. It is
-that it stops three different questions from wearing one noun.
+that it keeps three different questions from being answered
+as if they were one noun.
 
 ### 9.2 The bound event moved (2026-08-31)
 
@@ -514,3 +514,6 @@ bear it.
   method. This paper is the longer argument, not a second
   method. The site, the skill, and the reconstruction file
   keep the order.
+- **2026-09-04:** Dropped ornamental metaphors (elephant,
+  summit, knife, trophy, wearing a noun). A first noun is
+  almost never the object.

@@ -21,14 +21,14 @@ For a person with no tool running:
 
 ## One-screen
 
-When you have one breath, say four things and stop:
+When you only have a moment, say four things and stop:
 
 1. What happened, and how sure you are.
 2. Stories the evidence already eliminates.
 3. What is still unknown, as questions.
 4. Whether later evidence moved the question.
 
-Do not smuggle a cause you have not yet allowed yourself.
+Do not add a cause you have not yet allowed yourself.
 
 ## The reconstruction
 

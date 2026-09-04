@@ -27,12 +27,12 @@ This exists so the next warning system, the next treatment, the next fix aims at
 
 If that is the first question, reconstruct first. The prohibition is the product.
 
-A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming.
+A parent, a patient, a founder, and an agent all face the same situation: something arrived, you did not get to rerun it, and a story is already forming.
 
 The week that named this is a late-August 2026 flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved). The Gap Last method is what happened there, written down so it can continue to happen on purpose, and so the next warning system, the next treatment, the next fix aims at the right object.
 
 The name is Gap Last, not Last Gap. Naming a leftover question is not the same as knowing you have the last one. A later trace can move the question. Treating the gap you named as closed, when you do not yet know enough to say so, is the same thin move the method exists to stop.
 
-It has an older relative. Chesterton's Fence says find out why the fence stands before you clear it away. Gap Last stands on [the other side of that fence](/posts/2026-09-04-the-other-side-of-chestertons-fence): name the gap before you build one. Both refuse a cause invented ahead of the question.
+Chesterton's Fence is older, and related. It says find out why the fence stands before you clear it away. Gap Last stands on [the other side of that fence](/posts/2026-09-04-the-other-side-of-chestertons-fence): name the gap before you build one. Both refuse a cause invented ahead of the question.
 
 Built by [Catalyst Forge LLC](https://www.catalystforge.com). MIT.

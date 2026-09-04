@@ -33,7 +33,7 @@ So the two ideas are one instruction seen from both ends. Chesterton: find the g
 
 People abuse Chesterton's Fence. They use it as a veto for every accepted cause: the established explanation is the fence, do not touch it. Chesterton never said that. He said go and think, then come back, and then I may allow you to destroy it. The burden is understanding, not preservation.
 
-Gap Last gives that permission a shape. When better evidence arrives, the question moves, and a fence built for the old question can be retired. That is not a failure and it is not disrespect to the people who built it. They answered the question they had, with the evidence they had. On [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved), Wednesday's label, glacier collapse, was honest work with Wednesday's images. Thursday moved the question to rock. Nobody had to be a fool for the label to need moving.
+Gap Last says when that permission applies. When better evidence arrives, the question moves, and a fence built for the old question can be retired. That is not a failure and it is not disrespect to the people who built it. They answered the question they had, with the evidence they had. On [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved), Wednesday's label, glacier collapse, was honest work with Wednesday's images. Thursday moved the question to rock. Nobody had to be a fool for the label to need moving.
 
 ## The plaque
 

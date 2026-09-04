@@ -46,7 +46,7 @@ This project also protects:
 - Don't invent a cause until you can name the gap.
 - Pursue the ***how*** at your folly if you fail to frame the correct ***what***.
 - The prohibition is the product.
-- A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming.
+- A parent, a patient, a founder, and an agent all face the same situation: something arrived, you did not get to rerun it, and a story is already forming.
 - The four lines (GENESIS §10.2), verbatim.
 - The reconstruction is the format.
 
@@ -69,6 +69,11 @@ Chesterton post, and that draft.
   happen on purpose, and so the next act aims at the right object.
   Do not split "instrument" and "method" as two public identities.
   The paper is the argument. The skill and CLI keep the order.
+  Say "face the same situation," not "meet the same shape." Say
+  "older, and related," not "older relative." Say "a moment,"
+  not "one breath." Say "add a cause," not "smuggle." Leave
+  Chesterton's fence and the plaque; that metaphor is the
+  subject. Drop ornamental animals, knives, and trophies.
 - Langtang miniature: do not lead with a preferred actor. Do not punch
   past the loss. The why is preparation and mitigation, not a puzzle.
 - Reference docs (CLI, Run, template): core only. Do not inject a scene.
