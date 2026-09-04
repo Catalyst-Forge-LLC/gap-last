@@ -26,7 +26,7 @@ not the user's traces.
 | remainder | Unknown stated as a result |
 | residual gap | Only legal home for a new hypothesis |
 | cemented what | Named failure mode |
-| gap-move | Kill, shrink, shift, or split |
+| gap-move | Eliminate, shrink, shift, or split |
 | points-at | Validator rule |
 | first noun | Cemented-what tell |
 | OODA | Named cousin, not a synonym |
