@@ -1,10 +1,14 @@
 ---
 title: Method
-description: Four lines with no tool, and the one-screen when you have one breath.
+description: Say what happened. Spend what is already known. Name what is still unknown. Only then invent a cause, and only for the question you named.
 order: 1
 ---
 
-You can do this without an account or an agent. The skill and the CLI keep the same order. The order exists so a thin cause does not spend the next preparation, or the next mitigation, on the wrong object.
+The method is what you do when something arrived, you did not get to rerun it, and a story is already forming. You can do this without an account or an agent. The skill and the CLI keep the same order.
+
+Say ***what*** happened as tightly as the evidence allows, and mark how sure you are. Spend what is already known: the geometry, the timing, what the record can and cannot show. Name what is still unknown, as a question. Only then propose a cause, and only for the question you named. When better evidence arrives, expect the question to move, and let it.
+
+The order exists so a thin cause does not spend the next warning, or the next mitigation, on the wrong object. Someone will build on whatever cause you write down.
 
 ## Four lines
 
@@ -17,38 +21,40 @@ For a person with no tool running:
 
 ## One-screen
 
-When you have one breath, or when `/full` prefixes the artifact:
+When you have one breath, say four things and stop:
 
-1. The ***what*** (bound), marked settled / provisional / first-noun risk.
-2. Stories already killed.
-3. Open gaps, as questions.
-4. If the bound moved: old leftover versus new leftover.
+1. What happened, and how sure you are.
+2. Stories the evidence already kills.
+3. What is still unknown, as questions.
+4. Whether later evidence moved the question.
 
-A one-screen summary must not smuggle a hypothesis that is missing from the allowed-hypothesis list.
+Do not smuggle a cause you have not yet allowed yourself.
 
 ## The reconstruction
 
-The file is the format. Nine sections, that order only. A hypothesis that does not point at a named residual gap is illegal.
+When you want the work to stay, you fill a file. Nine sections, that order only. A new explanation may stand only in a question you have already named.
 
-1. Bound event: what happened, where, when, at what scale
-2. Fact layers: settled / provisional / still open
-3. Causal chain parts: initiation, amplification, exposure, response
-4. Hoop failures: mechanisms the traces already kill
-5. Named residual gaps: the only legal homes for a new hypothesis
-6. Allowed hypotheses: only those that point at a named gap
-7. Discriminating traces: what would move a gap toward settled
-8. Remainder: what is still unknown, stated as a result
-9. Reconstruction log: if a later trace changed the object, old bound, new bound, leftover question
+1. Bound event. What happened, where, when, at what scale.
+2. Fact layers. What you can settle, what is still provisional, what is open.
+3. Causal chain. What started it, what carried it, who stood in its path, what anyone did after.
+4. Hoop failures. Stories the traces already kill.
+5. Named residual gaps. The leftover questions. The only places a new cause may stand.
+6. Allowed hypotheses. Only those that answer a named leftover question.
+7. Discriminating traces. What would settle a question if it arrived.
+8. Remainder. What is still unknown, stated as a result.
+9. Reconstruction log. If later evidence changed the object: old question, new question.
 
 [Template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/reconstruction-template.md).
+
+A flood, a death, a failed launch, a family story: each is a chain, and each link asks a different question. Early stories press those questions into one. The file keeps them apart.
 
 ## Stop questions
 
 Use these in a conversation without running the whole file:
 
-- What part of the chain is this claim about?
-- Has it already failed a hoop test?
-- Is this a residual gap, or leftover storytelling?
-- Did a new trace move the object, and if so, what is the gap now?
+- What part of the chain is this claim about: the start, the carry, or who stood in the path?
+- Has the evidence already killed it?
+- Is this a leftover question, or leftover storytelling?
+- Did new evidence move the object, and if so, what is the question now?
 
 A shorter form: is that the ***what***, or are you already on a ***how***?

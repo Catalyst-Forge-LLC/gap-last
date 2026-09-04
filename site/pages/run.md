@@ -1,12 +1,12 @@
 ---
 title: Run the skill
-description: The skill is a folder. Get it into a skills directory, then ask an agent to reconstruct.
+description: Give an agent the folder so it keeps the same order. The CLI checks a reconstruction. It does not invent a cause.
 order: 2
 ---
 
-The skill is a folder: `SKILL.md` plus what that file reads. Get the folder, then put it in a skills directory. The CLI in this repo validates a reconstruction. It does not call a model.
+The skill is a folder you give an agent so it keeps the same order as the [method](/method). Get the folder into a skills directory, then ask it to reconstruct. The CLI in this repo checks a reconstruction file. It does not invent a cause.
 
-Wiring a reconstruction file by hand is the [template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/reconstruction-template.md). That is filling a file, not installing the skill.
+Filling a file by hand is the [template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/reconstruction-template.md). That is writing the reconstruction, not installing the skill.
 
 ## Download the ZIP
 

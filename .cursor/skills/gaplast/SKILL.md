@@ -23,9 +23,10 @@ paper: `docs/constraint-first-reconstruction.md`. Builder spec:
 
 You cannot answer **how** until you have a solid **what**. How is a
 mechanism. What is the object. A how aimed at a thin what is a story
-with better vocabulary. A cause that is not accurate enough wastes
-the next warning, the next fix, the next preparation. Stay with the
-named gap.
+with better vocabulary. A cause aimed at the wrong object wastes the
+next warning, the next fix, the next preparation, and adds the harm
+of believing people are ready. Stay with the named gap. Expect the
+question to move when better evidence arrives.
 
 ## When to use
 
@@ -111,8 +112,10 @@ if there is no physical scar.
 
 ## Voice
 
-Direct. Clear. Remainder is a result. Do not de-smell the maxim.
-Smell-check this tool's prose, not the user's traces.
+Direct. Clear. One account, not a quiz. Remainder is a result. Do
+not de-smell the maxim. Smell-check this tool's prose, not the
+user's traces. The method is the pause written down so it can
+happen on purpose. The warning is why it exists.
 
 ## Fixture
 

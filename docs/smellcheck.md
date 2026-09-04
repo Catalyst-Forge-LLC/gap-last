@@ -57,6 +57,10 @@ the method page, how to run, and the Langtang post.
 
 - Homepage: sentence first. Do not dump the nine sections as the hero.
 - No em dashes in publishable site prose (GENESIS §10.3).
+- Public pages follow the Langtang voice: one account, active, human
+  stakes first. Do not punch. Do not quiz. The method is what
+  happened, written down. The warning is why it exists. Do not
+  rewrite the Langtang post to match a landing audit.
 - Langtang miniature: do not lead with a preferred actor. Do not punch
   past the loss. The why is preparation and mitigation, not a puzzle.
 - Reference docs (CLI, Run, template): core only. Do not inject a scene.

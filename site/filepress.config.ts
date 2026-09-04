@@ -6,7 +6,7 @@ const npm = "https://www.npmjs.com/package/gaplast";
 export default defineFilepressConfig({
   title: "Gap Last",
   description:
-    "Don't invent a cause until you can name the gap. Constraint-first reconstruction.",
+    "Don't invent a cause until you can name the gap. Stay with what happened long enough to name what is still unknown, so the next similar event is not met with the last wrong story.",
   tagline: "Don't invent a cause until you can name the gap.",
   url: "https://gaplast.dev",
   author: "Catalyst Forge LLC",
