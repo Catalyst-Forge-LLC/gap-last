@@ -39,5 +39,6 @@ pnpm site:dev
 pnpm site:build
 ```
 
-Sentence first on the homepage. Spec and paper are pages, not the hero.
-Do not publish to npm from an agent.
+Sentence first on the homepage. The deed holds the nine-section order.
+The living spec and paper stay in `docs/` for the instrument. They are
+not site pages. Do not publish to npm from an agent.

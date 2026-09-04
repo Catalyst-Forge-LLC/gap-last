@@ -49,6 +49,8 @@ This project also protects:
 - The reconstruction is the format.
 
 Do not rewrite the living spec or paper to pass a landing audit.
+Do not publish those drafts as site pages. The site is the sentence,
+the deed, how to run, and the Langtang post.
 
 ## Genre extras (house law only)
 

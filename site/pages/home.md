@@ -17,7 +17,7 @@ Bound the thing. Spend what is already known. Name the leftover gaps. Only then 
 3. The leftover gap, named as a question.
 4. Whether "how" or "who caused it?" is even the right question yet.
 
-[The deed and one-screen](/deed) · [Run the skill](/run) · [Spec](/spec) · [Paper](/paper) · [GitHub](https://github.com/Catalyst-Forge-LLC/gap-last)
+[The deed and one-screen](/deed) · [Run the skill](/run) · [GitHub](https://github.com/Catalyst-Forge-LLC/gap-last)
 
 ## Do not start with who caused it
 

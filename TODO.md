@@ -21,8 +21,8 @@ Flat list until Phase 6. Seeded from `docs/PHASE_1_BRIEF.md` §11.
 
 - [x] FilePress site under `site/` (`getfilepress`)
 - [x] LocalSlip lease for the dev port (`gaplast-site` / 5200)
-- [x] Sentence first on the homepage; paper and spec linked, not the
-      hero wall of eight steps
+- [x] Sentence first on the homepage; deed holds the order; living
+      spec and paper stay off the site
 - [ ] Real npm version (Sam publishes; agents do not)
 - [ ] Live deploy to gaplast.dev (Cloudflare Pages project `gaplast`)
 

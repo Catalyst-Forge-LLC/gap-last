@@ -9,8 +9,9 @@ pnpm dev
 pnpm build    # → build/
 ```
 
-Do not dump the eight reconstruction steps as the homepage hero.
-Sentence first. Spec and paper are pages, generated from `docs/`.
+Do not dump the nine reconstruction steps as the homepage hero.
+Sentence first. The deed holds the order. Do not generate the living
+spec or paper as site pages.
 
 Cloudflare Pages: build `pnpm install && pnpm build`, output `build`,
 Node 20+. Agents do not publish the npm package.
