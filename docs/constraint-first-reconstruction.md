@@ -9,8 +9,8 @@ tags: [catalyst-forge, gap-last, method]
 
 **Subtitle:** How to shrink the unknown before you invent it
 
-*Working paper, 2026-08-31. Public instrument: Gap Last
-(`docs/gap-last-tool-spec.md`).*
+*Working paper, 2026-08-31. Public method: the Gap Last
+method. Tool spec: `docs/gap-last-tool-spec.md`.*
 
 ---
 
@@ -38,8 +38,11 @@ with better vocabulary.
 > Pursue the ***how*** at your folly if you fail to frame the
 > correct ***what***.
 
-The public instrument is Gap Last. This paper is the method.
-The tool is what keeps you in the order.
+Gap Last is the public name of the method. Constraint-first
+reconstruction is the formal name. They name the same order.
+This paper is the longer argument for that order. The site,
+the skill, and the reconstruction file are what keep you in
+it.
 
 Reconstruction is old. What is specified here is an order, a
 prohibition, a stop rule, and a loop that is allowed to retire
@@ -413,16 +416,18 @@ This is the reopen rule with a receipt. Using what was already
 known, fully, eliminated ice-only as the whole start. It did
 not license a new story about the last increment.
 
-## 10. The tool split
+## 10. The names
 
-- Constraint-first reconstruction is the name for the method.
-- Gap Last is the name for the instrument: site, checklist,
-  agent skill.
+Gap Last is the public name of the method. Constraint-first
+reconstruction is the formal name. They name the same order.
+This paper is the longer argument for that order: why it is
+this sequence, what it borrows, where it stops. The site, the
+skill, and the reconstruction file are what keep you in it.
 
-Non-specialists can use the tool without reading process
-tracing. Specialists can inspect the paper and see the debts.
-The homepage should keep them coupled: Gap Last implements
-constraint-first reconstruction.
+Non-specialists can use the Gap Last method without reading
+process tracing. Specialists can inspect this paper and see
+the debts. Keep them coupled. Do not treat the paper as a
+second method, or the skill as a third doctrine.
 
 Language models invent early. The skill refuses a cause until
 a gap is named. After Langtang, it also has to reopen: no
@@ -505,3 +510,7 @@ bear it.
   Object ***what*** and ***how*** marked. "Spend" retired for
   "use what is already known, fully." The Thursday
   interlocutor is an AI agent, not a product name.
+- **2026-09-04:** Names coupled. Gap Last is the public
+  method. This paper is the longer argument, not a second
+  method. The site, the skill, and the reconstruction file
+  keep the order.

@@ -19,8 +19,8 @@ not the user's traces.
 
 | Term | Why it earns its keep |
 | --- | --- |
-| Gap Last | Public instrument |
-| constraint-first reconstruction | Formal method |
+| Gap Last / the Gap Last method | Public name of the method |
+| constraint-first reconstruction | Formal name of the same method. The paper is the longer argument, not a second method. |
 | bound / bound event | The what |
 | hoop / hoop test | Mechanism the traces already eliminate |
 | remainder | Unknown stated as a result |
@@ -67,6 +67,8 @@ Chesterton post, and that draft.
   warning." Say "eliminates," not "kills." The name is Gap Last,
   not Last Gap. The method is written down so it can continue to
   happen on purpose, and so the next act aims at the right object.
+  Do not split "instrument" and "method" as two public identities.
+  The paper is the argument. The skill and CLI keep the order.
 - Langtang miniature: do not lead with a preferred actor. Do not punch
   past the loss. The why is preparation and mitigation, not a puzzle.
 - Reference docs (CLI, Run, template): core only. Do not inject a scene.

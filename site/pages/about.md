@@ -30,9 +30,9 @@ If you can run the experiment, run it. If you can prove the theorem, prove it. I
 
 The order, at three lengths, is on [the Gap Last method](/method). To put the skill in an agent, or to fill a file by hand, see [Run](/run).
 
-- Instrument: Gap Last
-- Method: constraint-first reconstruction (the Gap Last method)
+- Method: the Gap Last method (formal name: constraint-first reconstruction)
 - Draft paper: [constraint-first reconstruction](/paper)
+- Tools: skill, CLI, reconstruction file
 - Invoke: `gaplast`
 - Source: [GitHub](https://github.com/Catalyst-Forge-LLC/gap-last)
 
