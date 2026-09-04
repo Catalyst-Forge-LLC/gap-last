@@ -21,8 +21,8 @@ pnpm gaplast validate fixtures/reconstructions/langtang-thursday.json
 pnpm gaplast fixtures/reconstructions/langtang-wednesday.json
 ```
 
-`pnpm exec gaplast` works after install (this package is linked to itself
-so Windows can find the bin). `pnpm gaplast` is the same command.
+`pnpm gaplast` is the command. `pnpm exec gaplast` also works after
+install. This package is linked to itself so Windows can find the bin.
 
 Reads a reconstruction (JSON or markdown) and writes canonical
 markdown. A raw packet that is not a reconstruction gets a thin open

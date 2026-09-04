@@ -1,10 +1,10 @@
 ---
 title: About
-description: Names, doors, and the split that stays locked.
+description: The names that stay locked. Instrument, method, sentence, npm.
 order: 3
 ---
 
-Gap Last is the public instrument. Constraint-first reconstruction is the formal method. Non-specialists can say "run this through Gap Last" without reading process tracing. Specialists inspect the [paper](/paper) and see the debts.
+Gap Last is the public instrument. Constraint-first reconstruction is the formal method. You can say "run this through Gap Last" without reading process tracing. Specialists open the [paper](/paper) for the method debts: hoop tests, Chamberlin, Cleland.
 
 | Layer | Name |
 | --- | --- |

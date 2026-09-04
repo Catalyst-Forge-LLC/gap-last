@@ -6,7 +6,7 @@ order: 2
 
 The skill is a folder: `SKILL.md` plus what that file reads. Get the folder, then put it in a skills directory. The CLI in this repo validates a reconstruction. It does not call a model.
 
-Wiring a reconstruction file by hand is the [template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/reconstruction-template.md). That is a different hook.
+Wiring a reconstruction file by hand is the [template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/reconstruction-template.md). That is filling a file, not installing the skill.
 
 ## Download the ZIP
 

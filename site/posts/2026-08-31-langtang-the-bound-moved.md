@@ -41,6 +41,6 @@ Hydropower in the runout may stay live as exposure. It is not initiation unless 
 
 The last increment on that slab (thaw, water in joints, something nobody has isolated). Climate as possible preconditioning of permafrost glue is live. It is not the precise trigger. Flood water budget and who was in the path are separate gaps, not rivals to the scar.
 
-A writeup that answers a collapsed pair of late-stage stories as the headline has failed the fixture.
+A writeup that picks a winner between two late stories, before the chain is split, has failed the fixture.
 
 Source writeup: [Onmanorama, 2026-08-28](https://www.onmanorama.com/news/world/2026/08/28/satellite-images-reveal-massive-bedrock-collaps-nepal-floods.amp.html).

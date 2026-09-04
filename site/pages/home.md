@@ -19,11 +19,11 @@ Bound the thing. Spend what is already known. Name the leftover gaps. Only then 
 
 [The deed and one-screen](/deed) · [Run the skill](/run) · [Spec](/spec) · [Paper](/paper) · [GitHub](https://github.com/Catalyst-Forge-LLC/gap-last)
 
-## Not a villain finder
+## Do not start with who caused it
 
-If the first question is who caused it, reconstruct first. The order is the product.
+If that is the first question, reconstruct first. The prohibition is the product.
 
-The nine sections live in the reconstruction artifact, not as a wall on this page.
+The nine sections belong in the reconstruction file. They are not a how-to on this page.
 
 A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming.
 

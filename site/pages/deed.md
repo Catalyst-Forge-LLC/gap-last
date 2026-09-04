@@ -4,7 +4,7 @@ description: Four lines with no tool, and the one-screen when you have one breat
 order: 1
 ---
 
-Visible without an account. This is the human form. The skill and the CLI keep the same order.
+You can do this without an account or an agent. The skill and the CLI keep the same order.
 
 ## Four-line deed
 
