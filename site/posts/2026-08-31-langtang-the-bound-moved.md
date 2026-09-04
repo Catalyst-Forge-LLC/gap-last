@@ -7,7 +7,7 @@ tags: [langtang]
 
 Langtang Lirung is a mountain in the Nepal Himalaya, north of Kathmandu, on the way toward the Tibet border. In late August 2026 a slope failed high on its north face. Rock and ice ran into a steep valley and became a debris flood. Villages and border works downstream were buried. People died. That is the event.
 
-The method was named on this flood. The leftover question moved when the object moved.
+Gap Last got its name from trying to understand this flood: what failed, in what order, and what was still unknown. A first story said ice collapsed. A clearer look showed rock leading, with ice as cargo. The leftover question moved with the object. That move is why the post exists.
 
 ## Wednesday bound (provisional)
 
