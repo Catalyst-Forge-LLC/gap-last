@@ -488,7 +488,7 @@ Positive duties:
 The spec left this open. v1 default, reopenable:
 
 1. The what (bound), marked settled / provisional / first-noun risk
-2. Stories already killed
+2. Stories already eliminated
 3. Open gaps, as questions
 4. If the bound moved: old leftover vs new leftover
 
@@ -500,7 +500,7 @@ when the user has one breath.
 For a person with no tool running:
 
 1. The what, as tightly as you can say it. Mark it.
-2. One mechanism the geometry, timing, or record already kills.
+2. One mechanism the geometry, timing, or record already eliminates.
 3. The leftover gap, named as a question.
 4. Whether "how" or "who caused it?" is even the right question yet.
 

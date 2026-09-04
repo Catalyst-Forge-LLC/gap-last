@@ -22,7 +22,7 @@ not the user's traces.
 | Gap Last | Public instrument |
 | constraint-first reconstruction | Formal method |
 | bound / bound event | The what |
-| hoop / hoop test | Mechanism the traces already kill |
+| hoop / hoop test | Mechanism the traces already eliminate |
 | remainder | Unknown stated as a result |
 | residual gap | Only legal home for a new hypothesis |
 | cemented what | Named failure mode |
@@ -50,10 +50,11 @@ This project also protects:
 - The four lines (GENESIS §10.2), verbatim.
 - The reconstruction is the format.
 
-Do not rewrite the living spec or paper to pass a landing audit.
-Do not publish those drafts as site pages. The site is the sentence,
-the method page, how to run, the Langtang post, and the Chesterton
-post.
+Do not rewrite the living spec to pass a landing audit. The method
+paper may appear on the site as a marked draft at `/paper`, synced
+from `docs/constraint-first-reconstruction.md`. The site is the
+sentence, the method page, how to run, the Langtang post, the
+Chesterton post, and that draft.
 
 ## Genre extras (house law only)
 
@@ -63,9 +64,9 @@ post.
   stakes first. Do not punch. Do not quiz. Name the Gap Last method.
   Use "use what is already known, fully" not "spend." Say "warning
   system" when you mean the next siren, wall, or plan, not "the
-  warning." Say "eliminates" except in the four lines, which keep
-  "kills." The method is written down so it can continue to happen
-  on purpose, and so the next act aims at the right object.
+  warning." Say "eliminates," not "kills." The name is Gap Last,
+  not Last Gap. The method is written down so it can continue to
+  happen on purpose, and so the next act aims at the right object.
 - Langtang miniature: do not lead with a preferred actor. Do not punch
   past the loss. The why is preparation and mitigation, not a puzzle.
 - Reference docs (CLI, Run, template): core only. Do not inject a scene.

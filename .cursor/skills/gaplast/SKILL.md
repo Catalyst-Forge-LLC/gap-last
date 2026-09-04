@@ -63,7 +63,7 @@ Use the headings in `docs/reconstruction-template.md`.
 8. Remainder (unknown stated as a result)
 9. Reconstruction log (if the bound shifted)
 
-A one-screen summary may sit above §1: the what, killed stories, open
+A one-screen summary may sit above §1: the what, eliminated stories, open
 gaps, and whether the bound moved. It must not smuggle a hypothesis
 that is missing from §6.
 
@@ -96,6 +96,8 @@ that is missing from §6.
 - Present leftover uncertainty as indecision rather than a result
 - Defend the first bound when a later trace moves the object
 - Treat a retired gap as a failure
+- Treat a named leftover as the last gap when a later trace
+  could still move the question
 - Clear an inherited cause (Chesterton's fence) without naming the
   gap it closed, or build a new one on a first noun
 - Hunt the open web beyond URLs the user named

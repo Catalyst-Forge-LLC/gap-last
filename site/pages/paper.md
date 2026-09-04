@@ -1,11 +1,10 @@
 ---
-title: "Constraint-first reconstruction"
-date: 2026-08-31
-draft: true
-tags: [catalyst-forge, gap-last, method]
+title: Constraint-first reconstruction
+description: Working draft of the Gap Last method paper. How to shrink the unknown before you invent it.
+order: 4
 ---
 
-# Constraint-first reconstruction
+This is a working draft. The public order is on [the Gap Last method](/method). This page is the longer argument, still in motion.
 
 **Subtitle:** How to shrink the unknown before you invent it
 

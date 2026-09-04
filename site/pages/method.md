@@ -4,7 +4,7 @@ description: The Gap Last method. Say what happened. Use what is already known, 
 order: 1
 ---
 
-The **Gap Last method** is what you do when something arrived, you did not get to rerun it, and a story is already forming. You can do this without an account or an agent. The skill and the CLI keep the same order. The formal name is **constraint-first reconstruction**. A [working draft of the method paper](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/constraint-first-reconstruction.md) is on GitHub if you want the longer argument.
+The **Gap Last method** is what you do when something arrived, you did not get to rerun it, and a story is already forming. You can do this without an account or an agent. The skill and the CLI keep the same order. The formal name is **constraint-first reconstruction**. A [working draft of the method paper](/paper) is here if you want the longer argument.
 
 Say ***what*** happened as tightly as the evidence allows, and mark how sure you are. Use what is already known, fully: the geometry, the timing, what the record can and cannot show. Name what is still unknown, as a question. Only then propose a cause, and only for the question you named. When better evidence arrives, expect the question to move, and let it.
 
@@ -15,7 +15,7 @@ The order exists so a thin cause does not aim the next warning system, or the ne
 For a person with no tool running:
 
 1. The ***what***, as tightly as you can say it. Mark it.
-2. One mechanism the geometry, timing, or record already kills.
+2. One mechanism the geometry, timing, or record already eliminates.
 3. The leftover gap, named as a question.
 4. Whether ***how*** or "who caused it?" is even the right question yet.
 
@@ -59,5 +59,6 @@ Use these in a conversation without running the whole file:
 - Is this a leftover question, or leftover storytelling?
 - Did new evidence move the object, and if so, what is the question now?
 - Is this an inherited fence you are about to clear unread, or a new one you are about to build on a first noun?
+- Are you treating the leftover you named as the last gap, or as the question you have now?
 
 A shorter form: is that the ***what***, or are you already on a ***how***?

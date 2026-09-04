@@ -16,6 +16,7 @@ export default defineFilepressConfig({
   nav: [
     { label: "Home", href: "/" },
     { label: "Method", href: "/method" },
+    { label: "Paper", href: "/paper" },
     { label: "Run", href: "/run" },
     { label: "Posts", href: "/posts" },
     { label: "About", href: "/about" },
@@ -24,6 +25,7 @@ export default defineFilepressConfig({
   footerLinks: [
     { label: "RSS", href: "/rss.xml" },
     { label: "Method", href: "/method" },
+    { label: "Paper", href: "/paper" },
     { label: "Run", href: "/run" },
     { label: "npm", href: npm },
     { label: "GitHub", href: github, icon: "github" },
