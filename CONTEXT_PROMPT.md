@@ -103,7 +103,7 @@ Gap Last, hoop, remainder, bound, cemented what.
 - M1 skill, spec, paper, template, Langtang input packets
 - Phase 1 brief locked
 - M2 validator, JSON fixtures, CLI emit/validate, tests
-- M3 FilePress site under `site/` (sentence first; deed holds the
+- M3 FilePress site under `site/` (sentence first; Method holds the
   order; spec and paper stay in `docs/`, not as site pages)
 - LocalSlip lease `gaplast-site` on 5200
 

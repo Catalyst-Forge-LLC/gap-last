@@ -15,15 +15,16 @@ export default defineFilepressConfig({
   homePage: "home",
   nav: [
     { label: "Home", href: "/" },
-    { label: "Deed", href: "/deed" },
+    { label: "Method", href: "/method" },
     { label: "Run", href: "/run" },
     { label: "Posts", href: "/posts" },
     { label: "About", href: "/about" },
     { label: "GitHub", href: github, icon: "github" },
   ],
+  redirects: [{ from: "/deed", to: "/method", status: 301 }],
   footerLinks: [
     { label: "RSS", href: "/rss.xml" },
-    { label: "Deed", href: "/deed" },
+    { label: "Method", href: "/method" },
     { label: "Run", href: "/run" },
     { label: "npm", href: npm },
     { label: "GitHub", href: github, icon: "github" },

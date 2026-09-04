@@ -45,12 +45,12 @@ This project also protects:
 - Pursue the "how" at your folly if you fail to frame the correct "what".
 - The prohibition is the product.
 - A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming.
-- The four-line deed (GENESIS §10.2), verbatim.
+- The four lines (GENESIS §10.2), verbatim.
 - The reconstruction is the format.
 
 Do not rewrite the living spec or paper to pass a landing audit.
 Do not publish those drafts as site pages. The site is the sentence,
-the deed, how to run, and the Langtang post.
+the method page, how to run, and the Langtang post.
 
 ## Genre extras (house law only)
 

@@ -13,7 +13,7 @@ pnpm ship     # Cloudflare Pages project gaplast
 From the repo root, `pnpm ship` is the same command.
 
 Do not dump the nine reconstruction steps as the homepage hero.
-Sentence first. The deed holds the order. Do not generate the living
+Sentence first. Method holds the order. Do not generate the living
 spec or paper as site pages.
 
 Cloudflare Pages: build `pnpm install && pnpm build`, output `build`,

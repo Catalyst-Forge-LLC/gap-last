@@ -1,12 +1,12 @@
 ---
-title: The deed
+title: Method
 description: Four lines with no tool, and the one-screen when you have one breath.
 order: 1
 ---
 
 You can do this without an account or an agent. The skill and the CLI keep the same order.
 
-## Four-line deed
+## Four lines
 
 For a person with no tool running:
 

@@ -40,6 +40,6 @@ pnpm site:build
 pnpm ship
 ```
 
-Sentence first on the homepage. The deed holds the nine-section order.
+Sentence first on the homepage. Method holds the nine-section order.
 The living spec and paper stay in `docs/` for the instrument. They are
 not site pages. Do not publish to npm from an agent.

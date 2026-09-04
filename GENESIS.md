@@ -493,7 +493,7 @@ The spec left this open. v1 default, reopenable:
 This is the summary block on `/full` and the whole of a short `/bound`
 when the user has one breath.
 
-### 10.2 Four-line deed (from the paper)
+### 10.2 Four lines (from the paper)
 
 For a person with no tool running:
 
@@ -720,7 +720,7 @@ hypothesis with no `points-at`.
 - Sentence and coupling on the homepage
 - Paper and spec as docs, not the hero wall of eight steps
 - Real npm version beyond `0.0.0` (Sam publishes)
-- One-screen / four-line deed visible without an account
+- One-screen / four lines visible without an account
 
 Success: a stranger can say "run this through Gap Last" and land on
 the sentence plus a way to run the skill.
