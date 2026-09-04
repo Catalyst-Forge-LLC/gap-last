@@ -14,16 +14,17 @@ Flat list until Phase 6. Seeded from `docs/PHASE_1_BRIEF.md` §11.
       who-caused-it does not answer first
 - [x] CLI: stdin or file in, markdown out
 - [x] Skill listed in package `files`
-- [ ] Remote on GitHub, first push
-- [ ] `pnpm test` stays green on a clean clone
+- [x] Remote on GitHub, first push
+- [x] `pnpm test` stays green on a clean clone
 
 ## M3 — public doors
 
-- [ ] FilePress site under `site/` (`getfilepress`)
-- [ ] LocalSlip lease for the dev port
-- [ ] Sentence first on the homepage; paper and spec linked, not the
+- [x] FilePress site under `site/` (`getfilepress`)
+- [x] LocalSlip lease for the dev port (`gaplast-site` / 5200)
+- [x] Sentence first on the homepage; paper and spec linked, not the
       hero wall of eight steps
 - [ ] Real npm version (Sam publishes; agents do not)
+- [ ] Live deploy to gaplast.dev (Cloudflare Pages project `gaplast`)
 
 ## M4 — only if pulled
 

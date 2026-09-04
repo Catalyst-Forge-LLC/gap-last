@@ -26,3 +26,15 @@ markdown. A raw packet that is not a reconstruction gets a thin open
 bound and no hypotheses. The CLI does not call a model.
 
 Repo: [Catalyst-Forge-LLC/gap-last](https://github.com/Catalyst-Forge-LLC/gap-last).
+
+## Site
+
+FilePress under `site/`. LocalSlip lease `gaplast-site` on 5200.
+
+```bash
+pnpm site:dev
+pnpm site:build
+```
+
+Sentence first on the homepage. Spec and paper are pages, not the hero.
+Do not publish to npm from an agent.

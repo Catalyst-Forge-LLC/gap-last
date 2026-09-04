@@ -6,3 +6,6 @@ Thumbs.db
 .env.*
 !.env.example
 *.detangler-app/
+site/node_modules/
+site/build/
+site/.filepress/
