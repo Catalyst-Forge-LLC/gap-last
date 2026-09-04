@@ -21,7 +21,7 @@ For a person with no tool running:
 
 ## One-screen
 
-When you only have a moment, say four things and stop:
+When you have one breath, say four things and stop:
 
 1. What happened, and how sure you are.
 2. Stories the evidence already eliminates.

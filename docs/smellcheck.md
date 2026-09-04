@@ -69,11 +69,14 @@ Chesterton post, and that draft.
   happen on purpose, and so the next act aims at the right object.
   Do not split "instrument" and "method" as two public identities.
   The paper is the argument. The skill and CLI keep the order.
-  Say "face the same situation," not "meet the same shape." Say
-  "older, and related," not "older relative." Say "a moment,"
-  not "one breath." "Smuggle" stays: a cause slipping in unpaid.
-  Leave Chesterton's fence and the plaque; that metaphor is the
-  subject. Drop ornamental animals, knives, and trophies.
+  Prefer a picture the reader can see. A visual that lands
+  sticks; a metaphor they have to decode does not. Keep
+  "smuggle" (a cause slipping in unpaid), "one breath" (how
+  little time you have), and Chesterton's fence and plaque
+  (that metaphor is the subject). Say "face the same
+  situation," not "meet the same shape." Say "older, and
+  related," not "older relative." Drop ornamental animals,
+  knives, and trophies.
 - Langtang miniature: do not lead with a preferred actor. Do not punch
   past the loss. The why is preparation and mitigation, not a puzzle.
 - Reference docs (CLI, Run, template): core only. Do not inject a scene.
