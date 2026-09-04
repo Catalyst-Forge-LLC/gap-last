@@ -48,6 +48,8 @@ When you want the work to stay, you fill a file. Nine sections, that order only.
 
 A flood, a death, a failed launch, a family story: each is a chain, and each link asks a different question. Early stories press those questions into one. The file keeps them apart.
 
+The last section is the plaque on the fence. It says which gap this closed, how sure you were, and what evidence would move it, so the next person who finds what you built does not have to guess why it stands. That is the debt this method owes [Chesterton's Fence](/posts/2026-09-04-the-other-side-of-chestertons-fence).
+
 ## Stop questions
 
 Use these in a conversation without running the whole file:
@@ -56,5 +58,6 @@ Use these in a conversation without running the whole file:
 - Has the evidence already killed it?
 - Is this a leftover question, or leftover storytelling?
 - Did new evidence move the object, and if so, what is the question now?
+- Is this an inherited fence you are about to clear unread, or a new one you are about to build on a first noun?
 
 A shorter form: is that the ***what***, or are you already on a ***how***?

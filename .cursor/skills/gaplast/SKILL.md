@@ -96,6 +96,8 @@ that is missing from §6.
 - Present leftover uncertainty as indecision rather than a result
 - Defend the first bound when a later trace moves the object
 - Treat a retired gap as a failure
+- Clear an inherited cause (Chesterton's fence) without naming the
+  gap it closed, or build a new one on a first noun
 - Hunt the open web beyond URLs the user named
 - Answer "who caused it?" before reconstructing
 

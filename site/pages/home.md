@@ -31,4 +31,6 @@ A parent, a patient, a founder, and an agent meet the same shape: something arri
 
 The week that named this is a late-August 2026 flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved). The method is what happened there, written down so it can happen on purpose.
 
+It has an older relative. Chesterton's Fence says find out why the fence stands before you clear it away. Gap Last stands on [the other side of that fence](/posts/2026-09-04-the-other-side-of-chestertons-fence): name the gap before you build one. Both refuse a cause invented ahead of the question.
+
 Built by [Catalyst Forge LLC](https://www.catalystforge.com). MIT.

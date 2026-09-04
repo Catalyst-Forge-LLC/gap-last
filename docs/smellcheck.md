@@ -30,6 +30,7 @@ not the user's traces.
 | points-at | Validator rule |
 | first noun | Cemented-what tell |
 | OODA | Named cousin, not a synonym |
+| Chesterton's Fence | Named relative. Gap Last is the other side of it. Credit Chesterton; do not claim the fence. |
 | ***what*** / ***how*** | The objects. Bold italic on site pages. Ordinary English stays plain. |
 
 ## Protected lines
@@ -51,7 +52,8 @@ This project also protects:
 
 Do not rewrite the living spec or paper to pass a landing audit.
 Do not publish those drafts as site pages. The site is the sentence,
-the method page, how to run, and the Langtang post.
+the method page, how to run, the Langtang post, and the Chesterton
+post.
 
 ## Genre extras (house law only)
 
