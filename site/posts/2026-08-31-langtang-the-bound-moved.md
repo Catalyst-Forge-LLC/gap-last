@@ -1,11 +1,13 @@
 ---
 title: "Langtang Lirung: the bound moved"
 date: 2026-08-31
-description: Wednesday ice moved. Thursday the object was a north-face rock avalanche with ice as cargo. The leftover question moved with it.
+description: Langtang Lirung is a Himalayan peak in Nepal. In late August 2026 a slope failed and a debris flood buried villages downstream. Wednesday the bound was ice. Thursday it was rock, with ice as cargo.
 tags: [langtang]
 ---
 
-The method was named on this flood.
+Langtang Lirung is a mountain in the Nepal Himalaya, north of Kathmandu, on the way toward the Tibet border. In late August 2026 a slope failed high on its north face. Rock and ice ran into a steep valley and became a debris flood. Villages and border works downstream were buried. People died. That is the event.
+
+The method was named on this flood. The leftover question moved when the object moved.
 
 ## Wednesday bound (provisional)
 

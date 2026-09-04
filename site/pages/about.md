@@ -20,7 +20,7 @@ If the first question is "who caused it?", reconstruct first. The prohibition is
 
 If you can run the experiment, run it. If you can prove the theorem, prove it. If the bottleneck is sampling, do the statistics. Those are graduations, not the starting posture.
 
-The order, at three lengths, is on [Method](/method). To put the skill in an agent, or to fill a file by hand, see [Run](/run). A worked case is [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved): the leftover question moved when the object moved.
+The order, at three lengths, is on [Method](/method). To put the skill in an agent, or to fill a file by hand, see [Run](/run). A worked case is a late-August 2026 flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved), a Himalayan peak in Nepal: the leftover question moved when the object moved.
 
 - Instrument: Gap Last
 - Method: constraint-first reconstruction
