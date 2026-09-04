@@ -43,7 +43,9 @@ order and records when a later trace moves the object.
 The flood that named it (Langtang Lirung, late August 2026) is the
 golden fixture, not the scope. A parent, a patient, a founder, and an
 agent meet the same shape: something arrived, you did not get to rerun
-it, and a story is already forming.
+it, and a story is already forming. A cause that is not accurate
+enough spends the next mitigation on the wrong object. The
+prohibition is how that care stays aimed.
 
 ---
 

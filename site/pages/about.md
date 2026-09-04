@@ -16,6 +16,8 @@ You cannot answer ***how*** until you have a solid ***what***. ***How*** is a me
 
 A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming.
 
+Gap Last exists because a story that is not accurate enough spends the next act on the wrong object. The next warning, the next treatment, the next fix, aims where the last convenient cause pointed. The method is a formalization of an ordinary human refusal: stay with the loss long enough to name what is still unknown, so the next similar event is not met with the last wrong story.
+
 If the first question is "who caused it?", reconstruct first. The prohibition is the product.
 
 If you can run the experiment, run it. If you can prove the theorem, prove it. If the bottleneck is sampling, do the statistics. Those are graduations, not the starting posture.

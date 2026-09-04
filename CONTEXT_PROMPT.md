@@ -5,7 +5,8 @@ _Handoff document. Merge of `docs/PHASE_1_BRIEF.md` (locked 2026-09-04)._
 Don't invent a cause until you can name the gap. Method:
 constraint-first reconstruction. Spec wins over the skill digest.
 Paper wins for rationale. GENESIS is the builder spec, not a second
-paper.
+paper. A cause that is not accurate enough spends the next
+mitigation on the wrong object.
 
 ## Tech Stack
 

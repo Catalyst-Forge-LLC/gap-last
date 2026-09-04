@@ -48,7 +48,9 @@ just a story with better vocabulary.
 > correct "what".
 
 The prohibition is the product. The gap moves when the object
-moves. New stories still have to point at the new gap.
+moves. New stories still have to point at the new gap. A cause
+that is not accurate enough spends the next warning, the next
+fix, the next preparation on the wrong object.
 
 ## The wrong question
 

@@ -4,7 +4,7 @@ description: Four lines with no tool, and the one-screen when you have one breat
 order: 1
 ---
 
-You can do this without an account or an agent. The skill and the CLI keep the same order.
+You can do this without an account or an agent. The skill and the CLI keep the same order. The order exists so a thin cause does not spend the next preparation, or the next mitigation, on the wrong object.
 
 ## Four lines
 

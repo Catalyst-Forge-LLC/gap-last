@@ -21,10 +21,10 @@ Bound the thing. Spend what is already known. Name the leftover gaps. Only then 
 
 ## Do not start with who caused it
 
-If that is the first question, reconstruct first. The prohibition is the product.
+If that is the first question, reconstruct first. The prohibition is the product. A cause that is not accurate enough leaves you ready for the wrong next event.
 
 The nine sections belong in the reconstruction file. They are not a how-to on this page.
 
-A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming.
+A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming. The method is how that care stays aimed.
 
 Built by [Catalyst Forge LLC](https://www.catalystforge.com). MIT.

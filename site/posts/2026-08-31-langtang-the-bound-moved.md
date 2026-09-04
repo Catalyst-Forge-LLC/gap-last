@@ -1,13 +1,15 @@
 ---
 title: "Langtang Lirung: the bound moved"
 date: 2026-08-31
-description: Langtang Lirung is a Himalayan peak in Nepal. In late August 2026 a slope failed and a debris flood buried villages downstream. Wednesday the bound was ice. Thursday it was rock, with ice as cargo.
+description: Langtang Lirung is a Himalayan peak in Nepal. In late August 2026 a slope failed and a debris flood buried villages downstream. The leftover question moved when the object moved. A wrong cause would have aimed the next warning at the wrong object.
 tags: [langtang]
 ---
 
-Langtang Lirung is a mountain in the Nepal Himalaya, north of Kathmandu, on the way toward the Tibet border. In late August 2026 a slope failed high on its north face. Rock and ice ran into a steep valley and became a debris flood. Villages and border works downstream were buried. People died. That is the event.
+Langtang Lirung is a mountain in the Nepal Himalaya, north of Kathmandu, on the way toward the Tibet border. In late August 2026 a slope failed high on its north face. Rock and ice ran into a steep valley and became a debris flood. Homes and fields downstream were buried. Border works went with them. Families lost people they could not get back.
 
-Gap Last got its name from trying to understand this flood: what failed, in what order, and what was still unknown. A first story said ice collapsed. A clearer look showed rock leading, with ice as cargo. The leftover question moved with the object. That move is why the post exists.
+The scale of that loss is why the flood was owed a careful ***what***. If the cause you name is not accurate enough, the next warning, the next wall, the next evacuation plan aims at the wrong object. Curiosity here is not a puzzle. It is a way to be less helpless the next time a slope lets go.
+
+Gap Last got its name from that work: what failed, in what order, and what was still unknown. A first story said ice collapsed. A clearer look showed rock leading, with ice as cargo. The leftover question moved with the object. That move is why this method exists.
 
 ## Wednesday bound (provisional)
 

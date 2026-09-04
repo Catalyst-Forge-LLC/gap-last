@@ -23,7 +23,9 @@ paper: `docs/constraint-first-reconstruction.md`. Builder spec:
 
 You cannot answer **how** until you have a solid **what**. How is a
 mechanism. What is the object. A how aimed at a thin what is a story
-with better vocabulary.
+with better vocabulary. A cause that is not accurate enough wastes
+the next warning, the next fix, the next preparation. Stay with the
+named gap.
 
 ## When to use
 
