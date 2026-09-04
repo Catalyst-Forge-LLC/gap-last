@@ -28,7 +28,7 @@ When you only have a moment, say four things and stop:
 3. What is still unknown, as questions.
 4. Whether later evidence moved the question.
 
-Do not add a cause you have not yet allowed yourself.
+Do not smuggle a cause you have not yet allowed yourself.
 
 ## The reconstruction
 

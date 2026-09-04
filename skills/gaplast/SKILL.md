@@ -64,7 +64,7 @@ Use the headings in `docs/reconstruction-template.md`.
 9. Reconstruction log (if the bound shifted)
 
 A one-screen summary may sit above §1: the what, eliminated stories, open
-gaps, and whether the bound moved. It must not add a hypothesis
+gaps, and whether the bound moved. It must not smuggle a hypothesis
 that is missing from §6.
 
 ## Commands
