@@ -1,0 +1,129 @@
+{
+  "title": "Langtang Lirung, Thursday",
+  "summary": {
+    "what": "North-face rock avalanche on Langtang Lirung, ice included, then a long runout.",
+    "killed": [
+      "ice-only burst as the whole start",
+      "distant blasting ringing a mountain like a bridge"
+    ],
+    "openGaps": [
+      "last-increment",
+      "climate-preconditioning",
+      "water-budget",
+      "who-in-path"
+    ],
+    "boundMoved": {
+      "from": "Why did that ice detach?",
+      "to": "Why did that rock slab fail, taking ice with it?"
+    }
+  },
+  "boundEvent": {
+    "boundId": "bound-2",
+    "whatHappened": "North-face rock avalanche on Langtang Lirung, ice included, then a long runout. Shugar: a big bedrock failure that took part of the glacier with it. Cook: the rock collapsed; the glacier was cargo.",
+    "where": "North face of Langtang Lirung, ~5,200 m, then Lendi/Lhende Khola",
+    "when": "late August 2026, Thursday satellite pass",
+    "scale": "Bedrock slab plus glacier cargo; long debris-flood runout",
+    "sequence": "Bedrock under the glacier tongue failed. Ice went with the rock. Mass entered the steep valley. Debris flood ran out.",
+    "layer": "provisional",
+    "firstNounRisk": "China or climate as one noun doing four chain jobs"
+  },
+  "factLayers": {
+    "settled": [
+      "A north-face rock avalanche occurred on Langtang Lirung.",
+      "Ice was included; it was cargo, not the isolated start.",
+      "Mass entered Lendi/Lhende Khola and produced a debris flood.",
+      "River color green to brown is sediment load.",
+      "Villages and border works were buried downstream."
+    ],
+    "provisional": [
+      "Bedrock under the glacier tongue failed at about 5,200 m.",
+      "Climate may have preconditioned permafrost glue. That is not the precise trigger.",
+      "Hydropower works sat in the runout."
+    ],
+    "open": [
+      "Last increment on that slab (thaw, water in joints, something nobody has isolated).",
+      "Flood water budget.",
+      "Exactly who was in the path, and when."
+    ]
+  },
+  "causalChain": {
+    "initiation": "Bedrock under the glacier tongue failed on the north face (~5,200 m). Ice went with the rock. Glacier collapse as the whole initiation failed a hoop test.",
+    "amplification": "Mass into Lendi/Lhende Khola; steep narrow valley; ice melt plus sediment; debris flood. River color green to brown is sediment load.",
+    "exposure": "Villages and border works buried downstream. Hydropower works sat in the runout. That can explain deaths without explaining the scar.",
+    "response": "Not isolated in the Thursday packet beyond burial of works and villages."
+  },
+  "hoopFailures": [
+    {
+      "mechanismKilled": "Distant blasting ringing a mountain like a bridge",
+      "constraint": "Energy / attenuation / location. Construction at the scar is not in the Cook/Shugar interviews."
+    },
+    {
+      "mechanismKilled": "Ice-only burst as the whole start",
+      "constraint": "Geometry and materials: rock led; ice was cargo."
+    },
+    {
+      "mechanismKilled": "Hydropower as initiation",
+      "constraint": "Location: works sat in the runout (exposure), not at the scar unless a scar-location trace appears."
+    }
+  ],
+  "residualGaps": [
+    {
+      "gapId": "last-increment",
+      "question": "Why did that rock slab fail, taking ice with it?",
+      "notes": "Do not fill with a trigger the traces do not isolate."
+    },
+    {
+      "gapId": "climate-preconditioning",
+      "question": "Did warming weaken permafrost glue on that face?",
+      "notes": "Live as preconditioning. Not the precise trigger. Not a rival to last-increment."
+    },
+    {
+      "gapId": "water-budget",
+      "question": "What was the flood water budget?",
+      "notes": "Separate gap, not a rival to the scar."
+    },
+    {
+      "gapId": "who-in-path",
+      "question": "Who or what was in the path?",
+      "notes": "Exposure. Hydropower may be live here without being initiation."
+    }
+  ],
+  "allowedHypotheses": [
+    {
+      "hypothesisId": "thaw-or-water-in-joints",
+      "claim": "Last increment could be thaw or water in joints. Nobody has isolated it.",
+      "pointsAt": "last-increment"
+    },
+    {
+      "hypothesisId": "unisolated-increment",
+      "claim": "The last increment may be something nobody has named yet.",
+      "pointsAt": "last-increment"
+    },
+    {
+      "hypothesisId": "permafrost-glue",
+      "claim": "Climate as possible preconditioning of permafrost glue. Live; not the precise trigger.",
+      "pointsAt": "climate-preconditioning"
+    }
+  ],
+  "discriminatingTraces": [
+    {
+      "gapId": "last-increment",
+      "lookFor": "A measurement or observation that isolates the last increment on that slab, not a confirming anecdote."
+    }
+  ],
+  "remainder": "The last increment on that slab is unknown. Climate may precondition; it is not isolated as the trigger. Water budget and who was in the path remain separate. Retired leftover: why did that ice detach?",
+  "reconstructionLog": [
+    {
+      "boundId": "bound-1",
+      "bound": "Ice came off Langtang Lirung (provisional)",
+      "leftover": "Why did that ice detach?",
+      "whatArrived": "initial Wednesday packet"
+    },
+    {
+      "boundId": "bound-2",
+      "bound": "North-face rock avalanche, ice as cargo, long runout",
+      "leftover": "Why did that rock slab fail, taking ice with it?",
+      "whatArrived": "Thursday satellite pass; Cook/Shugar; Onmanorama 2026-08-28"
+    }
+  ]
+}

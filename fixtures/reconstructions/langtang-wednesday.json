@@ -1,0 +1,90 @@
+{
+  "title": "Langtang Lirung, Wednesday",
+  "summary": {
+    "what": "Ice came off Langtang Lirung. Bound is provisional.",
+    "killed": [],
+    "openGaps": ["why-ice-detach", "who-in-path", "water-budget"],
+    "boundMoved": false
+  },
+  "boundEvent": {
+    "boundId": "bound-1",
+    "whatHappened": "Ice came off Langtang Lirung. Images are cloudy and dusty. Enough to say ice moved. Not enough to name what failed first.",
+    "where": "Langtang Lirung, Nepal",
+    "when": "late August 2026, Wednesday packet",
+    "scale": "Ice movement visible; runout and scar not yet isolated",
+    "sequence": "Ice moved. Initiation is not named.",
+    "layer": "provisional",
+    "firstNounRisk": "glacier collapse treated as settled initiation"
+  },
+  "factLayers": {
+    "settled": [
+      "Ice moved on Langtang Lirung.",
+      "Villages and hydropower works sit downstream in the river path."
+    ],
+    "provisional": [
+      "The moving mass included ice. That does not settle what failed first.",
+      "\"Glacier collapse\" is a first noun, not a bound."
+    ],
+    "open": [
+      "What failed first (ice, rock, both, something else).",
+      "Whether construction vibration reached the face.",
+      "Whether climate is the whole trigger."
+    ]
+  },
+  "causalChain": {
+    "initiation": "Unknown. Ice moved. \"Glacier collapse\" as the whole start is a first-noun risk, not settled initiation.",
+    "amplification": "Not yet split from the Wednesday images.",
+    "exposure": "Villages and hydropower works sit downstream in the river path. That can explain harm later without explaining the scar.",
+    "response": "Not in the Wednesday packet."
+  },
+  "hoopFailures": [
+    {
+      "mechanismKilled": "Hydropower \"caused the disaster\" as a single noun",
+      "constraint": "Collapsed chain: the claim does not say whether it is initiation, amplification, exposure, or response."
+    }
+  ],
+  "residualGaps": [
+    {
+      "gapId": "why-ice-detach",
+      "question": "Why did that ice detach?",
+      "notes": "Wednesday leftover. Do not fill with a preferred actor."
+    },
+    {
+      "gapId": "who-in-path",
+      "question": "Who or what was in the path?",
+      "notes": "Exposure. Not a rival to initiation."
+    },
+    {
+      "gapId": "water-budget",
+      "question": "What was the flood water budget?",
+      "notes": "Separate from the scar."
+    }
+  ],
+  "allowedHypotheses": [
+    {
+      "hypothesisId": "ice-led",
+      "claim": "Ice failed first and the rest followed. Still a hypothesis; Wednesday images do not isolate it.",
+      "pointsAt": "why-ice-detach"
+    },
+    {
+      "hypothesisId": "rock-or-other-led",
+      "claim": "Something other than hanging ice alone failed first. Wednesday cannot name it.",
+      "pointsAt": "why-ice-detach"
+    }
+  ],
+  "discriminatingTraces": [
+    {
+      "gapId": "why-ice-detach",
+      "lookFor": "A clearer image of the scar: rock vs ice as the leading mass."
+    }
+  ],
+  "remainder": "What failed first is unknown. Construction-as-far-field-resonator and climate-as-whole-trigger are still stories, not hoop-killed on this packet. Remainder is most of the page.",
+  "reconstructionLog": [
+    {
+      "boundId": "bound-1",
+      "bound": "Ice came off Langtang Lirung (provisional)",
+      "leftover": "Why did that ice detach?",
+      "whatArrived": "initial"
+    }
+  ]
+}

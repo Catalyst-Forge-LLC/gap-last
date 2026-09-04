@@ -9,4 +9,20 @@ Copied sources live in [`docs/`](docs/).
 
 Site (held, not live): [gaplast.dev](https://gaplast.dev).
 npm name hold: [`gaplast`](https://www.npmjs.com/package/gaplast).
-Do not publish from an agent.
+This tree is MIT and **private** until Sam publishes. Do not publish
+from an agent.
+
+## CLI
+
+```bash
+pnpm install
+pnpm test
+pnpm exec gaplast validate fixtures/reconstructions/langtang-thursday.json
+pnpm exec gaplast fixtures/reconstructions/langtang-wednesday.json
+```
+
+Reads a reconstruction (JSON or markdown) and writes canonical
+markdown. A raw packet that is not a reconstruction gets a thin open
+bound and no hypotheses. The CLI does not call a model.
+
+Repo: [Catalyst-Forge-LLC/gap-last](https://github.com/Catalyst-Forge-LLC/gap-last).
