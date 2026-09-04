@@ -60,9 +60,12 @@ post.
 - Homepage: sentence first. Do not dump the nine sections as the hero.
 - No em dashes in publishable site prose (GENESIS §10.3).
 - Public pages follow the Langtang voice: one account, active, human
-  stakes first. Do not punch. Do not quiz. The method is what
-  happened, written down. The warning is why it exists. Do not
-  rewrite the Langtang post to match a landing audit.
+  stakes first. Do not punch. Do not quiz. Name the Gap Last method.
+  Use "use what is already known, fully" not "spend." Say "warning
+  system" when you mean the next siren, wall, or plan, not "the
+  warning." Say "eliminates" except in the four lines, which keep
+  "kills." The method is written down so it can continue to happen
+  on purpose, and so the next act aims at the right object.
 - Langtang miniature: do not lead with a preferred actor. Do not punch
   past the loss. The why is preparation and mitigation, not a puzzle.
 - Reference docs (CLI, Run, template): core only. Do not inject a scene.

@@ -1,7 +1,7 @@
 ---
 title: "Langtang Lirung: the bound moved"
 date: 2026-08-31
-description: In late August 2026 a slope failed on Langtang Lirung, a Himalayan peak in Nepal, and a debris flood buried villages downstream. In one day the understanding of what failed moved from ice to rock. This is the record of that move, and of the method and warning that came out of watching it.
+description: In late August 2026 a slope failed on Langtang Lirung, a Himalayan peak in Nepal, and a debris flood buried villages downstream. In one day the understanding of what failed moved from ice to rock. This is the record of that move, and of the Gap Last method that came out of watching it.
 tags: [langtang]
 ---
 
@@ -35,11 +35,11 @@ Three questions, with three answers at three levels of certainty. The early stor
 
 ## What came out of it
 
-Gap Last got its name from that week. The method is what happened here, written down so it can happen on purpose.
+Gap Last got its name from that week. The Gap Last method is what happened here, written down so it can continue to happen on purpose, and so the next warning system, the next siting decision, the next evacuation plan aims at the right object.
 
-Say ***what*** happened as tightly as the evidence allows, and mark how sure you are. Spend what is already known: the geometry, the timing, what the images can and cannot show. Name what is still unknown, as a question. Only then propose a cause, and only for the question you named. When better evidence arrives, expect the question to move, and let it.
+Say ***what*** happened as tightly as the evidence allows, and mark how sure you are. Use what is already known, fully: the geometry, the timing, what the images can and cannot show. Name what is still unknown, as a question. Only then propose a cause, and only for the question you named. When better evidence arrives, expect the question to move, and let it.
 
-The warning is the reason the method exists. The people in that valley deserved an accurate account, not because accuracy is tidy, but because someone will build the next warning system, the next siting decision, the next evacuation plan on whatever cause gets written down. A cause aimed at the wrong object leaves them as exposed as before, with the added harm of believing they are not.
+The people in that valley deserved an accurate account, not because accuracy is tidy, but because someone will build the next warning system, the next siting decision, the next evacuation plan on whatever cause gets written down. A cause aimed at the wrong object leaves them as exposed as before, with the added harm of believing they are not.
 
 Why the rock failed is still open. That is the honest result, and the only place a new explanation is allowed to stand.
 

@@ -19,7 +19,7 @@ That is Gap Last applied to an artifact instead of an event. The fence is the bo
 
 A fence is a cause made physical. Somebody paid for it, and the payment was usually in the currency that makes people build fences: a child in the road, a flood, a failed season, a lawsuit, a death nobody wants repeated. The fence encodes the question those people answered and how sure they were. Their pain is a trace. When the first reformer tears the fence down unread, he throws away the trace, and the payment with it.
 
-That is the same waste Gap Last exists to prevent, run the other direction along time. A thin cause spends the next warning on the wrong object. A fence removed unread spends the last warning on nothing.
+That is the same waste Gap Last exists to prevent, run the other direction along time. A thin cause aims the next warning system at the wrong object. A fence removed unread throws away the last warning those people paid for.
 
 ## The other side
 
@@ -37,6 +37,6 @@ Gap Last gives that permission a shape. When better evidence arrives, the questi
 
 ## The plaque
 
-The reconstruction log, the last of the nine sections in a [reconstruction](/method), is what every fence should have carried: a plaque saying which gap this closed, how sure the builders were, and what evidence would change it. Chesterton's second reformer would not have had to send anyone away to think. He could have read it.
+The reconstruction log, the last of the nine sections in the [Gap Last method](/method), is what every fence should have carried: a plaque saying which gap this closed, how sure the builders were, and what evidence would change it. Chesterton's second reformer would not have had to send anyone away to think. He could have read it.
 
-Gap Last owes Chesterton that much, and pays it gladly. He asks what gap the fence closed before you remove it. This method asks you to name the gap before you build one. Both refuse the same move: a cause invented ahead of the question.
+Gap Last owes Chesterton that much, and pays it gladly. He asks what gap the fence closed before you remove it. The Gap Last method asks you to name the gap before you build one. Both refuse the same move: a cause invented ahead of the question.

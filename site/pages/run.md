@@ -1,10 +1,10 @@
 ---
 title: Run the skill
-description: Give an agent the folder so it keeps the same order. The CLI checks a reconstruction. It does not invent a cause.
+description: Give an agent the folder so it keeps the Gap Last method. The CLI checks a reconstruction. It does not invent a cause.
 order: 2
 ---
 
-The skill is a folder you give an agent so it keeps the same order as the [method](/method). Get the folder into a skills directory, then ask it to reconstruct. The CLI in this repo checks a reconstruction file. It does not invent a cause.
+The skill is a folder you give an agent so it keeps the [Gap Last method](/method). Get the folder into a skills directory, then ask it to reconstruct. The CLI in this repo checks a reconstruction file. It does not invent a cause.
 
 Filling a file by hand is the [template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/reconstruction-template.md). That is writing the reconstruction, not installing the skill.
 

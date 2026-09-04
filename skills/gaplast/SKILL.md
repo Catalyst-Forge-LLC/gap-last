@@ -1,8 +1,8 @@
 ---
 name: gaplast
 description: >-
-  Constraint-first reconstruction. Bound the event, spend the known,
-  name leftover gaps, invent only there. Use when someone wants a
+  Constraint-first reconstruction. Bound the event, use the known
+  fully, name leftover gaps, invent only there. Use when someone wants a
   cause, a villain, a theory, a postmortem, or "what happened" for
   something they did not get to rerun. Commands: /bound /hoop /gap
   /reopen /full. Not for proofs, controlled experiments, or OODA-time

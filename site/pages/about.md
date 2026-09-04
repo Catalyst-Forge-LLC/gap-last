@@ -1,6 +1,6 @@
 ---
 title: About
-description: Don't invent a cause until you can name the gap. Gap Last is that pause, written down, so the next similar event is not met with the last wrong story.
+description: Don't invent a cause until you can name the gap. The Gap Last method is that pause, written down, so the next similar event is not met with the last wrong story.
 order: 3
 ---
 
@@ -8,7 +8,7 @@ Don't invent a cause until you can name the gap.
 
 **Gap Last** is a way to understand something you observed, were told, or otherwise came to be aware of. Something arrived. You did not get to rerun it. A story is already forming.
 
-The formal method is **constraint-first reconstruction**. You can say "run this through Gap Last" without reading a paper.
+The formal method is **constraint-first reconstruction**. You can say "run this through Gap Last" without reading a paper. A [working draft of that paper](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/constraint-first-reconstruction.md) is on GitHub if you want the longer argument.
 
 You cannot answer ***how*** until you have a solid ***what***. ***How*** is a mechanism. ***What*** is the object. A ***how*** aimed at a thin ***what*** is a story with better vocabulary.
 
@@ -16,9 +16,9 @@ You cannot answer ***how*** until you have a solid ***what***. ***How*** is a me
 
 A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming.
 
-Gap Last got its name from a week in late August 2026, watching the understanding of a flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved) move from ice to rock. The method is what happened there, written down so it can happen on purpose.
+Gap Last got its name from a week in late August 2026, watching the understanding of a flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved) move from ice to rock. The Gap Last method is what happened there, written down so it can continue to happen on purpose, and so the next warning system, the next treatment, the next fix aims at the right object.
 
-It exists because a cause that is wrong, or too thin, aims the next warning, the next treatment, the next fix at the wrong object. The people in the path of the next similar event deserve an accurate account, not because accuracy is tidy, but because someone will build on whatever cause gets written down. A cause aimed at the wrong object leaves them as exposed as before, with the added harm of believing they are not.
+It exists because a cause that is wrong, or too thin, aims the next warning system, the next treatment, the next fix at the wrong object. The people in the path of the next similar event deserve an accurate account, not because accuracy is tidy, but because someone will build those on whatever cause gets written down. A cause aimed at the wrong object leaves them as exposed as before, with the added harm of believing they are not.
 
 If the first question is "who caused it?", reconstruct first. The prohibition is the product.
 
@@ -26,10 +26,11 @@ The prohibition has an older relative. Chesterton's Fence says find out why the 
 
 If you can run the experiment, run it. If you can prove the theorem, prove it. If the bottleneck is sampling, do the statistics. Those are later steps, not the starting posture.
 
-The order, at three lengths, is on [Method](/method). To put the skill in an agent, or to fill a file by hand, see [Run](/run).
+The order, at three lengths, is on [the Gap Last method](/method). To put the skill in an agent, or to fill a file by hand, see [Run](/run).
 
 - Instrument: Gap Last
-- Method: constraint-first reconstruction
+- Method: constraint-first reconstruction (the Gap Last method)
+- Draft paper: [constraint-first reconstruction](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/constraint-first-reconstruction.md)
 - Invoke: `gaplast`
 - Source: [GitHub](https://github.com/Catalyst-Forge-LLC/gap-last)
 
