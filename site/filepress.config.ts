@@ -21,7 +21,6 @@ export default defineFilepressConfig({
     { label: "About", href: "/about" },
     { label: "GitHub", href: github, icon: "github" },
   ],
-  redirects: [{ from: "/deed", to: "/method", status: 301 }],
   footerLinks: [
     { label: "RSS", href: "/rss.xml" },
     { label: "Method", href: "/method" },
