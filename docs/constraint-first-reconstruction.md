@@ -30,12 +30,13 @@ hypothesis in those gaps; leave remainder unknown when the
 traces do not decide. When a better trace arrives, reopen the
 bound. The gap moves when the object moves.
 
-You cannot answer how something happened until you have a
-solid what. How is a mechanism. What is the object. A how
-aimed at a thin what is a story with better vocabulary.
+You cannot answer ***how*** something happened until you have
+a solid ***what***. ***How*** is a mechanism. ***What*** is
+the object. A ***how*** aimed at a thin ***what*** is a story
+with better vocabulary.
 
-> Pursue the "how" at your folly if you fail to frame the
-> correct "what".
+> Pursue the ***how*** at your folly if you fail to frame the
+> correct ***what***.
 
 The public instrument is Gap Last. This paper is the method.
 The tool is what keeps you in the order.
@@ -69,21 +70,22 @@ also scales whatever you got wrong about the object.
 ## 2. The wrong question
 
 "Who caused it?" and "what's my theory?" feel like work. They
-skip the what. The what of the event is the bound: what
-happened, where, in what order, at what scale. Skip that and
-every later mechanism scales the wrong peak.
+skip the ***what***. The ***what*** of the event is the bound:
+what happened, where, in what order, at what scale. Skip that
+and every later mechanism scales the wrong peak.
 
 The first answer to "what happened" is almost always a noun.
 Glacier. Construction. Climate. The noun is the elephant. The
-real what sits a few questions further in, the same way the
-real destination sits past the word "summit."
+real ***what*** sits a few questions further in, the same way
+the real destination sits past the word "summit."
 
-The common failure is not a missing how. It is cementing a
-flawed or incomplete what too fast. Limited perspective, a
-favorite mental model, a preconceived villain, an inclination
-you already had: any of those will hand you a noun and call it
-settled. Wednesday's "glacier collapse" was that move. Once
-the what is cemented, every later how looks like work.
+The common failure is not a missing ***how***. It is cementing
+a flawed or incomplete ***what*** too fast. Limited
+perspective, a favorite mental model, a preconceived villain,
+an inclination you already had: any of those will hand you a
+noun and call it settled. Wednesday's "glacier collapse" was
+that move. Once the ***what*** is cemented, every later
+***how*** looks like work.
 
 A collapsed chain is a wrong question. "China or climate?" can
 be answered with great energy and still leave you lost,
@@ -100,12 +102,14 @@ unnamed.
 
 Three common errors:
 
-- **Cemented what.** A first noun is treated as settled. The
-  rest of the work is how. Limited perspective, a favorite
-  model, or a preconceived inclination did the cementing.
+- **Cemented ***what***.** A first noun is treated as settled.
+  The rest of the work is ***how***. Limited perspective, a
+  favorite model, or a preconceived inclination did the
+  cementing.
 - **Ruling theory.** One story is chosen early (climate,
   construction, incompetence, malice) and evidence is gathered
-  in its favor. Often the how that grew on a cemented what.
+  in its favor. Often the ***how*** that grew on a cemented
+  ***what***.
 - **Collapsed chain.** Initiation, amplification, exposure, and
   response are treated as a single question: who caused it?
 
@@ -163,13 +167,14 @@ understanding, not only for a board of inquiry.
 
 Cleland's pattern often proliferates rival hypotheses once
 puzzling traces appear. The specification here delays that
-proliferation until the observation has been thickened and the
-known has been spent on elimination. That is a procedural
-difference, not a new epistemology.
+proliferation until the observation has been thickened and
+what is already known has been used, fully, to eliminate
+mechanisms. That is a procedural difference, not a new
+epistemology.
 
 Methods are many. Principles are few. This is a method. The
-principle underneath it is older: name the what before you
-spend the how.
+principle underneath it is older: name the ***what*** before
+you reach for the ***how***.
 
 ## 6. The specification
 
@@ -181,8 +186,9 @@ Keep this list aligned with the tool spec.
 2. Split facts into settled, provisional, and open.
 3. Write the chain in parts: initiation, amplification,
    exposure, response.
-4. Spend the known on elimination. Apply hoop tests to
-   geometry, timing, energy, materials, records, incentives.
+4. Use what is already known, fully, to eliminate mechanisms.
+   Apply hoop tests to geometry, timing, energy, materials,
+   records, incentives.
 5. Name only the residual gaps.
 6. Place multiple working hypotheses in those gaps only.
    Prefer mechanisms that need the least new machinery.
@@ -203,7 +209,7 @@ out of order.
 Correlation in a region is not location on a scar. Construction
 in a river basin is not blasting on a 5,200 m face. Warming in
 a range is not, by itself, the last increment that dropped a
-particular slope. A noun in a headline is not a what.
+particular slope. A noun in a headline is not a ***what***.
 
 ### 6.3 Stop questions
 
@@ -213,11 +219,11 @@ particular slope. A noun in a headline is not a what.
 - Did a new trace move the object, and if so, what is the gap
   now?
 
-A shorter form: *Is that the what, or are you already on a
-how?*
+A shorter form: *Is that the ***what***, or are you already on
+a ***how***?*
 
-And when the what looks done: *Did you cement a first noun, or
-can you still reopen it?*
+And when the ***what*** looks done: *Did you cement a first
+noun, or can you still reopen it?*
 
 ### 6.4 How a better trace can change the work
 
@@ -232,7 +238,7 @@ description, not a final map. A better trace can:
   water budget versus who was in the path)
 
 The first gap often is not answered. It is retired. A tighter
-what creates a different leftover.
+***what*** creates a different leftover.
 
 Let the bound event change without treating that as
 humiliation or as a license to invent. New stories still have
@@ -244,14 +250,14 @@ Observation is theory-laden. Early labels mislead. The same
 flood was called earthquake, GLOF, glacier collapse, then
 bedrock failure carrying ice. Freezing step 1 too soon shrinks
 the search space around the wrong object. That is the cemented
-what: a limited perspective, a favorite mental model, or a
-preconceived inclination handed you a noun, and you treated it
-as settled. Keep the description layered. You cannot spend how
-on that noun until the what can bear it.
+***what***: a limited perspective, a favorite mental model, or
+a preconceived inclination handed you a noun, and you treated
+it as settled. Keep the description layered. You cannot build
+a ***how*** on that noun until the ***what*** can bear it.
 
-"Readily knowable" is not "only what matters." Spending the
-known first is a search-space move. It does not make the
-leftover gap trivial. Climate preconditioning and a
+"Readily knowable" is not "only what matters." Using what is
+already known first is a search-space move. It does not make
+the leftover gap trivial. Climate preconditioning and a
 last-increment trigger can both be true. One may remain hard
 to pin down.
 
@@ -280,14 +286,14 @@ action against an opponent, OODA is the closer instrument.
 
 ## 8. Learners, OODA, agents
 
-I posed this to Grok after the Thursday images: effective
-learners already run a feedback loop, a cousin of OODA. I
-named the kinship. Grok named how decide differs.
+I posed this to an AI agent after the Thursday images:
+effective learners already run a feedback loop, a cousin of
+OODA. I named the kinship. The agent named how decide differs.
 
 Effective learners do not defend the first frame. They take in
 a trace, update the object, throw out mechanisms that no
-longer fit, and only then spend attention on what is still
-open. When Thursday's images arrived, the move was to
+longer fit, and only then turn their attention to what is
+still open. When Thursday's images arrived, the move was to
 re-orient: rock led, ice followed, the leftover question
 moved.
 
@@ -366,8 +372,8 @@ sitting on failed, and the ice went with it. Shugar: a big
 bedrock failure that took part of the glacier with it. Cook:
 the rock collapsed; the glacier was cargo.
 
-That is initiation, restated with more detail. A tighter what,
-not a new villain.
+That is initiation, restated with more detail. A tighter
+***what***, not a new villain.
 
 The rest of the chain still separates:
 
@@ -403,9 +409,9 @@ Thursday's leftover is "why did that rock slab fail, taking ice
 with it?" The first gap was retired, not answered. The first
 question was aimed at the wrong object.
 
-This is the reopen rule with a receipt. Spending the known
-deleted ice-only as the whole start. It did not license a new
-story about the last increment.
+This is the reopen rule with a receipt. Using what was already
+known, fully, eliminated ice-only as the whole start. It did
+not license a new story about the last increment.
 
 ## 10. The tool split
 
@@ -461,8 +467,8 @@ frozen bound when a better trace arrives.
   parts that are not rivals?
 - What would a serious validation look like: blinded
   reconstructions against later official findings?
-- Where is the line between "spend the known" and "ignore an
-  uncomfortable unknown"?
+- Where is the line between "use what is already known,
+  fully" and "ignore an uncomfortable unknown"?
 - How much reconstruction log does a public tool show before it
   becomes a history of the news cycle rather than a bound
   event?
@@ -473,16 +479,18 @@ Pick one claim you met today. A headline, a Slack message, a
 family story, a diagnosis, a product promise. Write four
 lines:
 
-1. The what, as tightly as you can say it. Mark it settled,
-   provisional, or a first noun you might have cemented.
+1. The ***what***, as tightly as you can say it. Mark it
+   settled, provisional, or a first noun you might have
+   cemented.
 2. One mechanism the geometry, timing, or record already
    eliminates.
 3. The leftover gap, named as a question.
-4. Whether "how" or "who caused it?" is even the right
+4. Whether ***how*** or "who caused it?" is even the right
    question yet.
 
 If you cannot name the gap, you are not ready to invent. If
-you already have a how, check whether the what can bear it.
+you already have a ***how***, check whether the ***what*** can
+bear it.
 
 ## Changelog
 
@@ -494,3 +502,6 @@ you already have a how, check whether the what can bear it.
   removed from this tree. Method kept.
 - **2026-09-04:** Public draft on the site at `/paper`.
   Eliminate, not kill. Last Gap is a claim, not the name.
+  Object ***what*** and ***how*** marked. "Spend" retired for
+  "use what is already known, fully." The Thursday
+  interlocutor is an AI agent, not a product name.
