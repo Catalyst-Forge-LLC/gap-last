@@ -49,6 +49,7 @@
     "site:dev": "pnpm --dir site dev",
     "site:build": "pnpm --dir site run build",
     "site:deploy": "pnpm --dir site run ship",
+    "ship": "pnpm --dir site run ship",
     "prepublishOnly": "node -e \"console.error('Do not publish from this tree. Sam publishes.'); process.exit(1)\""
   },
   "engines": {

@@ -37,6 +37,7 @@ FilePress under `site/`. LocalSlip lease `gaplast-site` on 5200.
 ```bash
 pnpm site:dev
 pnpm site:build
+pnpm ship
 ```
 
 Sentence first on the homepage. The deed holds the nine-section order.

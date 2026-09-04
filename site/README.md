@@ -7,7 +7,10 @@ LocalSlip lease `gaplast-site` on 5200.
 pnpm install
 pnpm dev
 pnpm build    # → build/
+pnpm ship     # Cloudflare Pages project gaplast
 ```
+
+From the repo root, `pnpm ship` is the same command.
 
 Do not dump the nine reconstruction steps as the homepage hero.
 Sentence first. The deed holds the order. Do not generate the living
