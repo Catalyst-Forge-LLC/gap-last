@@ -10,16 +10,16 @@ You can do this without an account or an agent. The skill and the CLI keep the s
 
 For a person with no tool running:
 
-1. The what, as tightly as you can say it. Mark it.
+1. The ***what***, as tightly as you can say it. Mark it.
 2. One mechanism the geometry, timing, or record already kills.
 3. The leftover gap, named as a question.
-4. Whether "how" or "who caused it?" is even the right question yet.
+4. Whether ***how*** or "who caused it?" is even the right question yet.
 
 ## One-screen
 
 When you have one breath, or when `/full` prefixes the artifact:
 
-1. The what (bound), marked settled / provisional / first-noun risk.
+1. The ***what*** (bound), marked settled / provisional / first-noun risk.
 2. Stories already killed.
 3. Open gaps, as questions.
 4. If the bound moved: old leftover versus new leftover.
@@ -51,4 +51,4 @@ Use these in a conversation without running the whole file:
 - Is this a residual gap, or leftover storytelling?
 - Did a new trace move the object, and if so, what is the gap now?
 
-A shorter form: is that the what, or are you already on a how?
+A shorter form: is that the ***what***, or are you already on a ***how***?

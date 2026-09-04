@@ -30,6 +30,7 @@ not the user's traces.
 | points-at | Validator rule |
 | first noun | Cemented-what tell |
 | OODA | Named cousin, not a synonym |
+| ***what*** / ***how*** | The objects. Bold italic on site pages. Ordinary English stays plain. |
 
 ## Protected lines
 
@@ -42,7 +43,7 @@ Smell Check already protects:
 This project also protects:
 
 - Don't invent a cause until you can name the gap.
-- Pursue the "how" at your folly if you fail to frame the correct "what".
+- Pursue the ***how*** at your folly if you fail to frame the correct ***what***.
 - The prohibition is the product.
 - A parent, a patient, a founder, and an agent meet the same shape: something arrived, you did not get to rerun it, and a story is already forming.
 - The four lines (GENESIS §10.2), verbatim.

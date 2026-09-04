@@ -8,14 +8,14 @@ order: 0
 
 Bound the thing. Spend what is already known. Name the leftover gaps. Only then invent a cause, a theory, or a next question.
 
-> Pursue the "how" at your folly if you fail to frame the correct "what".
+> Pursue the ***how*** at your folly if you fail to frame the correct ***what***.
 
 ## Four lines, no tool required
 
-1. The what, as tightly as you can say it. Mark it.
+1. The ***what***, as tightly as you can say it. Mark it.
 2. One mechanism the geometry, timing, or record already kills.
 3. The leftover gap, named as a question.
-4. Whether "how" or "who caused it?" is even the right question yet.
+4. Whether ***how*** or "who caused it?" is even the right question yet.
 
 [The method](/method) · [Run the skill](/run) · [GitHub](https://github.com/Catalyst-Forge-LLC/gap-last)
 
