@@ -10,8 +10,8 @@ export default defineFilepressConfig({
   tagline: "Don't invent a cause until you can name the gap.",
   url: "https://gaplast.dev",
   author: "Catalyst Forge LLC",
-  logo: "/logo.svg",
-  ogImage: "/logo.svg",
+  logo: "/logo.png",
+  ogImage: "/logo.png",
   homePage: "home",
   nav: [
     { label: "Home", href: "/" },
