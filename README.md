@@ -1,16 +1,20 @@
 # Gap Last
 
-Don't invent a cause until you can name the gap.
+Reconstruct what happened before committing to an explanation.
 
 This folder is the instrument repo for **Gap Last** (method:
 constraint-first reconstruction). Start at [`GENESIS.md`](GENESIS.md).
 Run the skill from [`skills/gaplast/SKILL.md`](skills/gaplast/SKILL.md).
 Method sources live in [`docs/`](docs/).
 
-Site (held, not live): [gaplast.dev](https://gaplast.dev).
-npm name hold: [`gaplast`](https://www.npmjs.com/package/gaplast).
-This tree is MIT and **private** until Sam publishes. Do not publish
-from an agent.
+Site: [gaplast.dev](https://gaplast.dev).
+Rechecked 10 September 2026: npm [`gaplast`](https://www.npmjs.com/package/gaplast)
+is still version `0.0.0`, description “Name hold.” The usable product is
+the skill in this repo, not that package. This tree is MIT and **private**
+until Sam publishes. Do not publish from an agent.
+
+A labeled ordinary incident (intermittent CI unlink) is on the
+[site home](https://gaplast.dev).
 
 ## CLI
 

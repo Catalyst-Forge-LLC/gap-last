@@ -2,16 +2,16 @@
 name: gaplast
 description: >-
   Constraint-first reconstruction. Bound the event, use the known
-  fully, name leftover gaps, invent only there. Use when someone wants a
-  cause, a villain, a theory, a postmortem, or "what happened" for
-  something they did not get to rerun. Commands: /bound /hoop /gap
-  /reopen /full. Not for proofs, controlled experiments, or OODA-time
-  action against an opponent.
+  fully, name leftover gaps, propose a hypothesis only there. Use when
+  someone wants a cause, a villain, a theory, a postmortem, or "what
+  happened" for something they did not get to rerun. Commands: /bound
+  /hoop /gap /reopen /full. Not for proofs, controlled experiments, or
+  OODA-time action against an opponent.
 ---
 
 # Gap Last
 
-Don't invent a cause until you can name the gap.
+Don't commit to a cause until you can name the gap.
 
 This file is a digest. It is not a second source of truth. If it
 conflicts with `docs/gap-last-tool-spec.md`, the spec wins. Method

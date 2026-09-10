@@ -1,6 +1,6 @@
 ---
 title: Constraint-first reconstruction
-description: Working draft of the Gap Last method paper. How to shrink the unknown before you invent it.
+description: Working draft of the Gap Last method paper. How to shrink the unknown before you commit to a cause.
 order: 4
 ---
 

@@ -1,12 +1,14 @@
 ---
 title: Run the skill
-description: Give an agent the folder so it keeps the Gap Last method. The CLI checks a reconstruction. It does not invent a cause.
+description: Give an agent the folder so it keeps the Gap Last method. The CLI checks a reconstruction. It does not propose a cause.
 order: 2
 ---
 
-The skill is a folder you give an agent so it keeps the [Gap Last method](/method). Get the folder into a skills directory, then ask it to reconstruct. The CLI in this repo checks a reconstruction file. It does not invent a cause.
+The skill is a folder you give an agent so it keeps the [Gap Last method](/method). Get the folder into a skills directory, then ask it to reconstruct. The CLI in this repo checks a reconstruction file. It does not call a model, and it does not propose a cause.
 
 Filling a file by hand is the [template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/reconstruction-template.md). That is writing the reconstruction, not installing the skill.
+
+The primary way to start is this page or the [GitHub repo](https://github.com/Catalyst-Forge-LLC/gap-last). Rechecked 10 September 2026: npm [`gaplast`](https://www.npmjs.com/package/gaplast) is a name hold (`0.0.0`). It does not contain this implementation.
 
 ## Download the ZIP
 
@@ -24,15 +26,9 @@ git clone https://github.com/Catalyst-Forge-LLC/gap-last.git
 
 Copy `skills/gaplast/` from the clone into a skills directory.
 
-## Install from npm
+## npm is a reservation
 
-The ZIP or the clone is the way to get the skill today. After a real publish:
-
-```bash
-pnpm add -D gaplast
-```
-
-Copy `node_modules/gaplast/skills/gaplast/` into a skills directory.
+Do not `pnpm add gaplast` expecting the skill. After a real publish, this page will say so.
 
 ## Skills directories
 
@@ -46,7 +42,7 @@ The folder you drop in must be named `gaplast` and must contain `SKILL.md`.
 
 - Run Gap Last on this claim.
 - `/full` on this packet.
-- `/bound` only. Do not invent a cause.
+- `/bound` only. Do not propose a cause yet.
 - `/reopen` with this new trace.
 - Who caused it? (The skill reconstructs first.)
 
@@ -64,4 +60,4 @@ pnpm gaplast validate path/to/reconstruction.json
 pnpm gaplast path/to/reconstruction.json
 ```
 
-A raw packet that is not a reconstruction gets a thin open bound and no hypotheses. No cause is invented.
+A raw packet that is not a reconstruction gets a thin open bound and no hypotheses. No cause is proposed.

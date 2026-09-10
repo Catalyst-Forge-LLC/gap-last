@@ -1,14 +1,16 @@
 ---
 title: Method
-description: The Gap Last method. Say what happened. Use what is already known, fully. Name what is still unknown. Only then invent a cause, and only for the question you named.
+description: The Gap Last method. Say what happened. Use what is already known, fully. Name what is still unknown. Only then propose a hypothesis, and only for the question you named.
 order: 1
 ---
 
 The **Gap Last method** is what you do when something arrived, you did not get to rerun it, and a story is already forming. You can do this without an account or an agent. The skill and the CLI keep the same order. The formal name is **constraint-first reconstruction**. A [working draft of the method paper](/paper) is here if you want the longer argument.
 
-Say ***what*** happened as tightly as the evidence allows, and mark how sure you are. Use what is already known, fully: the geometry, the timing, what the record can and cannot show. Name what is still unknown, as a question. Only then propose a cause, and only for the question you named. When better evidence arrives, expect the question to move, and let it.
+Say ***what*** happened as tightly as the evidence allows, and mark how sure you are. Use what is already known, fully: the geometry, the timing, what the record can and cannot show. Name what is still unknown, as a question. Only then propose a hypothesis, and only for the question you named. When better evidence arrives, expect the question to move, and let it.
 
-The order exists so a thin cause does not aim the next warning system, or the next mitigation, at the wrong object. Someone will build those on whatever cause you write down.
+The order is a reasoning safeguard. A thin cause aims the next warning system, or the next fix, at the wrong object. Someone will build those on whatever cause you write down. The method does not promise that a causal account will always be available.
+
+A labeled ordinary incident, an intermittent CI unlink, is on the [home page](/).
 
 ## Four lines
 
@@ -38,13 +40,27 @@ When you want the work to stay, you fill a file. Nine sections, that order only.
 2. Fact layers. What you can settle, what is still provisional, what is open.
 3. Causal chain. What started it, what carried it, who stood in its path, what anyone did after.
 4. Hoop failures. Stories the traces already eliminate.
-5. Named residual gaps. The leftover questions. The only places a new cause may stand.
+5. Named residual gaps. The leftover questions. The only places a new hypothesis may stand.
 6. Allowed hypotheses. Only those that answer a named leftover question.
 7. Discriminating traces. What would settle a question if it arrived.
 8. Remainder. What is still unknown, stated as a result.
 9. Reconstruction log. If later evidence changed the object: old question, new question.
 
 [Template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/reconstruction-template.md).
+
+### Excerpt from the desk-stamp incident
+
+Illustrative. Same fictional CI flake as the [home page](/).
+
+**Bound event.** `pnpm test` returned `EPERM: unlink dist/cli.js` on two of three GitHub Actions runs for commit `a1b2c3`, 8 September 2026.
+
+**Hoop failure.** “The test file is wrong” is eliminated. Local and the third run used the same tests.
+
+**Named residual gap.** Why did unlink fail on two of three Actions runs for the same commit?
+
+**Allowed hypothesis.** Leftover `dist/` on a reused runner. Points at that gap only.
+
+**Discriminating trace.** The next failure’s log shows `dist/` present before `tsc`.
 
 A flood, a death, a failed launch, a family story: each is a chain, and each link asks a different question. Early stories press those questions into one. The file keeps them apart.
 

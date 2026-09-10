@@ -1,13 +1,12 @@
 import { defineFilepressConfig } from "getfilepress";
 
 const github = "https://github.com/Catalyst-Forge-LLC/gap-last";
-const npm = "https://www.npmjs.com/package/gaplast";
 
 export default defineFilepressConfig({
   title: "Gap Last",
   description:
-    "Don't invent a cause until you can name the gap. Stay with what happened long enough to name what is still unknown, so the next similar event is not met with the last wrong story.",
-  tagline: "Don't invent a cause until you can name the gap.",
+    "Reconstruct what happened before committing to an explanation. Stay with what happened long enough to name what is still unknown, so the next similar event is not met with the last wrong story.",
+  tagline: "Don't commit to a cause until you can name the gap.",
   url: "https://gaplast.dev",
   author: "Catalyst Forge LLC",
   logo: "/logo.png",
@@ -27,7 +26,7 @@ export default defineFilepressConfig({
     { label: "Method", href: "/method" },
     { label: "Paper", href: "/paper" },
     { label: "Run", href: "/run" },
-    { label: "npm", href: npm },
+    { label: "Skill", href: "/run" },
     { label: "GitHub", href: github, icon: "github" },
   ],
   topics: [],

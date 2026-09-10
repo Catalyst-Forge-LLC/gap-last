@@ -1,38 +1,71 @@
 ---
-title: Don't invent a cause until you can name the gap.
-description: Something arrived. You did not get to rerun it. A story is already forming. The Gap Last method is that pause, written down, so the next similar event is not met with the last wrong story.
+title: Reconstruct what happened before committing to an explanation.
+description: Reconstruct what happened before committing to an explanation. Gap Last separates observations, constraints, and unresolved questions, then proposes hypotheses that address the remaining gap.
 order: 0
 ---
 
-Something arrived. You did not get to rerun it. A story is already forming.
+A test failed twice on CI, passed locally, and passed on the third Actions run with no code change. A story is already forming. Gap Last is the pause that writes down what you observed, what you can already rule out, and what is still unknown, before you commit to a cause.
 
-**Gap Last** is a way to stay with ***what*** happened long enough to name what is still unknown, and only then invent a cause. The formal name is **constraint-first reconstruction**. You can use the Gap Last method without reading a paper. A [working draft of that paper](/paper) is here if you want the longer argument.
+The formal name is **constraint-first reconstruction**. You can use the four-line exercise without a paper, an account, or an agent.
 
-Say ***what*** happened as tightly as the evidence allows, and mark how sure you are. Use what is already known, fully: the geometry, the timing, what the record can and cannot show. Name what is still unknown, as a question. Only then propose a cause, and only for the question you named. When better evidence arrives, expect the question to move, and let it.
+## A worked incident (illustrative)
 
-This exists so the next warning system, the next treatment, the next fix aims at the right object. Someone will build those on whatever cause gets written down. A cause aimed at the wrong object leaves people as exposed as before, with the added harm of believing they are not.
+Fictional weekend CLI, **desk-stamp**. Labeled example, not a scientific validation of the method.
 
-> Pursue the ***how*** at your folly if you fail to frame the correct ***what***.
+**Observed**
+
+- `pnpm test` failed twice on GitHub Actions `ubuntu-latest` at 09:14 and 09:31 on 8 September 2026.
+- The same commit passed locally on Windows.
+- The error was `EPERM: unlink dist/cli.js`.
+- The third Actions run passed. No source change.
+
+**Eliminated**
+
+- “The test file is wrong.” Local and the third run used the same tests.
+
+**Remaining question**
+
+- Why did unlink fail on two of three Actions runs for the same commit?
+
+**Candidate hypothesis**
+
+- A leftover `dist/` from a previous job on a reused runner.
+
+**What would distinguish it**
+
+- The next failure’s Actions log showing `dist/` already present before `tsc`.
+
+The hypothesis is not the established cause. It is a candidate that answers the named question.
 
 ## Four lines, no tool required
 
-1. The ***what***, as tightly as you can say it. Mark it.
+1. The ***what***, as tightly as you can say it. Mark how sure you are.
 2. One mechanism the geometry, timing, or record already eliminates.
 3. The leftover gap, named as a question.
-4. Whether ***how*** or "who caused it?" is even the right question yet.
+4. Whether ***how*** or “who caused it?” is even the right question yet.
+
+Those four lines are the pocket exercise. When you want the work to stay, fill the [nine-section reconstruction](/method). The skill keeps an agent in that order. The CLI in this repo checks a reconstruction file. It does not call a model.
 
 [The Gap Last method](/method) · [Run the skill](/run) · [GitHub](https://github.com/Catalyst-Forge-LLC/gap-last)
 
-## Do not start with who caused it
+## Get the skill, not the name hold
 
-If that is the first question, reconstruct first. The prohibition is the product.
+The usable product is the [skill folder](/run) and this [repository](https://github.com/Catalyst-Forge-LLC/gap-last). Rechecked 10 September 2026: npm [`gaplast`](https://www.npmjs.com/package/gaplast) is still version `0.0.0`, description “Name hold.” Do not treat that package as the implementation.
 
-A parent, a patient, a founder, and an agent all face the same situation: something arrived, you did not get to rerun it, and a story is already forming.
+## What the pieces are for
 
-The week that named this is a late-August 2026 flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved). The Gap Last method is what happened there, written down so it can continue to happen on purpose, and so the next warning system, the next treatment, the next fix aims at the right object.
+| Piece | Job |
+| --- | --- |
+| Four-line exercise | A conversation or a sticky note |
+| Nine-section file | The artifact you keep. Outline and a filled excerpt: [Method](/method) |
+| Skill | An agent follows the same order |
+| CLI | Validates or emits the file. No model call |
+| [Working paper](/paper) | The longer argument. Not required to start |
 
-The name is Gap Last, not Last Gap. Naming a leftover question is not the same as knowing you have the last one. A later trace can move the question. Treating the gap you named as closed, when you do not yet know enough to say so, is the same thin move the method exists to stop.
+The week that named this is a late-August 2026 flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved). You do not need that event to begin.
 
-Chesterton's Fence is older, and related. It says find out why the fence stands before you clear it away. Gap Last stands on [the other side of that fence](/posts/2026-09-04-the-other-side-of-chestertons-fence): name the gap before you build one. Both refuse a cause invented ahead of the question.
+The name is Gap Last, not Last Gap. Naming a leftover question is not the same as knowing you have the last one. A later trace can move the question.
+
+Chesterton's Fence says find out why the fence stands before you clear it away. Gap Last stands on [the other side of that fence](/posts/2026-09-04-the-other-side-of-chestertons-fence): name the gap before you build one. Both refuse a cause written down ahead of the question.
 
 Built by [Catalyst Forge LLC](https://www.catalystforge.com). MIT.
