@@ -6,7 +6,10 @@ function bullets(items: string[]): string {
 }
 
 function cell(value: string | undefined): string {
-  return (value ?? "").replace(/\|/g, "\\|").replace(/\n/g, " ");
+  return (value ?? "")
+    .replace(/\\/g, "\\\\")
+    .replace(/\|/g, "\\|")
+    .replace(/\n/g, " ");
 }
 
 export function renderReconstruction(reconstruction: Reconstruction): string {

@@ -78,8 +78,24 @@ function asLayer(value: string): FactLayer {
   return "open";
 }
 
+function reconstructionTitle(markdown: string): string | undefined {
+  for (const line of markdown.split(/\r?\n/)) {
+    if (!line.startsWith("#")) continue;
+    let i = 1;
+    if (i >= line.length || (line[i] !== " " && line[i] !== "\t")) continue;
+    while (i < line.length && (line[i] === " " || line[i] === "\t")) i += 1;
+    const rest = line.slice(i);
+    const prefix = "Reconstruction:";
+    if (!rest.startsWith(prefix)) continue;
+    let j = prefix.length;
+    while (j < rest.length && (rest[j] === " " || rest[j] === "\t")) j += 1;
+    const title = rest.slice(j).trim();
+    if (title) return title;
+  }
+  return undefined;
+}
+
 export function parseReconstructionMarkdown(markdown: string): Reconstruction {
-  const titleMatch = markdown.match(/^#\s+Reconstruction:\s*(.+)$/m);
   const h2 = splitByHeading(markdown, 2);
   const boundSection = h2.get("bound event") ?? "";
   const layersSection = h2.get("fact layers") ?? "";
@@ -113,7 +129,7 @@ export function parseReconstructionMarkdown(markdown: string): Reconstruction {
   }
 
   return {
-    title: titleMatch?.[1]?.trim(),
+    title: reconstructionTitle(markdown),
     summary: summarySection
       ? {
           what: field(summarySection, "What"),
