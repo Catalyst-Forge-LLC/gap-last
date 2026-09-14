@@ -28,7 +28,7 @@ Chesterton's Fence is older, and related. It says find out why the fence stands 
 
 If you can run the experiment, run it. If you can prove the theorem, prove it. If the bottleneck is sampling, do the statistics. Those are later steps, not the starting posture.
 
-The order, at three lengths, is on [the Gap Last method](/method). To put the skill in an agent, or to fill a file by hand, see [Run](/run).
+The order, at three lengths, is on [the Gap Last method](/method). The four-line exercise on the [home page](/) needs no install. To put the skill in an agent, see [Install in your agent](/run).
 
 - Method: the Gap Last method (formal name: constraint-first reconstruction)
 - Draft paper: [constraint-first reconstruction](/paper)

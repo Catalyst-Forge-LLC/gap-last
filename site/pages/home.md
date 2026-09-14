@@ -44,23 +44,22 @@ The hypothesis is not the established cause. It is a candidate that answers the 
 3. The leftover gap, named as a question.
 4. Whether ***how*** or “who caused it?” is even the right question yet.
 
-Those four lines are the pocket exercise. When you want the work to stay, fill the [nine-section reconstruction](/method). The skill keeps an agent in that order. The CLI in this repo checks a reconstruction file. It does not call a model.
+Those four lines are the start. When you want the work to stay, fill the [nine-section reconstruction](/method). When you want an agent to keep that order, [install the skill in your agent](/run). The CLI in this repo checks a reconstruction file. It does not call a model.
 
-[The Gap Last method](/method) · [Run the skill](/run) · [GitHub](https://github.com/Catalyst-Forge-LLC/gap-last)
-
-## Get the skill, not the name hold
-
-The usable product is the [skill folder](/run) and this [repository](https://github.com/Catalyst-Forge-LLC/gap-last). Rechecked 10 September 2026: npm [`gaplast`](https://www.npmjs.com/package/gaplast) is still version `0.0.0`, description “Name hold.” Do not treat that package as the implementation.
+[The Gap Last method](/method) · [Install in your agent](/run) · [Posts](/posts) · [GitHub](https://github.com/Catalyst-Forge-LLC/gap-last)
 
 ## What the pieces are for
 
 | Piece | Job |
 | --- | --- |
-| Four-line exercise | A conversation or a sticky note |
+| Four-line exercise | A conversation or a sticky note. No install. |
 | Nine-section file | The artifact you keep. Outline and a filled excerpt: [Method](/method) |
-| Skill | An agent follows the same order |
+| Skill | An agent follows the same order. [Install in your agent](/run) |
 | CLI | Validates or emits the file. No model call |
 | [Working paper](/paper) | The longer argument. Not required to start |
+| [Posts](/posts) | Langtang, and the other side of Chesterton's Fence |
+
+npm [`gaplast`](https://www.npmjs.com/package/gaplast) is a name hold (`0.0.0`, rechecked 10 September 2026). It does not contain this implementation. Do not `pnpm add gaplast` expecting the skill or the CLI.
 
 The week that named this is a late-August 2026 flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved). You do not need that event to begin.
 

@@ -8,13 +8,24 @@ Run the skill from [`skills/gaplast/SKILL.md`](skills/gaplast/SKILL.md).
 Method sources live in [`docs/`](docs/).
 
 Site: [gaplast.dev](https://gaplast.dev).
+The four-line exercise on the home page needs no install. The skill
+keeps that order in an agent:
+[gaplast.dev/run](https://gaplast.dev/run).
+
+- [Cursor](https://gaplast.dev/run#cursor)
+- [Claude Code](https://gaplast.dev/run#claude-code)
+- [Claude.ai](https://gaplast.dev/run#claudeai)
+
 Rechecked 10 September 2026: npm [`gaplast`](https://www.npmjs.com/package/gaplast)
 is still version `0.0.0`, description “Name hold.” The usable product is
-the skill in this repo, not that package. This tree is MIT and **private**
-until Sam publishes. Do not publish from an agent.
+the method, the skill in this repo, and the CLI — not that package.
+This tree is MIT and **private** until Sam publishes. Do not publish
+from an agent.
 
 A labeled ordinary incident (intermittent CI unlink) is on the
-[site home](https://gaplast.dev).
+[site home](https://gaplast.dev). Posts stay on the site:
+[Langtang](https://gaplast.dev/posts/2026-08-31-langtang-the-bound-moved)
+and [the other side of Chesterton's Fence](https://gaplast.dev/posts/2026-09-04-the-other-side-of-chestertons-fence).
 
 ## CLI
 
@@ -45,5 +56,6 @@ pnpm ship
 ```
 
 Sentence first on the homepage. Method holds the nine-section order.
-The living spec and paper stay in `docs/` for the instrument. They are
-not site pages. Do not publish to npm from an agent.
+Posts stay under `site/posts/`. The living spec and paper stay in
+`docs/` for the instrument. They are not site pages. Do not publish
+to npm from an agent.
