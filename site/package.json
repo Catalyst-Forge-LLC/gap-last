@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "sync": "node ../scripts/sync-skill-static.mjs && node ../scripts/sync-paper-page.mjs",
-    "dev": "pnpm sync && node ../scripts/ensure-lease.mjs gaplast-site 5200 && filepress dev --host 0.0.0.0",
+    "dev": "pnpm sync && localslip claim gaplast-site --port 5200 && filepress dev --host 0.0.0.0",
     "build": "pnpm sync && filepress build",
     "preview": "filepress preview",
     "check": "filepress check",
