@@ -1,21 +1,42 @@
 #!/usr/bin/env node
 /**
  * Copy skills/gaplast to the site static tree and write a STORE zip.
+ * Required members: SKILL.md, references/gap-last-tool-spec.md,
+ * references/reconstruction-template.md.
  */
 import {
+  cpSync,
   mkdirSync,
+  readdirSync,
   readFileSync,
   rmSync,
+  statSync,
   writeFileSync,
 } from "node:fs";
-import { dirname, join } from "node:path";
+import { dirname, join, relative } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const skillName = "gaplast";
-const skillSrc = join(root, "skills", skillName, "SKILL.md");
+const skillSrc = join(root, "skills", skillName);
 const siteSkillDir = join(root, "site", "static", "skills", skillName);
 const siteZipPath = join(root, "site", "static", "skills", `${skillName}.zip`);
+
+const requiredMembers = [
+  "SKILL.md",
+  "references/gap-last-tool-spec.md",
+  "references/reconstruction-template.md",
+];
+
+function walk(dir) {
+  const out = [];
+  for (const name of readdirSync(dir)) {
+    const full = join(dir, name);
+    if (statSync(full).isDirectory()) out.push(...walk(full));
+    else out.push(full);
+  }
+  return out;
+}
 
 function crc32(buf) {
   let c = 0xffffffff;
@@ -88,9 +109,21 @@ function writeStoreZip(entries, destPath) {
   writeFileSync(destPath, Buffer.concat([...locals, ...centrals, eocd]));
 }
 
-const skill = readFileSync(skillSrc);
+for (const member of requiredMembers) {
+  const full = join(skillSrc, member);
+  if (!statSync(full, { throwIfNoEntry: false })?.isFile()) {
+    console.error(`Missing required skill member: ${member}`);
+    process.exit(1);
+  }
+}
+
 rmSync(siteSkillDir, { recursive: true, force: true });
-mkdirSync(siteSkillDir, { recursive: true });
-writeFileSync(join(siteSkillDir, "SKILL.md"), skill);
+cpSync(skillSrc, siteSkillDir, { recursive: true });
+
+const files = walk(skillSrc);
+const zipEntries = files.map((full) => ({
+  name: `${skillName}/${relative(skillSrc, full).replace(/\\/g, "/")}`,
+  data: readFileSync(full),
+}));
 mkdirSync(dirname(siteZipPath), { recursive: true });
-writeStoreZip([{ name: `${skillName}/SKILL.md`, data: skill }], siteZipPath);
+writeStoreZip(zipEntries, siteZipPath);

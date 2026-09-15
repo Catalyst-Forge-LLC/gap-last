@@ -54,7 +54,7 @@ Illustrative. Same fictional CI flake as the [home page](/).
 
 **Bound event.** `pnpm test` returned `EPERM: unlink dist/cli.js` on two of three GitHub Actions runs for commit `a1b2c3`, 8 September 2026.
 
-**Hoop failure.** “The test file is wrong” is eliminated. Local and the third run used the same tests.
+**Hoop failure.** “The committed test source changed between the failing and passing runs” is eliminated: the same commit was used locally and on all three Actions runs. That does not eliminate a flaky or environment-sensitive test. If nothing yet contradicts a story, write “none yet justified.”
 
 **Named residual gap.** Why did unlink fail on two of three Actions runs for the same commit?
 

@@ -10,15 +10,24 @@ Filling a file by hand uses the [template](https://github.com/Catalyst-Forge-LLC
 
 The CLI in this repo checks a reconstruction file. It does not call a model, and it does not propose a cause.
 
-npm [`gaplast`](https://www.npmjs.com/package/gaplast) is a name hold (`0.0.0`). It does not contain this implementation.
+npm [`gaplast`](https://www.npmjs.com/package/gaplast) is a name hold (`0.0.0`). It does not contain this implementation. Do not install that package expecting the skill.
+
+## Supported hosts
+
+| Host | Scope | Required | Notes |
+| --- | --- | --- | --- |
+| Cursor | Project or user skills folder | Readable skill folder | Host listing / discovery not independently verified in this docs pass |
+| Claude Code | Project or `~/.claude/skills/` | Readable skill folder | Same |
+| Claude.ai | Uploaded skill zip | Chat | Same |
+| Other agents that read `SKILL.md` | Manual copy | Readable skill folder | Unverified; follow that host’s skill docs |
+
+A folder on disk is not proof the agent loaded the skill. Prefer the host’s skill list or a visible file-read of `SKILL.md`. A plausible reconstruction alone does not prove loading.
 
 ## Which agent do you use?
 
 - [Cursor](#cursor)
 - [Claude Code](#claude-code)
 - [Claude.ai](#claudeai)
-
-A folder on disk is not proof the agent found the skill. The first run below is the check.
 
 ## Cursor
 
@@ -28,7 +37,7 @@ Download [gaplast.zip](/skills/gaplast.zip).
 
 ### Add it
 
-Unzip it. You should see `SKILL.md`.
+Unzip it. You should see `SKILL.md` and a `references/` folder with the tool spec and reconstruction template.
 
 Put that folder in the project you are reconstructing:
 
@@ -38,27 +47,29 @@ Put that folder in the project you are reconstructing:
 
 ### Confirm it
 
-Ask Cursor to use Gap Last on the incident below. If it writes observations, what is already eliminated, and a leftover question *before* a cause, it found the skill.
+If Cursor lists installed skills, confirm `gaplast` is listed. Otherwise ask it to open `SKILL.md` from that folder and quote the first heading. A model’s unsupported “yes, loaded” is not independent proof.
 
 ### Try it
 
 Paste this packet, then ask:
 
-> Use Gap Last on this claim. Follow the installed Gap Last skill. Reconstruct first. Do not name a cause until you have named the gap.
+> Use Gap Last on this claim. Follow the installed Gap Last skill. Reconstruct first. Do not name a cause until you have named the gap. “None yet justified” is allowed for eliminations and hypotheses.
 >
 > `pnpm test` failed twice on GitHub Actions `ubuntu-latest` at 09:14 and 09:31 on 8 September 2026. The same commit passed locally on Windows. The error was `EPERM: unlink dist/cli.js`. The third Actions run passed. No source change.
 
 ### Find the result
 
-Success looks like this shape, not identical wording from every model:
+The reconstruction appears in chat by default. Success looks like this shape, not identical wording from every model:
 
 - What was observed, marked for certainty
-- At least one mechanism already eliminated
+- Eliminations only when an observation contradicts them — or an explicit “none yet justified”
 - A leftover gap, named as a question
-- A candidate hypothesis only for that question, if one is allowed
+- A candidate hypothesis only for that question, if one is allowed — or none
 - No “who caused it?” as the first move
 
-The hypothesis is not the established cause.
+That the example behaved is not the same check as discovery. The hypothesis is not the established cause.
+
+When you want a durable file, ask for a named Markdown path that matches the template headings.
 
 ## Claude Code
 
@@ -68,7 +79,9 @@ Download [gaplast.zip](/skills/gaplast.zip).
 
 ### Add it
 
-Unzip, then put the folder in the repo:
+Unzip it. You should see `SKILL.md` and a `references/` folder.
+
+Put the folder in the repo:
 
 `.claude/skills/gaplast/`
 
@@ -76,15 +89,19 @@ Unzip, then put the folder in the repo:
 
 ### Confirm it
 
-Same check as Cursor: observations, eliminations, and a named gap before a cause.
+If Claude Code lists skills, confirm `gaplast`. Otherwise ask it to open `SKILL.md` from that folder and quote the first heading.
 
 ### Try it
 
-Same request as [Cursor](#try-it).
+Paste this packet, then ask:
+
+> Use Gap Last on this claim. Follow the installed Gap Last skill. Reconstruct first. Do not name a cause until you have named the gap. “None yet justified” is allowed for eliminations and hypotheses.
+>
+> `pnpm test` failed twice on GitHub Actions `ubuntu-latest` at 09:14 and 09:31 on 8 September 2026. The same commit passed locally on Windows. The error was `EPERM: unlink dist/cli.js`. The third Actions run passed. No source change.
 
 ### Find the result
 
-Same shape as [Cursor](#find-the-result). When you want the work to stay, ask for the nine-section file.
+The reconstruction appears in chat by default. Look for observations, justified eliminations or “none yet justified,” a named leftover gap, and no early cause. Optional: ask for a named Markdown file using the template headings.
 
 ## Claude.ai
 
@@ -94,34 +111,42 @@ Download [gaplast.zip](/skills/gaplast.zip).
 
 ### Add it
 
-Do not unzip. Open Settings → Customize → Skills and upload the zip.
+Do not unzip. Open Settings → Customize → Skills and upload the zip. The archive must include `SKILL.md` and `references/`.
 
 ### Confirm it
 
-Start a chat and run the request below. If the agent reconstructs before it explains, it loaded the skill.
+If the product shows installed skills, confirm `gaplast`. Otherwise ask the chat to summarize what the Gap Last skill requires before naming a cause.
 
 ### Try it
 
-Same packet and request as [Cursor](#try-it).
+Paste this packet, then ask:
+
+> Use Gap Last on this claim. Follow the installed Gap Last skill. Reconstruct first. Do not name a cause until you have named the gap. “None yet justified” is allowed for eliminations and hypotheses.
+>
+> `pnpm test` failed twice on GitHub Actions `ubuntu-latest` at 09:14 and 09:31 on 8 September 2026. The same commit passed locally on Windows. The error was `EPERM: unlink dist/cli.js`. The third Actions run passed. No source change.
 
 ### Find the result
 
-The reconstruction appears in the chat.
+The reconstruction appears in the chat. Look for observations, justified eliminations or “none yet justified,” and a named leftover gap before any cause.
 
 ## After the reconstruction
 
-There is no apply skill. Read the leftover question. A later trace can move it. `/reopen` is for new evidence, not for swapping in a preferred cause.
+There is no apply skill. Read the leftover question. A later trace can move it. Asking to reopen with new evidence is for new traces, not for swapping in a preferred cause.
+
+### Update or remove
+
+Replace the installed `gaplast` folder (or re-upload the zip) to update. Delete that folder or remove the uploaded skill to uninstall. Copied skills do not refresh when an npm package changes. This product’s npm name is a reservation anyway.
 
 ## Other ways to ask
 
-Once the first run works:
+Once the first run works, you can say:
 
-- `/full` on this packet.
-- `/bound` only. Do not propose a cause yet.
-- `/reopen` with this new trace.
+- Run a full reconstruction on this packet.
+- Bound only. Do not propose a cause yet.
+- Reopen with this new trace.
 - Who caused it? (The skill reconstructs first.)
 
-Those are later shortcuts. They are not the install check.
+Slash forms such as `/full`, `/bound`, and `/reopen` are protocol requests inside the skill. They are not registered host commands unless your host registers them. Natural language is enough. Those are later shortcuts. They are not the install check.
 
 ## What it does not run on
 
@@ -139,7 +164,7 @@ The [template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/r
 git clone https://github.com/Catalyst-Forge-LLC/gap-last.git
 ```
 
-Copy `skills/gaplast/` into the same destination you would use above.
+Copy `skills/gaplast/` into the same destination you would use above. That folder already includes `references/`.
 
 ### CLI
 
@@ -162,4 +187,4 @@ Do not `pnpm add gaplast` expecting the skill or the CLI. After a real publish, 
 - Cursor: `~/.cursor/skills/gaplast/`
 - Claude Code: `~/.claude/skills/gaplast/`
 
-Same folder shape. The first-run check is the same.
+Same folder shape. Discovery and first-use checks are the same.

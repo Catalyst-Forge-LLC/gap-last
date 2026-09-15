@@ -2,30 +2,23 @@
 
 Reconstruct what happened before committing to an explanation.
 
-This folder is the instrument repo for **Gap Last** (method:
-constraint-first reconstruction). Start at [`GENESIS.md`](GENESIS.md).
-Run the skill from [`skills/gaplast/SKILL.md`](skills/gaplast/SKILL.md).
-Method sources live in [`docs/`](docs/).
+## Install in your agent
 
-Site: [gaplast.dev](https://gaplast.dev).
-The four-line exercise on the home page needs no install. The skill
-keeps that order in an agent:
-[gaplast.dev/run](https://gaplast.dev/run).
+1. Download [gaplast.zip](https://gaplast.dev/skills/gaplast.zip) (includes `SKILL.md` and `references/`).
+2. Put the folder where your agent reads skills (`.cursor/skills/gaplast/`, `.claude/skills/gaplast/`, or upload the zip on Claude.ai).
+3. Ask:
 
-- [Cursor](https://gaplast.dev/run#cursor)
-- [Claude Code](https://gaplast.dev/run#claude-code)
-- [Claude.ai](https://gaplast.dev/run#claudeai)
+> Use Gap Last on this claim. Follow the installed Gap Last skill. Reconstruct first. Do not name a cause until you have named the gap. “None yet justified” is allowed.
+>
+> `pnpm test` failed twice on GitHub Actions `ubuntu-latest` at 09:14 and 09:31 on 8 September 2026. The same commit passed locally on Windows. The error was `EPERM: unlink dist/cli.js`. The third Actions run passed. No source change.
 
-Rechecked 10 September 2026: npm [`gaplast`](https://www.npmjs.com/package/gaplast)
-is still version `0.0.0`, description “Name hold.” The usable product is
-the method, the skill in this repo, and the CLI — not that package.
-This tree is MIT and **private** until Sam publishes. Do not publish
-from an agent.
+Full host routes: [gaplast.dev/run](https://gaplast.dev/run).
 
-A labeled ordinary incident (intermittent CI unlink) is on the
-[site home](https://gaplast.dev). Posts stay on the site:
-[Langtang](https://gaplast.dev/posts/2026-08-31-langtang-the-bound-moved)
-and [the other side of Chesterton's Fence](https://gaplast.dev/posts/2026-09-04-the-other-side-of-chestertons-fence).
+The four-line exercise on the [home page](https://gaplast.dev) needs no install. npm [`gaplast`](https://www.npmjs.com/package/gaplast) is a name hold (`0.0.0`). It does not contain this implementation.
+
+Skill source: [`skills/gaplast/SKILL.md`](skills/gaplast/SKILL.md). Method sources also live in [`docs/`](docs/). Builder notes: [`GENESIS.md`](GENESIS.md).
+
+Posts: [Langtang](https://gaplast.dev/posts/2026-08-31-langtang-the-bound-moved), [Chesterton's Fence](https://gaplast.dev/posts/2026-09-04-the-other-side-of-chestertons-fence).
 
 ## CLI
 

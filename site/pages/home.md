@@ -19,9 +19,11 @@ Fictional weekend CLI, **desk-stamp**. Labeled example, not a scientific validat
 - The error was `EPERM: unlink dist/cli.js`.
 - The third Actions run passed. No source change.
 
-**Eliminated**
+**Eliminated (only what the packet rules out)**
 
-- “The test file is wrong.” Local and the third run used the same tests.
+- “The committed test source changed between the failing and passing runs.” The same commit was used locally and on all three Actions runs.
+
+That does **not** eliminate a flaky test, an environment-sensitive test bug, or timing dependence. Passing once is not evidence that the test cannot be faulty. If nothing yet contradicts a story, write “none yet justified” rather than inventing an elimination.
 
 **Remaining question**
 
@@ -35,7 +37,7 @@ Fictional weekend CLI, **desk-stamp**. Labeled example, not a scientific validat
 
 - The next failure’s Actions log showing `dist/` already present before `tsc`.
 
-The hypothesis is not the established cause. It is a candidate that answers the named question.
+The hypothesis is not the established cause. It is a candidate that answers the named question. A thin packet may stop with observations, open questions, and no justified elimination or candidate.
 
 ## Four lines, no tool required
 

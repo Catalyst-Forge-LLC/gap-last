@@ -4,9 +4,10 @@ description: >-
   Constraint-first reconstruction. Bound the event, use the known
   fully, name leftover gaps, propose a hypothesis only there. Use when
   someone wants a cause, a villain, a theory, a postmortem, or "what
-  happened" for something they did not get to rerun. Commands: /bound
-  /hoop /gap /reopen /full. Not for proofs, controlled experiments, or
-  OODA-time action against an opponent.
+  happened" for something they did not get to rerun. Protocol requests:
+  /bound /hoop /gap /reopen /full (natural-language equivalents work).
+  Not for proofs, controlled experiments, or OODA-time action against
+  an opponent.
 ---
 
 # Gap Last
@@ -14,9 +15,12 @@ description: >-
 Don't commit to a cause until you can name the gap.
 
 This file is a digest. It is not a second source of truth. If it
-conflicts with `docs/gap-last-tool-spec.md`, the spec wins. Method
-paper: `docs/constraint-first-reconstruction.md`. Builder spec:
-`GENESIS.md`. Template: `docs/reconstruction-template.md`.
+conflicts with `references/gap-last-tool-spec.md`, the spec wins.
+Use the headings in `references/reconstruction-template.md`.
+
+Optional background (not required to run): the method paper and
+GENESIS live in the Gap Last repository. Do not treat absent repo
+files as higher authority than this installed folder.
 
 > Pursue the "how" at your folly if you fail to frame the correct
 > "what".
@@ -49,9 +53,13 @@ Say so and stop. Do not run `/full` as delay.
 If they do not name a command, run `/full`. If they only ask a stop
 question, answer that question. Do not dump nine sections.
 
+Slash names (`/bound`, `/full`, `/reopen`, …) are protocol requests
+in this skill. They are not registered host slash-commands unless the
+host actually registers them. Natural language is fine.
+
 ## Output order (only this order)
 
-Use the headings in `docs/reconstruction-template.md`.
+Use the headings in `references/reconstruction-template.md`.
 
 1. Bound event
 2. Fact layers: settled / provisional / still open
@@ -66,6 +74,11 @@ Use the headings in `docs/reconstruction-template.md`.
 A one-screen summary may sit above §1: the what, eliminated stories, open
 gaps, and whether the bound moved. It must not smuggle a hypothesis
 that is missing from §6.
+
+Eliminations must name the observation that contradicts them. “None
+yet justified” is a valid result. Do not invent an elimination to
+satisfy a checklist. Do not require a candidate hypothesis when none
+is justified.
 
 ## Commands
 
@@ -121,8 +134,16 @@ not de-smell the maxim. Smell-check this tool's prose, not the
 user's traces. The method is the pause written down so it can
 happen on purpose. The warning is why it exists.
 
-## Fixture
+## Default delivery
 
-Langtang Lirung packets live in `fixtures/`. Replay those when
-checking that `/reopen` moves the leftover. Do not invent a last-
-increment trigger the traces do not isolate.
+Return the reconstruction in chat. If the user names a Markdown
+destination and the host can write files, write that file using the
+template headings. Do not claim a file was saved when it was not.
+
+## Fixtures
+
+When the Gap Last repository is available, Langtang Lirung packets
+live in `fixtures/`. Replay those when checking that `/reopen` moves
+the leftover. Do not invent a last-increment trigger the traces do
+not isolate. The installed skill folder alone is enough for ordinary
+first use.

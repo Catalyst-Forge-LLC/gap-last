@@ -38,6 +38,7 @@
     "!dist/*.test.d.ts",
     "skills",
     "docs/reconstruction-template.md",
+    "docs/gap-last-tool-spec.md",
     "README.md",
     "LICENSE"
   ],
