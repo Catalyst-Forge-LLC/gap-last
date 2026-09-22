@@ -136,7 +136,7 @@ export function parseReconstructionMarkdown(markdown: string): Reconstruction {
           killed: field(summarySection, "Killed")
             .split(";")
             .map((item) => item.trim())
-            .filter((item) => item && item !== "none"),
+            .filter((item) => item && !/^none( yet justified)?$/i.test(item)),
           openGaps: field(summarySection, "Open gaps")
             .split(";")
             .map((item) => item.trim())

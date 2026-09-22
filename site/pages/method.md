@@ -17,7 +17,7 @@ A labeled ordinary incident, an intermittent CI unlink, is on the [home page](/)
 For a person with no tool running:
 
 1. The ***what***, as tightly as you can say it. Mark it.
-2. One mechanism the geometry, timing, or record already eliminates.
+2. What the evidence rules out, or “nothing yet.”
 3. The leftover gap, named as a question.
 4. Whether ***how*** or "who caused it?" is even the right question yet.
 
@@ -26,7 +26,7 @@ For a person with no tool running:
 When you have one breath, say four things and stop:
 
 1. What happened, and how sure you are.
-2. Stories the evidence already eliminates.
+2. Stories the evidence already eliminates, or “none yet justified.”
 3. What is still unknown, as questions.
 4. Whether later evidence moved the question.
 
@@ -39,7 +39,7 @@ When you want the work to stay, you fill a file. Nine sections, that order only.
 1. Bound event. What happened, where, when, at what scale.
 2. Fact layers. What you can settle, what is still provisional, what is open.
 3. Causal chain. What started it, what carried it, who stood in its path, what anyone did after.
-4. Hoop failures. Stories the traces already eliminate.
+4. Hoop failures. Stories the traces already eliminate, or “none yet justified.”
 5. Named residual gaps. The leftover questions. The only places a new hypothesis may stand.
 6. Allowed hypotheses. Only those that answer a named leftover question.
 7. Discriminating traces. What would settle a question if it arrived.

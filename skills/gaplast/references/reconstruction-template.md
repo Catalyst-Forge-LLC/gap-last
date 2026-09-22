@@ -55,6 +55,10 @@ moves the object, add a log entry and rewrite from the bound down.*
 
 ## 4. Hoop failures
 
+*List only stories an observation already eliminates. If none is
+justified yet, leave the table empty and write "none yet justified"
+under Killed in the summary. Do not invent an elimination.*
+
 | Mechanism killed | Constraint that kills it (geometry, timing, energy, record, location, incentive) |
 | --- | --- |
 |  |  |

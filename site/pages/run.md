@@ -62,9 +62,9 @@ Paste this packet, then ask:
 The reconstruction appears in chat by default. Success looks like this shape, not identical wording from every model:
 
 - What was observed, marked for certainty
-- Eliminations only when an observation contradicts them — or an explicit “none yet justified”
+- Eliminations only when an observation contradicts them, or an explicit “none yet justified”
 - A leftover gap, named as a question
-- A candidate hypothesis only for that question, if one is allowed — or none
+- A candidate hypothesis only for that question, if one is allowed, or none
 - No “who caused it?” as the first move
 
 That the example behaved is not the same check as discovery. The hypothesis is not the established cause.

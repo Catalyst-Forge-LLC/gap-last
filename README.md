@@ -8,7 +8,7 @@ Reconstruct what happened before committing to an explanation.
 2. Put the folder where your agent reads skills (`.cursor/skills/gaplast/`, `.claude/skills/gaplast/`, or upload the zip on Claude.ai).
 3. Ask:
 
-> Use Gap Last on this claim. Follow the installed Gap Last skill. Reconstruct first. Do not name a cause until you have named the gap. “None yet justified” is allowed.
+> Use Gap Last on this claim. Follow the installed Gap Last skill. Reconstruct first. Do not name a cause until you have named the gap. “None yet justified” is allowed for eliminations and hypotheses.
 >
 > `pnpm test` failed twice on GitHub Actions `ubuntu-latest` at 09:14 and 09:31 on 8 September 2026. The same commit passed locally on Windows. The error was `EPERM: unlink dist/cli.js`. The third Actions run passed. No source change.
 

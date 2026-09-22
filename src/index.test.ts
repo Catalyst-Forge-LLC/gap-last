@@ -208,6 +208,21 @@ test("JSON projection round-trips through markdown", () => {
   );
 });
 
+test("a reconstruction with no elimination is valid and says none yet justified", () => {
+  const noElimination: Reconstruction = {
+    ...wednesday,
+    summary: wednesday.summary && { ...wednesday.summary, killed: [] },
+    hoopFailures: [],
+  };
+  assert.equal(validateReconstruction(noElimination).ok, true);
+  const markdown = renderReconstruction(noElimination);
+  assert.match(markdown, /\*\*Killed:\*\* none yet justified/);
+  const parsed = parseReconstructionMarkdown(markdown);
+  assert.deepEqual(parsed.summary?.killed, []);
+  assert.deepEqual(parsed.hoopFailures, []);
+  assert.equal(validateReconstruction(parsed).ok, true);
+});
+
 test("raw who-caused-it packet emits a skeleton, not a winner", () => {
   const packet = readFileSync(
     join(root, "fixtures", "langtang-wednesday.md"),

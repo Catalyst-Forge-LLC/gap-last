@@ -19,7 +19,7 @@ Fictional weekend CLI, **desk-stamp**. Labeled example, not a scientific validat
 - The error was `EPERM: unlink dist/cli.js`.
 - The third Actions run passed. No source change.
 
-**Eliminated (only what the packet rules out)**
+**Eliminated (only what the evidence rules out)**
 
 - “The committed test source changed between the failing and passing runs.” The same commit was used locally and on all three Actions runs.
 
@@ -37,12 +37,12 @@ That does **not** eliminate a flaky test, an environment-sensitive test bug, or 
 
 - The next failure’s Actions log showing `dist/` already present before `tsc`.
 
-The hypothesis is not the established cause. It is a candidate that answers the named question. A thin packet may stop with observations, open questions, and no justified elimination or candidate.
+The hypothesis is not the established cause. It is a candidate that answers the named question. When the evidence is thin, the reconstruction may stop with observations, open questions, and no justified elimination or candidate.
 
 ## Four lines, no tool required
 
 1. The ***what***, as tightly as you can say it. Mark how sure you are.
-2. One mechanism the geometry, timing, or record already eliminates.
+2. What the evidence rules out, or “nothing yet.”
 3. The leftover gap, named as a question.
 4. Whether ***how*** or “who caused it?” is even the right question yet.
 
