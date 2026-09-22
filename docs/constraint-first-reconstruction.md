@@ -487,8 +487,7 @@ lines:
 1. The ***what***, as tightly as you can say it. Mark it
    settled, provisional, or a first noun you might have
    cemented.
-2. One mechanism the geometry, timing, or record already
-   eliminates.
+2. What the evidence rules out, or "nothing yet."
 3. The leftover gap, named as a question.
 4. Whether ***how*** or "who caused it?" is even the right
    question yet.
@@ -517,3 +516,6 @@ bear it.
 - **2026-09-04:** Dropped ornamental metaphors (elephant,
   summit, knife, trophy, wearing a noun). A first noun is
   almost never the object.
+- **2026-09-22:** Four lines, line 2 now allows "nothing yet."
+  An exercise should not demand an elimination the evidence
+  does not support.
