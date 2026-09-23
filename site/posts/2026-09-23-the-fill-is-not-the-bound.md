@@ -66,7 +66,7 @@ Sometimes you need a working explanation before more information is available. Y
 
 The trouble starts when a working guess loses its label and becomes something you claim to know.
 
-The name is Gap Last, not last gap. Naming one uncertainty doesn’t mean you’ve discovered every relevant unknown. It means you can see which gap you’re trying to fill.
+The name is [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap). Naming one uncertainty doesn’t mean you’ve discovered every relevant unknown. It means you can see which gap you’re trying to fill.
 
 These steps need curiosity to work. A person’s actions can have several causes, including ones you haven’t considered. The practice asks you to remain willing to learn something that changes your interpretation. Otherwise, it can become four steps taken on the way to the same predetermined verdict.
 

@@ -75,6 +75,6 @@ Use these in a conversation without running the whole file:
 - Is this a leftover question, or leftover storytelling?
 - Did new evidence move the object, and if so, what is the question now?
 - Is this an inherited fence you are about to clear unread, or a new one you are about to build on a first noun?
-- Are you treating the leftover you named as the last gap, or as the question you have now?
+- Are you treating the leftover you named as the [last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap), or as the question you have now?
 
 A shorter form: is that the ***what***, or are you already on a ***how***?

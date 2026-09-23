@@ -18,7 +18,7 @@ A parent, a patient, a founder, and an agent all face the same situation: someth
 
 Gap Last got its name from a week in late August 2026, watching the understanding of a flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved) move from ice to rock. The Gap Last method is what happened there, written down so it can continue to happen on purpose. You do not need that week to begin. A labeled ordinary incident is on the [home page](/).
 
-The name is Gap Last, not Last Gap. Naming a leftover question is not the same as knowing you have the last one. A later trace can move the question. Treating the gap you named as closed, when you do not yet know enough to say so, is the same thin move the method exists to stop.
+The name is [Gap Last, not Last Gap](/posts/2026-09-23-gap-last-is-not-the-last-gap). Naming a leftover question is not the same as knowing you have the last one. A later trace can move the question. Treating the gap you named as closed, when you do not yet know enough to say so, is the same thin move the method exists to stop.
 
 It exists because a cause that is wrong, or too thin, aims the next warning system, the next treatment, the next fix at the wrong object. The people in the path of the next similar event deserve an accurate account, not because accuracy is tidy, but because someone will build those on whatever cause gets written down. A cause aimed at the wrong object leaves them as exposed as before, with the added harm of believing they are not.
 

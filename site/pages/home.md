@@ -59,13 +59,13 @@ Those four lines are the start. When you want the work to stay, fill the [nine-s
 | Skill | An agent follows the same order. [Install in your agent](/run) |
 | CLI | Validates or emits the file. No model call |
 | [Working paper](/paper) | The longer argument. Not required to start |
-| [Posts](/posts) | Langtang, and the other side of Chesterton's Fence |
+| [Posts](/posts) | Langtang, Chesterton's Fence, and [Gap Last is not the last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap) |
 
 npm [`gaplast`](https://www.npmjs.com/package/gaplast) is a name hold (`0.0.0`, rechecked 10 September 2026). It does not contain this implementation. Do not `pnpm add gaplast` expecting the skill or the CLI.
 
 The week that named this is a late-August 2026 flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved). You do not need that event to begin.
 
-The name is Gap Last, not Last Gap. Naming a leftover question is not the same as knowing you have the last one. A later trace can move the question.
+The name is [Gap Last, not Last Gap](/posts/2026-09-23-gap-last-is-not-the-last-gap). Naming a leftover question is not the same as knowing you have the last one. A later trace can move the question.
 
 Chesterton's Fence says find out why the fence stands before you clear it away. Gap Last stands on [the other side of that fence](/posts/2026-09-04-the-other-side-of-chestertons-fence): name the gap before you build one. Both refuse a cause written down ahead of the question.
 
