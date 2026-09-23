@@ -52,3 +52,5 @@ Sentence first on the homepage. Method holds the nine-section order.
 Posts stay under `site/posts/`. The living spec and paper stay in
 `docs/` for the instrument. They are not site pages. Do not publish
 to npm from an agent.
+
+[See the rest of the Catalyst Forge shelf.](https://catalystforge.com/tools/)
