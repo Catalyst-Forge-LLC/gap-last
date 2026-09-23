@@ -1,0 +1,171 @@
+---
+title: "The fill is not the bound"
+date: 2026-09-23
+description: When a silence already feels like a verdict, the fill is the story you added. The bound is what the evidence can hold. Name the question before you answer the silence.
+tags: [method]
+---
+
+When something goes wrong between people, a sentence that lands wrong, an unexpectedly short text, a thread that goes cold, the exchange can leave a lot unknown. What did they mean? What changed? Was that about me?
+
+Sometimes we ask. Sometimes we arrive already holding an answer to a question we never noticed asking.
+
+*They’re angry with me. They don’t respect the work. They’re pulling away.*
+
+The jump can happen so quickly that we experience the conclusion before we recognize the question. There’s no sense of a pattern. There’s only a feeling that already knows.
+
+[Gap Last](/) is a technical tool for keeping explanations accountable to what is known. The same discipline has an interpersonal use: make the question visible, establish what happened, check what the evidence excludes, and keep any explanation tied to the uncertainty it actually addresses.
+
+The problem reaches across friendships, marriages, families, workplaces, and exchanges between strangers. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more certain than the moment warrants.
+
+This practice won’t settle every disagreement. It can help us notice when we’ve begun responding to a story as though it were something the other person demonstrably did.
+
+## The bound and the fill
+
+In this interpersonal use, the *bound* is what the available evidence lets us establish. It sets a limit on what we can responsibly claim.
+
+“They haven’t replied to the message I sent this morning” stays within that limit. “They’re withholding a reply to punish me” adds an explanation.
+
+Call that added story the *fill*.
+
+A fill can be plausible. It can even turn out to be right. Until there is enough evidence, it remains an explanation we are considering.
+
+The distinction matters because the feeling and the story can seem inseparable. “I’m frightened by this silence” describes an experience. “This silence means they’re leaving” makes a claim about what is happening. The fear is real even while the claim is uncertain.
+
+You can take your hurt seriously while remaining uncertain about the explanation. You don’t have to dismiss yourself to be curious about someone else.
+
+You also don’t have to stop feeling something before you can examine the explanation attached to it. You can be hurt, angry, or afraid and still ask, “What do I actually know?”
+
+Once a fill is treated as fact, later events can get recruited to support it. Another short reply becomes confirmation. A delay becomes confirmation. Even an explanation can be received as an excuse, because the verdict has already been reached.
+
+The original disagreement may still be there. Around it, we can build another conflict out of motives neither person has established and accusations neither recognizes as fair.
+
+## Four steps before the next move
+
+These are four steps to run before you answer, before you send, or before you decide the silence has already spoken.
+
+1. **State what happened.** Be specific, and mark what you are unsure of.
+2. **Check what the evidence rules out.** If nothing is excluded yet, say “nothing yet.”
+3. **Name the remaining question.** What do you need to understand, and would answering it help you decide what to do?
+4. **Keep any explanation provisional and within scope.** It should answer the question you named, fit the evidence, and remain open to revision.
+
+The fourth step can end without an explanation. Sometimes the useful result is a clearer question or a next action that doesn’t require knowing the answer.
+
+Naming a question also doesn’t establish its answer. “Are they pulling away?” is a legitimate question. Asking it does not make “yes” any more certain.
+
+A named question gives an explanation a target, not a warrant.
+
+The name is Gap Last, not last gap. Naming one uncertainty doesn’t mean you’ve discovered every relevant unknown. It means you can see which gap you’re trying to fill.
+
+These steps need curiosity to work. A person’s actions can have several causes, including ones you haven’t considered. The practice asks you to remain willing to learn something that changes your interpretation. Otherwise, it can become four steps taken on the way to the same predetermined verdict.
+
+## A practical example: four steps on a silence
+
+You sent feedback on some shared work. An hour has passed without a reply.
+
+Your first interpretation is: *They iced me out because they don’t respect the work.*
+
+**What happened?**
+
+“I sent feedback an hour ago and haven’t received a reply. I don’t know whether they’ve read it.”
+
+That is more precise than “they stopped talking to me,” which may already imply a deliberate withdrawal.
+
+**What does the evidence rule out?**
+
+“Nothing yet.”
+
+The delay alone doesn’t establish contempt, distraction, disagreement, or a technical problem. Nor does “they would have replied if they cared” exclude any of those possibilities. That is an expectation being used as evidence.
+
+If you later learn they were dealing with a sick child, you have a credible explanation for their unavailability. That weakens the inference that the delay signals contempt. It doesn’t establish everything they feel about you or the work.
+
+**What is the remaining question?**
+
+“Have they had a chance to read this, and when can we discuss it?”
+
+That may be the question you need answered first. How the feedback landed can be addressed when you talk. A verdict about their character would reach much further than the immediate uncertainty requires.
+
+**What explanation, if any, is justified?**
+
+“They may be occupied. They may need time to think. I don’t yet know.”
+
+You don’t need to choose among those possibilities to send a useful follow-up:
+
+“Have you had a chance to look at the feedback? I’d like to talk it through. Would tomorrow work?”
+
+The next move can be sound even while the reason remains unknown.
+
+## A thin reason aims the next move wrong
+
+A thin reason is an explanation built on evidence that cannot yet support it.
+
+If the fill says contempt, the next move may be a defense, a counter-charge, a matching silence, or a message written to collect a confession. If the actual issue was timing, overload, or a misunderstanding, those moves can create a second hurt.
+
+That second hurt then gets its own fill.
+
+That’s how a small silence becomes a climate.
+
+The cycle can also feed on attempts to be careful. Someone whose explanations have been misunderstood before may hesitate to offer more detail. That hesitation can look like concealment to the other person. Suspicion prompts more guardedness, which prompts more suspicion.
+
+Neither person has to intend that result. Each can be responding to what they believe the other has already made clear.
+
+Breaking the cycle starts with making those beliefs examinable. “When the conversation stopped, I took it to mean you didn’t want to discuss the problem. Is that what was happening?”
+
+The interpretation is now visible as an interpretation. The other person has something specific to answer.
+
+## Aimed both ways
+
+The same discipline applies to your account of yourself.
+
+“I was only trying to help” may accurately describe your intention. It doesn’t settle how your words landed. “They took it wrong” can close a question you haven’t asked about what they heard.
+
+You know more about your intentions than they do. They know more about their experience than you do. Neither account, by itself, establishes the whole exchange.
+
+Other people can also withhold information, evade questions, or break agreements. Their conduct is theirs to answer for. Your responsibility is to keep track of where the evidence ends and your interpretation begins, then take responsibility for what you do with that interpretation.
+
+That distinction leaves room for both accountability and uncertainty.
+
+Neither person has to adopt the method for it to help. You can catch an unsupported inference before sending it as an accusation, ask a more useful question, or recognize that you need time before replying. None of those requires the other person to know the name Gap Last.
+
+A shared practice may make more possible. One person’s practice can still improve that person’s next move. It does not make them responsible for carrying the entire relationship.
+
+## You can act without knowing why
+
+Gap Last should not become an instruction to keep finding generous explanations for a pattern that is hurting you.
+
+If someone repeatedly cancels commitments, you can address the cancellations. If they insult you, you can object to the words they used. If they won’t discuss a recurring problem, that refusal is itself something you can take into account.
+
+You do not need certainty about a person’s motives to set a boundary around their behavior.
+
+“I don’t know why this keeps happening, but I can’t keep making plans on these terms” stays within what you know and still permits action.
+
+A cleaner question may lead to understanding. It may also show you that an agreement isn’t dependable or that a conversation isn’t possible right now.
+
+## What talking it through actually is
+
+Talking something through means putting the unresolved question into the conversation and being willing to hear an answer that changes your view.
+
+It helps to distinguish three things: what you noticed, what you made of it, and what you want to understand.
+
+“After I raised the deadline, we stopped talking. I worried that you were angry with me. How did that conversation land for you?”
+
+Then there is a question for your own side: *What could I learn that would change my interpretation?*
+
+Perhaps they understood your sentence differently. Perhaps something unrelated interrupted them. Perhaps they were angry, but about a part of the exchange you hadn’t noticed.
+
+Their answer is additional information. It may clarify the moment, leave questions open, or conflict with other evidence. You can consider it without automatically accepting or rejecting it.
+
+If nothing they could say or show would affect your conclusion, check whether you are still asking a question. You may have reached a judgment based on an established pattern. You may also be defending a fill. Being honest about which conversation you are having matters.
+
+## Improvement still counts
+
+Some fights will survive this and remain fights. Broken agreements, competing needs, and real harm require more than careful interpretation.
+
+The practice can still help without resolving the underlying disagreement. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
+
+You may still disagree about the decision while discovering that neither person intended the slight. You may still be hurt while understanding more accurately what needs repair. You may leave the conversation with a hard problem that is finally clear enough to address.
+
+Those are meaningful improvements. An interpersonal practice does not have to solve the whole relationship to make the next exchange less damaging or more useful.
+
+Where uncertainty is being treated as certainty, there is something worth interrupting. A private story can shape your next move long before either person has had a chance to examine it.
+
+Name the question before you answer the silence.
