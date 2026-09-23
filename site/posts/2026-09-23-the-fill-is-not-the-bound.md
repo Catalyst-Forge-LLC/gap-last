@@ -5,7 +5,9 @@ description: When a silence already feels like a verdict, the fill is the story 
 tags: [method]
 ---
 
-When something goes wrong between people, a sentence that lands wrong, an unexpectedly short text, a thread that goes cold, the exchange can leave a lot unknown. What did they mean? What changed? Was that about me?
+When something goes wrong between people, a sentence that lands wrong, an unexpectedly short text, a thread that goes cold, the exchange can leave a lot unknown. 
+
+*What did they mean? What changed? Was that about me?*
 
 Sometimes we ask. Sometimes we arrive already holding an answer to a question we never noticed asking.
 
@@ -15,7 +17,7 @@ The jump can happen so quickly that we experience the conclusion before we recog
 
 [Gap Last](/) is a technical tool for keeping explanations accountable to what is known. The same discipline has an interpersonal use: make the question visible, establish what happened, check what the evidence excludes, and keep any explanation tied to the uncertainty it actually addresses.
 
-The problem reaches across friendships, marriages, families, workplaces, and exchanges between strangers. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more certain than the moment warrants.
+A gap is a question you don’t have the answer to yet. The challenge reaches across friendships, marriages, families, workplaces, and exchanges between strangers. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more certain than the moment warrants.
 
 This practice won’t settle every disagreement. It can help us notice when we’ve begun responding to a story as though it were something the other person demonstrably did.
 
@@ -35,6 +37,12 @@ You can take your hurt seriously while remaining uncertain about the explanation
 
 You also don’t have to stop feeling something before you can examine the explanation attached to it. You can be hurt, angry, or afraid and still ask, “What do I actually know?”
 
+An unanswered question can be uncomfortable enough that even a painful explanation feels like relief. Frustration can supply “They don’t care,” giving the uncertainty an ending. Fear can supply “They’re going to reject me,” making it feel as though you’ve gotten the disappointment over with before it arrives.
+
+That relief can make a story harder to question. You begin preparing for the ending you expect, and later information has to work its way past a conclusion you have already started living in.
+
+The relief is real. The explanation still needs evidence.
+
 Once a fill is treated as fact, later events can get recruited to support it. Another short reply becomes confirmation. A delay becomes confirmation. Even an explanation can be received as an excuse, because the verdict has already been reached.
 
 The original disagreement may still be there. Around it, we can build another conflict out of motives neither person has established and accusations neither recognizes as fair.
@@ -53,6 +61,10 @@ The fourth step can end without an explanation. Sometimes the useful result is a
 Naming a question also doesn’t establish its answer. “Are they pulling away?” is a legitimate question. Asking it does not make “yes” any more certain.
 
 A named question gives an explanation a target, not a warrant.
+
+Sometimes you need a working explanation before more information is available. You can name the question, make your best guess, and keep track of what would change it. “I’m going to assume they need more time and follow up tomorrow” leaves room for correction.
+
+The trouble starts when a working guess loses its label and becomes something you claim to know.
 
 The name is Gap Last, not last gap. Naming one uncertainty doesn’t mean you’ve discovered every relevant unknown. It means you can see which gap you’re trying to fill.
 
@@ -108,7 +120,7 @@ The cycle can also feed on attempts to be careful. Someone whose explanations ha
 
 Neither person has to intend that result. Each can be responding to what they believe the other has already made clear.
 
-Breaking the cycle starts with making those beliefs examinable. “When the conversation stopped, I took it to mean you didn’t want to discuss the problem. Is that what was happening?”
+A possible interruption is to make those beliefs examinable. “When the conversation stopped, I took it to mean you didn’t want to discuss the problem. Is that what was happening?”
 
 The interpretation is now visible as an interpretation. The other person has something specific to answer.
 
@@ -122,9 +134,9 @@ You know more about your intentions than they do. They know more about their exp
 
 Other people can also withhold information, evade questions, or break agreements. Their conduct is theirs to answer for. Your responsibility is to keep track of where the evidence ends and your interpretation begins, then take responsibility for what you do with that interpretation.
 
-That distinction leaves room for both accountability and uncertainty.
+You can offer clarification, acknowledge your part, and make a reasonable effort to understand theirs. You cannot make another person revise an interpretation or participate in a conversation. Being responsible for your contribution does not make you responsible for securing their understanding.
 
-Neither person has to adopt the method for it to help. You can catch an unsupported inference before sending it as an accusation, ask a more useful question, or recognize that you need time before replying. None of those requires the other person to know the name Gap Last.
+The method can help even if only one person uses it. You can catch an unsupported inference before sending it as an accusation, ask a more useful question, or recognize that you need time before replying. None of those requires the other person to know the name Gap Last.
 
 A shared practice may make more possible. One person’s practice can still improve that person’s next move. It does not make them responsible for carrying the entire relationship.
 
@@ -138,11 +150,17 @@ You do not need certainty about a person’s motives to set a boundary around th
 
 “I don’t know why this keeps happening, but I can’t keep making plans on these terms” stays within what you know and still permits action.
 
+Remaining open to new information doesn’t require continuing to expect a different outcome from an established pattern. You can revise your understanding if new evidence arrives while making decisions based on the evidence you already have.
+
 A cleaner question may lead to understanding. It may also show you that an agreement isn’t dependable or that a conversation isn’t possible right now.
 
 ## What talking it through actually is
 
 Talking something through means putting the unresolved question into the conversation and being willing to hear an answer that changes your view.
+
+Sometimes the first useful question is about the sequence itself. What happened before the reply? What information did each person have? What did each believe had been agreed? What else needed their attention?
+
+The other person may know a part of the situation you cannot see from your chair. Their account can help you revise what you think happened, which may change the question of why it happened.
 
 It helps to distinguish three things: what you noticed, what you made of it, and what you want to understand.
 
@@ -155,6 +173,8 @@ Perhaps they understood your sentence differently. Perhaps something unrelated i
 Their answer is additional information. It may clarify the moment, leave questions open, or conflict with other evidence. You can consider it without automatically accepting or rejecting it.
 
 If nothing they could say or show would affect your conclusion, check whether you are still asking a question. You may have reached a judgment based on an established pattern. You may also be defending a fill. Being honest about which conversation you are having matters.
+
+A conversation may need another attempt at a better time. It may also reach a point where further attempts are not useful. Curiosity does not commit you to an endless effort to get an answer.
 
 ## Improvement still counts
 
@@ -169,3 +189,15 @@ Those are meaningful improvements. An interpersonal practice does not have to so
 Where uncertainty is being treated as certainty, there is something worth interrupting. A private story can shape your next move long before either person has had a chance to examine it.
 
 Name the question before you answer the silence.
+
+## Try it on one open question
+
+Choose an unresolved moment with someone in your life. Write down the explanation you have been treating as true. Then write the question that explanation answers.
+
+Underneath it, write what you actually observed and one thing you still need to understand. Keep the missing information in question form.
+
+“They don’t value my time” might reveal the question “Do they take our commitments seriously?” If what you observed was a cancelled meeting, a more immediate question could be: “What happened between agreeing to meet and cancelling?”
+
+If it is appropriate to ask, ask about that missing part. Their answer may help, leave uncertainty, or need to be checked against other evidence.
+
+If you cannot ask, decide what you can do with what you already know. You can leave the motive unresolved while following up, changing a plan, or setting a boundary.
