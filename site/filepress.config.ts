@@ -7,6 +7,7 @@ export default defineFilepressConfig({
   description:
     "Reconstruct what happened before committing to an explanation. Stay with what happened long enough to name what is still unknown, so the next similar event is not met with the last wrong story.",
   tagline: "Don't commit to a cause until you can name the gap.",
+  lede: 'What happened · still unknown',
   url: "https://gaplast.dev",
   author: "Catalyst Forge LLC",
   logo: "/logo.png",

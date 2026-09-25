@@ -1,5 +1,5 @@
 ---
-title: Reconstruct what happened before committing to an explanation.
+title: Reconstruct what happened
 description: Reconstruct what happened before committing to an explanation. Gap Last separates observations, constraints, and unresolved questions, then proposes hypotheses that address the remaining gap.
 order: 0
 ---
@@ -7,6 +7,11 @@ order: 0
 A test failed twice on CI, passed locally, and passed on the third Actions run with no code change. A story is already forming. Gap Last is the pause that writes down what you observed, what you can already rule out, and what is still unknown, before you commit to a cause.
 
 The formal name is **constraint-first reconstruction**. You can use the four-line exercise without a paper, an account, or an agent.
+
+<div class="cta-row">
+  <a class="cta cta-primary" href="/run">Install in your agent</a>
+  <a class="cta cta-secondary" href="https://github.com/Catalyst-Forge-LLC/gap-last">View on GitHub</a>
+</div>
 
 ## A worked incident (illustrative)
 
