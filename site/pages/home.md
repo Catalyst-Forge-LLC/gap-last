@@ -31,7 +31,7 @@ That does **not** eliminate a flaky test, an environment-sensitive test bug, or 
 
 **Candidate hypothesis**
 
-- A leftover `dist/` from a previous job on a reused runner.
+- A leftover `dist/` from a previous job on a reused runner. The directory existing before this compiler step does not yet tell us how it got there. Inspect the checkout, cache restore, earlier steps, and runner workspace history before choosing that explanation.
 
 **What would distinguish it**
 
