@@ -1,5 +1,5 @@
 ---
-title: Reconstruct what happened
+title: Name what is still unknown before you propose a cause.
 description: Reconstruct what happened before committing to an explanation. Gap Last separates observations, constraints, and unresolved questions, then proposes hypotheses that address the remaining gap.
 order: 0
 ---
