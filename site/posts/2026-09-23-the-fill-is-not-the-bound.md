@@ -52,6 +52,10 @@ These are four steps to run before you answer, before you send, or before you de
 
 The fourth step can end without an explanation. Sometimes the useful result is a clearer question or a next action that doesn’t require knowing the answer.
 
+The name is [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap). Naming one uncertainty doesn’t mean you’ve discovered every relevant unknown. It means you can see which gap you’re trying to fill.
+
+These steps can become four steps taken on the way to the same predetermined verdict, unless you remain willing to learn something that changes your interpretation.
+
 ## A practical example: four steps on a silence
 
 You sent feedback on some shared work. An hour has passed without a reply. Your first interpretation is: *They iced me out because they don’t respect the work.*
