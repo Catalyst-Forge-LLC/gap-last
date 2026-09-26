@@ -58,11 +58,11 @@ These steps can become four steps taken on the way to the same predetermined ver
 
 ## A practical example: four steps on a silence
 
-You sent feedback on some shared work. An hour has passed without a reply. Your first interpretation is: *They iced me out because they don’t respect the work.*
+You sent feedback on some shared work. A full day has passed without a reply. Your first interpretation is: *They iced me out because they don’t respect the work.*
 
 **What happened?**
 
-“I sent feedback an hour ago and haven’t received a reply. I don’t know whether they’ve read it.”
+“I sent feedback a full day ago and haven’t received a reply. I don’t know whether they’ve read it.”
 
 That is more precise than “they stopped talking to me,” which may already imply a deliberate withdrawal.
 
