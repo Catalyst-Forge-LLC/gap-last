@@ -37,7 +37,7 @@ The bound is what you know. The fill is what you added.
 
 ## A thin reason aims the next move wrong
 
-A thin reason is an explanation built on evidence that cannot yet support it. We reach for one because not knowing hurts in its own way.
+A thin reason is an explanation built on evidence that cannot yet support it. We reach for thin reasons because not knowing hurts in its own way.
 
 Sometimes we would rather be hurt than unsure.
 
