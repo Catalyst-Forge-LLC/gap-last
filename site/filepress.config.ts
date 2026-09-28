@@ -32,4 +32,11 @@ export default defineFilepressConfig({
     { label: "GitHub", href: github, icon: "github" },
   ],
   topics: [],
+  redirects: [
+    {
+      from: "/posts/2026-09-23-the-fill-is-not-the-bound",
+      to: "/posts/2026-09-23-name-the-question-before-you-answer-the-silence",
+      status: 301,
+    },
+  ],
 });
