@@ -51,9 +51,9 @@ She doesn’t answer his text until evening, and then only “ok.” He reads it
 
 That’s how a small silence becomes a climate.
 
-Even caution can feed the cycle. Someone who has been misunderstood before may offer less detail, and the other person may read that as concealment. Neither has to intend the result.
+Even caution can feed the cycle. Someone who has been misunderstood before may offer less detail, and the other person may read the missing detail as concealment. Neither has to intend the result.
 
-The original disagreement may still be there. Around it, we can build a second conflict out of motives neither person has established. One way to interrupt the cycle is to pause before responding, and separate what happened from what we concluded.
+There may be a real disagreement underneath. Around it, we can build a second conflict out of motives neither person has established. One way to interrupt the cycle is to pause before responding, and separate what happened from what we concluded.
 
 ## Four steps before the next move
 
@@ -90,7 +90,7 @@ The delay alone doesn’t establish contempt, distraction, disagreement, or a te
 
 That is the question to answer first. How the feedback landed can wait until you talk. A verdict about their character would reach much further than the immediate uncertainty requires.
 
-You may also be wondering, “Have I lost their respect?” Naming that question does not make “yes” any more certain. A named question gives an explanation a target, not a warrant. It isn’t necessarily the last question, either. That is why the name is [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
+You may also be wondering, “Have I lost their respect?” Naming that question does not make “yes” any more certain. A named question gives an explanation a target, not a warrant. Nor is a named question necessarily the last one. The name makes the same point: [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
 
 **What explanation, if any, is justified?**
 
@@ -116,9 +116,9 @@ If you talk and something still feels unresolved, it helps to distinguish three 
 
 “After I sent the feedback, the conversation went quiet. I worried that you were angry with me. How did my message land for you?”
 
-The interpretation is now visible as an interpretation. The other person has something specific to answer. On your side, there is another question: What could I learn that would change my view?
+Your interpretation is now visible as an interpretation. The other person has something specific to answer. On your side, there is another question: What could I learn that would change my view?
 
-Perhaps they read your sentence differently than you meant it (a sentence can allow a reading you never intended; [Misemphasis](https://misemphasis.com) looks for them). Perhaps something unrelated interrupted them. Perhaps they were angry, but about a part of the exchange you hadn’t noticed. Their answer is more evidence, not a verdict. You can weigh it without automatically accepting or rejecting it.
+Perhaps they read your feedback differently than you meant it (a sentence can allow a reading you never intended; [Misemphasis](https://misemphasis.com) looks for those readings). Perhaps something unrelated interrupted them. Perhaps they were angry, but about a part of the exchange you hadn’t noticed. Their answer is more evidence, not a verdict. You can weigh it without automatically accepting or rejecting it.
 
 If nothing they could say or show would change your conclusion, you’re no longer asking a question. You may already be deciding how to respond to an established pattern, rather than trying to explain a single moment. You may also be defending a fill. Be honest about which conversation you are having.
 
@@ -132,9 +132,9 @@ The first sentence that rises is “That’s not what I meant.” It may be true
 
 “That isn’t what I intended, and I want to understand how it read. Which part landed hardest?”
 
-You know more about your intentions than they do. They know more about their experience than you do. Neither account, by itself, establishes the whole exchange. Taking their experience seriously does not require accepting every claim they make about your motives. The same limit applies in both directions.
+You know more about your intentions than they do. They know more about their experience than you do. Neither account, by itself, establishes the whole exchange. Taking their experience seriously does not require accepting every claim they make about your motives, just as your hurt does not make your claims about their motives true.
 
-What you owe is honesty about where the evidence ends and your interpretation begins, and whatever your part calls for: a clarification, an acknowledgment, an apology.
+What you owe is honesty about the line where the evidence ends and your interpretation begins, and whatever your part calls for: a clarification, an acknowledgment, an apology.
 
 Their conduct remains theirs to answer for. You can make a reasonable effort to understand someone, but you cannot make them revise an interpretation or join a conversation. Being responsible for your contribution does not make you responsible for securing their understanding.
 
@@ -146,7 +146,7 @@ The limits of your responsibility matter most when the difficulty is not one unc
 
 If someone repeatedly cancels commitments, you can address the cancellations. If they insult you, you can object to the words they used. If they won’t discuss a recurring problem, that refusal is itself something you can take into account. You do not need certainty about a person’s motives to set a boundary around their behavior.
 
-“I don’t know why this keeps happening, but I can’t keep making plans on these terms” stays on the evidence side of the line and still permits action.
+“I don’t know why this keeps happening, but I can’t keep making plans on these terms” stays on the evidence side of that line and still permits action.
 
 Staying open to new evidence doesn’t mean expecting a different outcome from an established pattern. You can revise your understanding if new evidence arrives, and still decide now on the evidence you have.
 
@@ -156,7 +156,7 @@ A cleaner question may lead to understanding. It may also show you that an agree
 
 Some fights will survive the best questions and remain fights. Broken agreements, competing needs, and real harm require more than careful interpretation. The practice helps even when the disagreement stays. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
 
-You may still disagree about the decision while discovering that neither person intended the slight. You may still be hurt while understanding more accurately what needs repair. You may leave the conversation with a hard problem that is finally clear enough to address.
+You may still disagree about what to do while discovering that neither of you meant to slight the other. You may still be hurt while understanding more accurately what needs repair. You may leave the conversation with a hard problem that is finally clear enough to address.
 
 That counts. You don’t have to fix the relationship to make the next exchange better than the last one.
 
@@ -181,6 +181,6 @@ Underneath both, write what you actually observed. Draw a line there. That is wh
 
 “They don’t value my time” might reveal the question “Do they take our commitments seriously?” If what you observed was a cancelled meeting, a more immediate question could be: “What happened between agreeing to meet and cancelling?”
 
-If it is appropriate to ask, ask about that missing part. If you cannot ask, decide what you can do with what you already know. You can leave the motive unresolved while following up, changing a plan, or setting a boundary.
+If it is appropriate to ask, ask about what you still need to understand. If you cannot ask, decide what you can do with what you already know. You can leave the motive unresolved while following up, changing a plan, or setting a boundary.
 
 Name the question before you answer the silence.
