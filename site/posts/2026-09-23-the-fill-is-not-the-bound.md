@@ -15,7 +15,7 @@ The jump can happen so quickly that we experience the conclusion before we recog
 
 A gap is a question you don’t have the answer to yet. These gaps arise across friendships, marriages, families, workplaces, and exchanges between strangers. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more certain than the moment warrants.
 
-[Gap Last](/) is a method for keeping explanations accountable to what is known, and it works between people too. It won’t settle every disagreement, but it can help us notice when we’ve begun responding to a story as though it were something the other person demonstrably did.
+[Gap Last](/) is a method for keeping explanations accountable to what is known, and it works between people too. It won’t settle every disagreement, but it can help us notice when we’ve begun responding to a story as though it were something the other person actually did.
 
 ## The bound and the fill
 
@@ -33,11 +33,19 @@ The bound is what you know. The fill is what you added.
 
 ## A thin reason aims the next move wrong
 
-A thin reason is an explanation built on evidence that cannot yet support it. An unanswered question can be uncomfortable enough that even a painful explanation feels like relief. Frustration can supply “They don’t care,” giving the uncertainty an ending. Fear can supply “They’re going to reject me,” making it feel as though you’ve gotten the disappointment over with before it arrives.
+A thin reason is an explanation built on evidence that cannot yet support it. We reach for one because not knowing hurts in its own way.
+
+Sometimes we would rather be hurt than unsure.
+
+Frustration can supply “They don’t care,” giving the uncertainty an ending. Fear can supply “They’re going to reject me,” making it feel as though you’ve gotten the disappointment over with before it arrives.
 
 That relief can make a story harder to question. You begin preparing for the ending you expect, and later information has to work its way past a conclusion you have already started living in. Another short reply becomes confirmation. A delay becomes confirmation. Even an explanation gets heard as an excuse. The verdict is already in.
 
-If the fill says contempt, the next move may be a defense, a counter-charge, a matching silence, or a message written to collect a confession. If the actual issue was timing, overload, or a misunderstanding, those moves can create a second hurt. That second hurt then gets its own fill. That’s how a small silence becomes a climate.
+If the fill says contempt, the next move may be a defense, a counter-charge, a matching silence, or a message written to collect a confession. If the actual issue was timing, overload, or a misunderstanding, those moves can create a second hurt. That second hurt then gets its own fill.
+
+She doesn’t answer his text until evening, and then only “ok.” He reads it as cold and answers with less. She reads his less as anger and stops asking about his day. By the weekend, neither can say when the argument started, because it never did.
+
+That’s how a small silence becomes a climate.
 
 The cycle can also feed on attempts to be careful. Someone whose explanations have been misunderstood before may hesitate to offer more detail. That hesitation can look like concealment to the other person. Suspicion prompts more guardedness, which prompts more suspicion. Neither person has to intend that result. Each can be responding to what they believe the other has already made clear.
 
@@ -94,7 +102,7 @@ The next move can be sound even while the reason remains unknown.
 
 ## Put the question on the table
 
-That follow-up puts the unresolved question into the conversation without making the other person defend against an accusation. The next task is to listen for what their answer adds, including information that changes your view.
+That follow-up asks without making the other person defend against an accusation. The next task is to listen for what their answer adds, including information that changes your view.
 
 If you learn they were dealing with a sick child, you have a credible explanation for their unavailability. That weakens the inference that the delay signals contempt. It doesn’t establish everything they feel about you or the work, but it gives you a reason to reconsider what you made of the silence.
 
@@ -114,19 +122,25 @@ Remaining willing to learn can also mean discovering that your own contribution 
 
 ## Aimed both ways
 
-If the other person tells you the feedback felt dismissive, “I was only trying to help” may accurately describe your intention. It doesn’t settle how your words landed. “They took it wrong” can close a question you haven’t asked about what they heard.
+You are also someone else’s silence. Somewhere, a reply you haven’t sent is being read into, and the story attached to it may be as unfair as yours.
+
+Back in the example, their answer arrives the next morning: “Honestly, the feedback read like you’d already decided the work was bad.”
+
+The first sentence that rises is “That’s not what I meant.” It may be true. It also ends the conversation, because it answers a question they didn’t ask. They told you how it landed, not what you intended.
+
+“That isn’t what I intended, and I want to understand how it read. Which part landed hardest?”
 
 You know more about your intentions than they do. They know more about their experience than you do. Neither account, by itself, establishes the whole exchange. Taking their experience seriously does not require accepting every claim they make about your motives. The same limit applies in both directions.
 
-Your responsibility is to keep track of where the evidence ends and your interpretation begins, then take responsibility for what you do with that interpretation. That may mean clarifying what you meant, acknowledging an effect you hadn’t considered, or apologizing for your part in the exchange.
+What you owe is honesty about where the evidence ends and your interpretation begins, and whatever your part calls for: a clarification, an acknowledgment, an apology.
 
 Their conduct remains theirs to answer for. Other people can withhold information, evade questions, or break agreements. You can make a reasonable effort to understand them, but you cannot make another person revise an interpretation or participate in a conversation. Being responsible for your contribution does not make you responsible for securing their understanding.
 
-The method can help even if only one person uses it. You can catch an unsupported inference before sending it as an accusation, ask a more useful question, or recognize that you need time before replying. None of those requires the other person to know the name Gap Last. A shared practice may make more possible, but one person’s practice can still improve that person’s next move. It does not make them responsible for carrying the entire relationship.
+Even on your own, you can catch an unsupported inference before sending it as an accusation, ask a more useful question, or recognize that you need time before replying. None of those requires the other person to know the name Gap Last. It works better with two. It still works with one, and using it alone does not make you responsible for carrying the entire relationship.
 
 ## You can act without knowing why
 
-That limit matters when the difficulty is not one unclear exchange, but conduct that keeps hurting you. Gap Last should not become an instruction to keep finding generous explanations for a harmful pattern.
+That limit matters when the difficulty is not one unclear exchange, but conduct that keeps hurting you. Gap Last is not an instruction to keep finding generous explanations for a harmful pattern.
 
 If someone repeatedly cancels commitments, you can address the cancellations. If they insult you, you can object to the words they used. If they won’t discuss a recurring problem, that refusal is itself something you can take into account. You do not need certainty about a person’s motives to set a boundary around their behavior.
 
@@ -134,13 +148,13 @@ If someone repeatedly cancels commitments, you can address the cancellations. If
 
 Remaining open to new information doesn’t require continuing to expect a different outcome from an established pattern. You can revise your understanding if new evidence arrives while making decisions based on the evidence you already have.
 
-A cleaner question may lead to understanding. It may also show you that an agreement isn’t dependable or that a conversation isn’t possible right now. Another attempt at a better time may help, but further attempts can also reach a point where they are no longer useful. Curiosity does not commit you to an endless effort to get an answer.
+A cleaner question may lead to understanding. It may also show you that an agreement isn’t dependable or that a conversation isn’t possible right now. Another attempt at a better time may help. At some point, another attempt stops helping. Curiosity does not commit you to an endless effort to get an answer.
 
 ## Improvement still counts
 
 Some fights will survive this and remain fights. Broken agreements, competing needs, and real harm require more than careful interpretation.
 
-The practice can still help without resolving the underlying disagreement. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
+The practice helps even when the disagreement stays. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
 
 You may still disagree about the decision while discovering that neither person intended the slight. You may still be hurt while understanding more accurately what needs repair. You may leave the conversation with a hard problem that is finally clear enough to address.
 
