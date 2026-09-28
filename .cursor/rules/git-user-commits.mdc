@@ -5,8 +5,7 @@ alwaysApply: true
 
 # Git policy
 
-- After substantive work, commit with a good message
-  (Co-authored-by: Cursor <cursoragent@cursor.com>).
+- After substantive work, commit with a good message.
 - Do not push until a remote exists and Sam asks, or a local mirror
   is attached the way sister tools use `D:/git-mirrors/`.
 - **Never publish to npm.** Do not run `npm publish`, `pnpm publish`,
