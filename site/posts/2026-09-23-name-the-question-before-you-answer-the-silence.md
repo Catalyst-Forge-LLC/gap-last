@@ -53,7 +53,7 @@ That’s how a small silence becomes a climate.
 
 Even caution can feed the cycle. Someone who has been misunderstood before may offer less detail, and the other person may read that as concealment. Neither has to intend the result.
 
-The original disagreement may still be there. Around it, we can build a second conflict out of motives neither person has established. One way to interrupt the cycle is to separate what happened from what we concluded before choosing our response.
+The original disagreement may still be there. Around it, we can build a second conflict out of motives neither person has established. One way to interrupt the cycle is to pause before responding, and separate what happened from what we concluded.
 
 ## Four steps before the next move
 
