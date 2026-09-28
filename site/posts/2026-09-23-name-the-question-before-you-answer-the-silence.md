@@ -138,7 +138,7 @@ What you owe is honesty about the line where the evidence ends and your interpre
 
 Their conduct remains theirs to answer for. You can make a reasonable effort to understand someone, but you can’t make them revise an interpretation or join a conversation. Being responsible for your contribution doesn’t make you responsible for securing their understanding.
 
-The practice works better with two. It still works with one. You can catch an inference before it becomes an accusation, ask a better question, or wait before replying. None of that requires the other person to know the name Gap Last, and none of it makes you responsible for carrying the whole relationship.
+The practice works best when both people use it. It still helps when only you do. You can catch an inference before it becomes an accusation, ask a better question, or wait before replying. None of that requires the other person to know the name Gap Last, and none of it makes you responsible for carrying the whole relationship.
 
 ## You can act without knowing why
 
