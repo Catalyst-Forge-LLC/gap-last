@@ -5,13 +5,17 @@ description: When a silence already feels like a verdict, the fill is the story 
 tags: [method]
 ---
 
-A sentence lands wrong, a text is unexpectedly short, or a conversation goes quiet. Something happened between you and another person, but much of what matters remains unknown.
+A manager answers your proposal with one line. A friend doesn’t mention the news you shared. A sibling plans the holiday without asking you. A neighbor stops waving. Something happened between you and another person, but much of what matters remains unknown.
 
-What did they mean? What changed? Was that about me?
+*What did they mean? What changed? Was that about me?*
 
-Sometimes we ask. Sometimes we arrive already holding an answer to a question we never noticed asking: *They’re angry with me. They don’t respect the work. They’re pulling away.*
+Sometimes we ask. Sometimes we arrive already holding an answer to a question we never noticed asking: 
+
+*They don’t respect my work. They don’t trust me with this. They don’t care. I don’t matter to them.*
 
 The jump can happen so quickly that we experience the conclusion before we recognize the question. It doesn’t feel like reasoning. It feels like knowing.
+
+Most fills are verdicts about where we stand: whether we are respected, trusted, cared for, wanted. That is why they arrive so fast, and why they are so hard to put down.
 
 A gap is a question you don’t have the answer to yet. These gaps arise across friendships, marriages, families, workplaces, and exchanges between strangers. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more certain than the moment warrants.
 
@@ -25,7 +29,7 @@ Between people, the bound is what the available evidence lets us establish. It s
 
 A fill can be plausible. It can even turn out to be right. Until there is enough evidence, it remains an explanation we are considering.
 
-The distinction matters because the feeling and the story can seem inseparable. “I’m frightened by this silence” describes an experience. “This silence means they’re leaving” makes a claim about what is happening. The fear is real even while the claim is uncertain.
+The distinction matters because the feeling and the story can seem inseparable. “I’m frightened by this silence” describes an experience. “This silence means they’ve written me off” makes a claim about what is happening. The fear is real even while the claim is uncertain.
 
 You can take your hurt seriously while remaining uncertain about the explanation. You don’t have to dismiss yourself to be curious about someone else, or stop feeling something before you examine the explanation attached to it. You can be hurt, angry, or afraid and still ask, “What do I actually know?”
 
@@ -86,7 +90,7 @@ The delay alone doesn’t establish contempt, distraction, disagreement, or a te
 
 That may be the question you need answered first, not the only uncertainty in the exchange. How the feedback landed can be addressed when you talk. A verdict about their character would reach much further than the immediate uncertainty requires.
 
-You may also be wondering, “Are they pulling away?” Naming that question does not make “yes” any more certain. A named question gives an explanation a target, not a warrant. Nor is it the last question. The name is [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap): naming one uncertainty shows which gap you’re trying to fill, not that you’ve found every unknown.
+You may also be wondering, “Have I lost their respect?” Naming that question does not make “yes” any more certain. A named question gives an explanation a target, not a warrant. Nor is it the last question. The name is [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap): naming one uncertainty shows which gap you’re trying to fill, not that you’ve found every unknown.
 
 **What explanation, if any, is justified?**
 
