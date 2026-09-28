@@ -162,16 +162,16 @@ That counts. You don’t have to fix the relationship to make the next exchange 
 
 ## What is happening underneath
 
-When an exchange starts to feel like a verdict, check for these:
+When an exchange starts to feel like a verdict, ask:
 
-- The conclusion arrives before the question.
-- Fills are verdicts about where you stand with someone.
-- Fills are often borrowed from an earlier hurt.
-- A painful certainty can feel better than not knowing.
-- Later events get recruited as confirmation.
-- A second hurt turns a small silence into a climate.
-- Intention and impact are two separate accounts.
-- You are also someone else’s silence.
+- Did the conclusion arrive before the question?
+- Is this a verdict about where I stand with them?
+- Am I borrowing this story from an earlier hurt?
+- Would I rather be hurt than unsure right now?
+- Am I counting later events as confirmation?
+- Is a second hurt building on the first?
+- Am I defending my intention instead of hearing their experience?
+- Is someone reading my silence right now?
 
 ## Try it on one open question
 
