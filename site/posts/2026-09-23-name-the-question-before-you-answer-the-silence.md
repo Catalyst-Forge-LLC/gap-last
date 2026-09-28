@@ -45,7 +45,7 @@ Frustration can supply “They don’t care,” giving the uncertainty an ending
 
 The relief of an ending can make a story harder to question. You begin preparing for the ending you expect, and later information has to work its way past a conclusion you have already started living in. Another short reply becomes confirmation. A delay becomes confirmation. Even an explanation gets heard as an excuse. The verdict is already in.
 
-If the fill says contempt, the next move may be a defense, a counter-charge, a matching silence, or a message written to collect a confession. If the actual issue was timing, overload, or a misunderstanding, those moves can create a second hurt. That second hurt then gets its own fill.
+If the fill says contempt, the next move may be a defense, a counter-charge, a matching silence, or a message written to collect a confession. If the actual issue was timing, overload, or a misunderstanding, a response aimed at contempt that was never there can create a second hurt. That second hurt then gets its own fill.
 
 She doesn’t answer his text until evening, and then only “ok.” He reads it as cold and answers with less. She reads his less as anger and stops asking about his day. By the weekend, neither can say when the argument started, because it never did.
 
