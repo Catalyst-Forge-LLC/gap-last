@@ -23,9 +23,9 @@ A gap is a question you don’t have the answer to yet. We have incomplete acces
 
 ## The bound and the fill
 
-Between people, the bound is what the available evidence lets us establish. It sets a limit on what we can responsibly claim.
+Take two sentences about the same silence: “They haven’t replied to the message I sent this morning” and “They’re withholding a reply to punish me.”
 
-“They haven’t replied to the message I sent this morning” stays within that limit. “They’re withholding a reply to punish me” adds an explanation. Call that added story the fill.
+The first stays within what the evidence lets you establish. Call that limit the bound. The second adds an explanation. Call that added story the fill.
 
 A fill can be plausible. It can even turn out to be right. Until the evidence can carry it, though, a fill is only a possibility. You are considering it. You do not know it.
 
@@ -110,7 +110,7 @@ That follow-up asks without making the other person defend against an accusation
 
 If you learn they were dealing with a sick child, you have a credible explanation for their unavailability. That weakens the inference that the delay signals contempt. It doesn’t establish everything they feel about you or the work, but it gives you a reason to reconsider what you made of the silence.
 
-Other answers may reveal that you understood the sequence differently. What did each person believe had been agreed? What else needed their attention? Their account can change what you think happened, and with it the question of why.
+Other answers may show that the two of you saw the events differently. What did each person believe had been agreed? What else needed their attention? Their account can change what you think happened, and with it the question of why.
 
 If you talk and something still feels unresolved, it helps to distinguish three things: what you noticed, what you made of it, and what you want to understand.
 
@@ -136,9 +136,9 @@ You know more about your intentions than they do. They know more about their exp
 
 What you owe is honesty about the line where the evidence ends and your interpretation begins, and whatever your part calls for: a clarification, an acknowledgment, an apology.
 
-Their conduct remains theirs to answer for. You can make a reasonable effort to understand someone, but you can’t make them revise an interpretation or join a conversation. Being responsible for your contribution doesn’t make you responsible for securing their understanding.
+The other person’s conduct is theirs to answer for. You can make a reasonable effort to understand someone, but you can’t make them revise an interpretation or join a conversation. Being responsible for your contribution doesn’t make you responsible for securing their understanding.
 
-The practice works best when both people use it. It still helps when only you do. You can catch an inference before it becomes an accusation, ask a better question, or wait before replying. None of that requires the other person to know the name Gap Last, and none of it makes you responsible for carrying the whole relationship.
+These steps work best when both people use them. They still help when only you do. You can catch an inference before it becomes an accusation, ask a better question, or wait before replying. None of that requires the other person to know the name Gap Last, and none of it makes you responsible for carrying the whole relationship.
 
 ## You can act without knowing why
 
@@ -150,11 +150,11 @@ If someone repeatedly cancels commitments, you can address the cancellations. If
 
 Staying open to new evidence doesn’t mean expecting a different outcome from an established pattern. You can revise your understanding if new evidence arrives, and still decide now on the evidence you have.
 
-A cleaner question may lead to understanding. It may also show you that an agreement isn’t dependable or that a conversation isn’t possible right now. Curiosity doesn’t commit you to an endless effort to get an answer.
+Asking better questions may lead to understanding. It may also show you that an agreement isn’t dependable or that a conversation isn’t possible right now. Curiosity doesn’t commit you to an endless effort to get an answer.
 
 ## Improvement still counts
 
-Some fights will survive the best questions and remain fights. Broken agreements, competing needs, and real harm require more than careful interpretation. The practice helps even when the disagreement stays. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
+Some fights will survive the best questions and remain fights. Broken agreements, competing needs, and real harm require more than careful interpretation. Naming the question still helps when the disagreement stays. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
 
 You may still disagree about what to do while discovering that neither of you meant to slight the other. You may still be hurt while understanding more accurately what needs repair. You may leave the conversation with a hard problem that’s finally clear enough to address.
 
