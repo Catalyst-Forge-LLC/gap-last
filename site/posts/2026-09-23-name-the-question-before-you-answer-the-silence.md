@@ -142,7 +142,7 @@ The practice works best when both people use it. It still helps when only you do
 
 ## You can act without knowing why
 
-The limits of your responsibility matter most when the difficulty isn’t one unclear exchange, but conduct that keeps hurting you. Gap Last isn’t an instruction to keep finding generous explanations for a harmful pattern.
+Sometimes the problem isn’t one unclear moment. It’s a pattern: the same thing keeps happening, and it keeps hurting you. Gap Last isn’t an instruction to keep finding generous explanations for it.
 
 If someone repeatedly cancels commitments, you can address the cancellations. If they insult you, you can object to the words they used. If they won’t discuss a recurring problem, that refusal is itself something you can take into account. You don’t need certainty about a person’s motives to set a boundary around their behavior.
 
