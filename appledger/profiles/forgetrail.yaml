@@ -1,0 +1,235 @@
+profile: forgetrail
+profile_version: 0.1.0
+archetype: product
+project_status: active
+current_phase_instance: phase-65df5370e72e
+phase_instances:
+  - id: phase-1bd49ed90130
+    phase: plan
+    status: completed
+    started_at: 2026-09-01T00:00:00Z
+    completed_at: 2026-09-04T00:00:00Z
+    criteria:
+      - id: crit-6a339d49c932
+        text: Tech choices confirmed
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-564fef0cd2ee
+        text: Folder structure confirmed
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-164c4012683b
+        text: Data model shape confirmed
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-dd1e4fd31151
+        text: First feature batch defined
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-ad4213acae4e
+        text: Claude's understanding verified by user
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-2c77337f4b1c
+        text: PHASE_1_BRIEF.md created, complete, and locked (docs/)
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-4bbf3ca6468c
+        text: Major decisions recorded in workflow_tracking.json decisions[]
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+  - id: phase-65df5370e72e
+    phase: build
+    status: in_progress
+    started_at: 2026-09-04T00:00:00Z
+    criteria:
+      - id: crit-91d1863d386d
+        text: package.json name gaplast, private, type module, pnpm
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-acad1a5a4f1b
+        text: "Validator: hypothesis must point at a live gap; section order"
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-6f0ea6aef600
+        text: "Tests: Langtang Wednesday /full; Thursday /reopen moves leftover;
+          who-caused-it does not answer first"
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-01e010177874
+        text: "CLI: stdin or file in, reconstruction markdown out"
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-f82891d959fa
+        text: Skill shipped in package files list
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-b7abcfd62ef6
+        text: CONTEXT_PROMPT.md created and populated by merging PHASE_1_BRIEF.md
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-974c6d283837
+        text: README.md expanded from current stub without becoming a second spec
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-e6885f6fc666
+        text: TODO.md created (seeded from PHASE_1_BRIEF §11)
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-313a61613b9e
+        text: IDEAS.md created
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-2d10b85d55e3
+        text: Phase 2 doc scope only (no premature extra templates)
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+      - id: crit-86fa5222f70c
+        text: No FilePress site scaffold in this phase unless Sam pulls M3 forward
+        status: met
+        evidence_refs: []
+        disposition_reason: Imported as a historical assertion. Verification was not recorded.
+  - id: phase-67c064f28401
+    phase: stabilize
+    status: not_started
+    criteria:
+      - id: crit-501edadec680
+        text: pnpm test fails if an allowed hypothesis has no points-at
+        status: pending
+        evidence_refs: []
+      - id: crit-d1380f8417b0
+        text: CLI completes on Langtang-scale input without a research loop
+        status: pending
+        evidence_refs: []
+      - id: crit-29c2a5553bb1
+        text: Error messages are human-readable (not just status codes)
+        status: pending
+        evidence_refs: []
+  - id: phase-c9d2e8f99e10
+    phase: iterate
+    status: not_started
+    criteria:
+      - id: crit-df5efb57b2e1
+        text: Core value proposition delivered
+        status: pending
+        evidence_refs: []
+      - id: crit-14579572d930
+        text: Hero flow works with real data including edge cases
+        status: pending
+        evidence_refs: []
+      - id: crit-9e072cd8f6c0
+        text: Features tested beyond happy path
+        status: pending
+        evidence_refs: []
+  - id: phase-a3c2ead17054
+    phase: refine
+    status: not_started
+    criteria:
+      - id: crit-b83628948c0e
+        text: No file exceeds ~500 lines without justification
+        status: pending
+        evidence_refs: []
+      - id: crit-9f1a67ab2f86
+        text: Shared utilities extracted
+        status: pending
+        evidence_refs: []
+      - id: crit-ec2bc0c5de09
+        text: No duplicated patterns
+        status: pending
+        evidence_refs: []
+      - id: crit-f9a5d6f95917
+        text: Build passes after each refactor
+        status: pending
+        evidence_refs: []
+  - id: phase-380029fbbb62
+    phase: align
+    status: not_started
+    criteria:
+      - id: crit-357424430a57
+        text: BRAND_AND_PRODUCT.md created (from ForgeTrail template)
+        status: pending
+        evidence_refs: []
+      - id: crit-e97517a0ecc5
+        text: TODO reorganized by brand value pillars
+        status: pending
+        evidence_refs: []
+      - id: crit-d65e3a6214e6
+        text: Features mapped to brand pillars
+        status: pending
+        evidence_refs: []
+      - id: crit-922d958feab8
+        text: Gap between brand promise and product identified
+        status: pending
+        evidence_refs: []
+      - id: crit-d1b6dd797a40
+        text: IDEAS.md processed into TODO
+        status: pending
+        evidence_refs: []
+      - id: crit-2acf78478d29
+        text: Build order decided
+        status: pending
+        evidence_refs: []
+  - id: phase-cca13442d6ba
+    phase: harden
+    status: not_started
+    criteria:
+      - id: crit-eea3cc3e0bee
+        text: CODE_QUALITY.md produced (from ForgeTrail template) and critical findings
+          fixed
+        status: pending
+        evidence_refs: []
+      - id: crit-6d81a2dc59ea
+        text: BLACK_HAT_REPORT.md produced (via ForgeTrail security audit) and
+          critical/high findings fixed
+        status: pending
+        evidence_refs: []
+      - id: crit-8f4a04d0b379
+        text: All findings triaged into TODO.md with P0/P1/P2 priority
+        status: pending
+        evidence_refs: []
+      - id: crit-67918839911a
+        text: No silent failures in core workflows (grep for empty catch blocks)
+        status: pending
+        evidence_refs: []
+      - id: crit-da4bc4b11925
+        text: DEPLOYMENT.md created (from ForgeTrail template)
+        status: pending
+        evidence_refs: []
+      - id: crit-9e065cbed93b
+        text: TEST_PLAN.md complete or extended
+        status: pending
+        evidence_refs: []
+      - id: crit-90cb30a73ba2
+        text: TECHNICAL_REFERENCE.md complete and current
+        status: pending
+        evidence_refs: []
+      - id: crit-c1eb139bdbe4
+        text: Docs alignment audit passed
+        status: pending
+        evidence_refs: []
+      - id: crit-fd9d17f89632
+        text: All documentation consolidated and cross-referenced
+        status: pending
+        evidence_refs: []
+      - id: crit-5f5dae6a1cc2
+        text: FilePress site on gaplast.dev (M3) if pulled in this lifecycle
+        status: pending
+        evidence_refs: []
+transitions: []
