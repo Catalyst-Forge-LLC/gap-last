@@ -17,7 +17,7 @@ The jump can happen so quickly that we experience the conclusion before we recog
 
 Most fills are verdicts about where we stand: whether we are respected, trusted, cared for, wanted. That is why they arrive so fast, and why they are so hard to put down.
 
-A gap is a question you don’t have the answer to yet. These gaps arise across friendships, marriages, families, workplaces, and exchanges between strangers. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more certain than the moment warrants.
+A gap is a question you don’t have the answer to yet. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more certain than the moment warrants.
 
 [Gap Last](/) is a method for keeping explanations accountable to what is known, and it works between people too. It won’t settle every disagreement, but it can help us notice when we’ve begun responding to a story as though it were something the other person actually did.
 
@@ -27,11 +27,11 @@ Between people, the bound is what the available evidence lets us establish. It s
 
 “They haven’t replied to the message I sent this morning” stays within that limit. “They’re withholding a reply to punish me” adds an explanation. Call that added story the fill.
 
-A fill can be plausible. It can even turn out to be right. Until there is enough evidence, it remains an explanation we are considering.
+A fill can be plausible. It can even turn out to be right. Until the evidence can carry it, though, a fill is only a possibility. You are considering it. You do not know it.
 
-The distinction matters because the feeling and the story can seem inseparable. “I’m frightened by this silence” describes an experience. “This silence means they’ve written me off” makes a claim about what is happening. The fear is real even while the claim is uncertain.
+The feeling and the story can seem inseparable. “I’m frightened by this silence” describes an experience. “This silence means they’ve written me off” makes a claim about what is happening. The fear is real even while the claim is uncertain.
 
-You can take your hurt seriously while remaining uncertain about the explanation. You don’t have to dismiss yourself to be curious about someone else, or stop feeling something before you examine the explanation attached to it. You can be hurt, angry, or afraid and still ask, “What do I actually know?”
+You can take your hurt seriously while remaining uncertain about the explanation. You can be hurt, angry, or afraid and still ask, “What do I know for sure, and what did I add?”
 
 The bound is what you know. The fill is what you added.
 
@@ -51,9 +51,9 @@ She doesn’t answer his text until evening, and then only “ok.” He reads it
 
 That’s how a small silence becomes a climate.
 
-The cycle can also feed on attempts to be careful. Someone whose explanations have been misunderstood before may hesitate to offer more detail. That hesitation can look like concealment to the other person. Suspicion prompts more guardedness, which prompts more suspicion. Neither person has to intend that result. Each can be responding to what they believe the other has already made clear.
+Even care can feed it. Someone who has been misunderstood before may offer less detail, and the other person may read that as concealment. Neither has to intend the result.
 
-The original disagreement may still be there. Around it, we can build another conflict out of motives neither person has established and accusations neither recognizes as fair. One way to interrupt that cycle is to separate what happened from what we concluded before choosing our response.
+The original disagreement may still be there. Around it, we can build a second conflict out of motives neither person has established. One way to interrupt that is to separate what happened from what we concluded before choosing our response.
 
 ## Four steps before the next move
 
@@ -66,7 +66,7 @@ These are four steps to run before you answer, before you send, or before you de
 
 The fourth step can end without an explanation. Sometimes the useful result is a clearer question or a next action that doesn’t require knowing the answer.
 
-Run as a ritual, the steps can march you straight to the verdict you started with. They only work if you’re willing to be changed by what you find.
+It is possible to go through all four steps only to confirm the verdict you started with. They only work if you’re willing to be changed by what you find.
 
 ## A practical example: four steps on a silence
 
@@ -88,15 +88,15 @@ The delay alone doesn’t establish contempt, distraction, disagreement, or a te
 
 “Have they had a chance to read this, and when can we discuss it?”
 
-That may be the question you need answered first, not the only uncertainty in the exchange. How the feedback landed can be addressed when you talk. A verdict about their character would reach much further than the immediate uncertainty requires.
+That is the question to answer first. How the feedback landed can wait until you talk. A verdict about their character would reach much further than the immediate uncertainty requires.
 
-You may also be wondering, “Have I lost their respect?” Naming that question does not make “yes” any more certain. A named question gives an explanation a target, not a warrant. Nor is it the last question. The name is [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap): naming one uncertainty shows which gap you’re trying to fill, not that you’ve found every unknown.
+You may also be wondering, “Have I lost their respect?” Naming that question does not make “yes” any more certain. A named question gives an explanation a target, not a warrant. It isn’t necessarily the last question, either. That is why the name is [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
 
 **What explanation, if any, is justified?**
 
 “They may be occupied. They may need time to think. I don’t yet know.”
 
-If you need a working explanation to plan around, keep its status visible: “I’m going to assume they need more time and follow up tomorrow.” That leaves room for correction. The trouble starts when the guess loses its label and becomes something you claim to know.
+If you need a working explanation to plan around, keep its status visible: “I’m going to assume they need more time and follow up tomorrow.” The trouble starts when the guess loses its label and becomes something you claim to know.
 
 You don’t need to choose among the possibilities to send a useful follow-up:
 
@@ -110,7 +110,7 @@ That follow-up asks without making the other person defend against an accusation
 
 If you learn they were dealing with a sick child, you have a credible explanation for their unavailability. That weakens the inference that the delay signals contempt. It doesn’t establish everything they feel about you or the work, but it gives you a reason to reconsider what you made of the silence.
 
-Other answers may reveal that you understood the sequence differently. What happened before the reply? What information did each person have? What did each believe had been agreed? What else needed their attention? Their account can help you revise what you think happened, which may change the question of why it happened.
+Other answers may reveal that you understood the sequence differently. What did each person believe had been agreed? What else needed their attention? Their account can change what you think happened, and with it the question of why.
 
 To examine an interpretation together, it helps to distinguish three things: what you noticed, what you made of it, and what you want to understand.
 
@@ -118,11 +118,9 @@ To examine an interpretation together, it helps to distinguish three things: wha
 
 The interpretation is now visible as an interpretation. The other person has something specific to answer. On your side, there is another question: What could I learn that would change my view?
 
-Perhaps they understood your sentence differently. Perhaps something unrelated interrupted them. Perhaps they were angry, but about a part of the exchange you hadn’t noticed. Their answer is additional information. It may clarify the moment, leave questions open, or conflict with other evidence. You can consider it without automatically accepting or rejecting it.
+Perhaps they read your sentence differently than you meant it (a sentence can allow a reading you never intended; [Misemphasis](https://misemphasis.com) looks for them). Perhaps something unrelated interrupted them. Perhaps they were angry, but about a part of the exchange you hadn’t noticed. Their answer is more evidence, not a verdict. You can weigh it without automatically accepting or rejecting it.
 
-If nothing they could say or show would change your conclusion, you’re no longer asking a question. You may already be deciding how to respond to an established pattern, rather than trying to explain a single moment. You may also be defending a fill. Being honest about which conversation you are having matters.
-
-Remaining willing to learn can also mean discovering that your own contribution landed differently from how you intended it.
+If nothing they could say or show would change your conclusion, you’re no longer asking a question. You may already be deciding how to respond to an established pattern, rather than trying to explain a single moment. You may also be defending a fill. Be honest about which conversation you are having.
 
 ## Aimed both ways
 
@@ -138,9 +136,9 @@ You know more about your intentions than they do. They know more about their exp
 
 What you owe is honesty about where the evidence ends and your interpretation begins, and whatever your part calls for: a clarification, an acknowledgment, an apology.
 
-Their conduct remains theirs to answer for. Other people can withhold information, evade questions, or break agreements. You can make a reasonable effort to understand them, but you cannot make another person revise an interpretation or participate in a conversation. Being responsible for your contribution does not make you responsible for securing their understanding.
+Their conduct remains theirs to answer for. You can make a reasonable effort to understand someone, but you cannot make them revise an interpretation or join a conversation. Being responsible for your contribution does not make you responsible for securing their understanding.
 
-Even on your own, you can catch an unsupported inference before sending it as an accusation, ask a more useful question, or recognize that you need time before replying. None of those requires the other person to know the name Gap Last. It works better with two. It still works with one, and using it alone does not make you responsible for carrying the entire relationship.
+The practice works better with two. It still works with one. You can catch an inference before it becomes an accusation, ask a better question, or wait before replying. None of that requires the other person to know the name Gap Last, and none of it makes you responsible for carrying the whole relationship.
 
 ## You can act without knowing why
 
@@ -148,17 +146,15 @@ That limit matters when the difficulty is not one unclear exchange, but conduct 
 
 If someone repeatedly cancels commitments, you can address the cancellations. If they insult you, you can object to the words they used. If they won’t discuss a recurring problem, that refusal is itself something you can take into account. You do not need certainty about a person’s motives to set a boundary around their behavior.
 
-“I don’t know why this keeps happening, but I can’t keep making plans on these terms” stays within what you know and still permits action.
+“I don’t know why this keeps happening, but I can’t keep making plans on these terms” stays on the evidence side of the line and still permits action.
 
-Remaining open to new information doesn’t require continuing to expect a different outcome from an established pattern. You can revise your understanding if new evidence arrives while making decisions based on the evidence you already have.
+Staying open to new evidence doesn’t mean expecting a different outcome from an established pattern. You can revise your understanding if new evidence arrives, and still decide now on the evidence you have.
 
-A cleaner question may lead to understanding. It may also show you that an agreement isn’t dependable or that a conversation isn’t possible right now. Another attempt at a better time may help. At some point, another attempt stops helping. Curiosity does not commit you to an endless effort to get an answer.
+A cleaner question may lead to understanding. It may also show you that an agreement isn’t dependable or that a conversation isn’t possible right now. Curiosity does not commit you to an endless effort to get an answer.
 
 ## Improvement still counts
 
-Some fights will survive this and remain fights. Broken agreements, competing needs, and real harm require more than careful interpretation.
-
-The practice helps even when the disagreement stays. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
+Some fights will survive this and remain fights. Broken agreements, competing needs, and real harm require more than careful interpretation. The practice helps even when the disagreement stays. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
 
 You may still disagree about the decision while discovering that neither person intended the slight. You may still be hurt while understanding more accurately what needs repair. You may leave the conversation with a hard problem that is finally clear enough to address.
 
@@ -168,10 +164,10 @@ That counts. You don’t have to fix the relationship to make the next exchange 
 
 Choose an unresolved moment with someone in your life. Write down the explanation you have been treating as true. Then write the question that explanation answers.
 
-Underneath it, write what you actually observed and one thing you still need to understand. Keep the missing information in question form.
+Underneath it, write what you actually observed. Draw a line there. That is where the evidence ends and your interpretation begins. Below the line, write one thing you still need to understand, in question form.
 
 “They don’t value my time” might reveal the question “Do they take our commitments seriously?” If what you observed was a cancelled meeting, a more immediate question could be: “What happened between agreeing to meet and cancelling?”
 
-If it is appropriate to ask, ask about that missing part. Their answer may help, leave uncertainty, or need to be checked against other evidence. If you cannot ask, decide what you can do with what you already know. You can leave the motive unresolved while following up, changing a plan, or setting a boundary.
+If it is appropriate to ask, ask about that missing part. If you cannot ask, decide what you can do with what you already know. You can leave the motive unresolved while following up, changing a plan, or setting a boundary.
 
 Name the question before you answer the silence.
