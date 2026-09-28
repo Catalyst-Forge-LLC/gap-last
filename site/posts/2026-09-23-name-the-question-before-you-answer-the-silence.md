@@ -15,7 +15,7 @@ Sometimes we ask. Sometimes we arrive already holding an answer to a question we
 
 The jump can happen so quickly that we experience the conclusion before we recognize the question. It doesn’t feel like reasoning. It feels like knowing.
 
-Most fills are verdicts about where we stand: whether we are respected, trusted, cared for, wanted. That is why they arrive so fast, and why they are so hard to put down. They rarely come from nowhere. Often they are borrowed from the last time something like this happened, sometimes with someone else entirely.
+Most of these conclusions are verdicts about where we stand: whether we are respected, trusted, cared for, wanted. That is why they arrive so fast, and why they are so hard to put down. They rarely come from nowhere. Often these verdicts are borrowed from the last time something like this happened, sometimes with someone else entirely.
 
 A gap is a question you don’t have the answer to yet. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more certain than the moment warrants.
 
@@ -43,7 +43,7 @@ Sometimes we would rather be hurt than unsure.
 
 Frustration can supply “They don’t care,” giving the uncertainty an ending. Fear can supply “They’re going to reject me,” making it feel as though you’ve gotten the disappointment over with before it arrives.
 
-That relief can make a story harder to question. You begin preparing for the ending you expect, and later information has to work its way past a conclusion you have already started living in. Another short reply becomes confirmation. A delay becomes confirmation. Even an explanation gets heard as an excuse. The verdict is already in.
+The relief of an ending can make a story harder to question. You begin preparing for the ending you expect, and later information has to work its way past a conclusion you have already started living in. Another short reply becomes confirmation. A delay becomes confirmation. Even an explanation gets heard as an excuse. The verdict is already in.
 
 If the fill says contempt, the next move may be a defense, a counter-charge, a matching silence, or a message written to collect a confession. If the actual issue was timing, overload, or a misunderstanding, those moves can create a second hurt. That second hurt then gets its own fill.
 
@@ -51,9 +51,9 @@ She doesn’t answer his text until evening, and then only “ok.” He reads it
 
 That’s how a small silence becomes a climate.
 
-Even caution can feed it. Someone who has been misunderstood before may offer less detail, and the other person may read that as concealment. Neither has to intend the result.
+Even caution can feed the cycle. Someone who has been misunderstood before may offer less detail, and the other person may read that as concealment. Neither has to intend the result.
 
-The original disagreement may still be there. Around it, we can build a second conflict out of motives neither person has established. One way to interrupt that is to separate what happened from what we concluded before choosing our response.
+The original disagreement may still be there. Around it, we can build a second conflict out of motives neither person has established. One way to interrupt the cycle is to separate what happened from what we concluded before choosing our response.
 
 ## Four steps before the next move
 
@@ -66,7 +66,7 @@ These are four steps to run before you answer, before you send, or before you de
 
 The fourth step can end without an explanation. Sometimes the useful result is a clearer question or a next action that doesn’t require knowing the answer.
 
-You can go through all four steps and still arrive at the verdict you started with. They work only if you’re willing to be changed by what you find.
+You can go through all four steps and still arrive at the verdict you started with. The steps work only if you’re willing to be changed by what you find.
 
 ## A practical example: four steps on a silence
 
@@ -82,7 +82,7 @@ That is more precise than “they stopped talking to me,” which may already im
 
 “Nothing yet.”
 
-The delay alone doesn’t establish contempt, distraction, disagreement, or a technical problem. Nor does “they would have replied if they cared” exclude those alternatives. It tells you what you expected, not what prevented a reply in this instance.
+The delay alone doesn’t establish contempt, distraction, disagreement, or a technical problem. Nor does “they would have replied if they cared” exclude those alternatives. That belief tells you what you expected, not what prevented a reply in this instance.
 
 **What is the remaining question?**
 
@@ -124,11 +124,11 @@ If nothing they could say or show would change your conclusion, you’re no long
 
 ## Aimed both ways
 
-You are also someone else’s silence. Somewhere, a reply you haven’t sent is being read into, and the story attached to it may be as unfair as yours.
+You are also someone else’s silence. Somewhere, a reply you haven’t sent is being read into, and the story someone is writing about you may be as unfair as the one you wrote about them.
 
-Or suppose their answer is different: “Honestly, the feedback read like you’d already decided the work was bad.”
+Back in the feedback example, suppose their answer is different: “Honestly, the feedback read like you’d already decided the work was bad.”
 
-The first sentence that rises is “That’s not what I meant.” It may be true. It also ends the conversation, because it answers a question they didn’t ask. They told you how it landed, not what you intended.
+The first sentence that rises is “That’s not what I meant.” It may be true. It also ends the conversation, because it answers a question they didn’t ask. They told you how the feedback landed, not what you intended.
 
 “That isn’t what I intended, and I want to understand how it read. Which part landed hardest?”
 
@@ -142,7 +142,7 @@ The practice works better with two. It still works with one. You can catch an in
 
 ## You can act without knowing why
 
-That limit matters when the difficulty is not one unclear exchange, but conduct that keeps hurting you. Gap Last is not an instruction to keep finding generous explanations for a harmful pattern.
+The limits of your responsibility matter most when the difficulty is not one unclear exchange, but conduct that keeps hurting you. Gap Last is not an instruction to keep finding generous explanations for a harmful pattern.
 
 If someone repeatedly cancels commitments, you can address the cancellations. If they insult you, you can object to the words they used. If they won’t discuss a recurring problem, that refusal is itself something you can take into account. You do not need certainty about a person’s motives to set a boundary around their behavior.
 
@@ -154,7 +154,7 @@ A cleaner question may lead to understanding. It may also show you that an agree
 
 ## Improvement still counts
 
-Some fights will survive this and remain fights. Broken agreements, competing needs, and real harm require more than careful interpretation. The practice helps even when the disagreement stays. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
+Some fights will survive the best questions and remain fights. Broken agreements, competing needs, and real harm require more than careful interpretation. The practice helps even when the disagreement stays. It can prevent an accusation, reveal one misunderstanding, make an apology more specific, or help someone set a boundary without needing to prove a motive.
 
 You may still disagree about the decision while discovering that neither person intended the slight. You may still be hurt while understanding more accurately what needs repair. You may leave the conversation with a hard problem that is finally clear enough to address.
 
@@ -177,7 +177,7 @@ When an exchange starts to feel like a verdict, check for these:
 
 Choose an unresolved moment with someone in your life. Write down the explanation you have been treating as true. Then write the question that explanation answers.
 
-Underneath it, write what you actually observed. Draw a line there. That is where the evidence ends and your interpretation begins. Below the line, write one thing you still need to understand, in question form.
+Underneath both, write what you actually observed. Draw a line there. That is where the evidence ends and your interpretation begins. Below the line, write one thing you still need to understand, in question form.
 
 “They don’t value my time” might reveal the question “Do they take our commitments seriously?” If what you observed was a cancelled meeting, a more immediate question could be: “What happened between agreeing to meet and cancelling?”
 
