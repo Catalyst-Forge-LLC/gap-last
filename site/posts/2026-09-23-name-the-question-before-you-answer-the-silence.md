@@ -66,7 +66,7 @@ These are four steps to run before you answer, before you send, or before you de
 
 The fourth step can end without an explanation. Sometimes the useful result is a clearer question or a next action that doesn’t require knowing the answer.
 
-You can go through all four steps and still arrive at the verdict you started with. The steps work only if you’re willing to be changed by what you find.
+You can go through all four steps and still arrive at the verdict you started with. The steps help only if you’re willing to let what you find change your mind.
 
 ## A practical example: four steps on a silence
 
