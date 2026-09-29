@@ -71,8 +71,8 @@ Chesterton post, and that draft.
   The paper is the argument. The skill and CLI keep the order.
   Prefer a picture the reader can see. A visual that lands
   sticks; a metaphor they have to decode does not. Spell a
-  translation sentence (reach, warrant, establish, permit,
-  inference). A picture they can see stays. Keep
+  translation sentence (reach, establish, permit, inference). A
+  picture they can see stays, including "a target, not a warrant." Keep
   "smuggle" (a cause slipping in unpaid), "one breath" (how
   little time you have), and Chesterton's fence and plaque
   (that metaphor is the subject). Say "face the same

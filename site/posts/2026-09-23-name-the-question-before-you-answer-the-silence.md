@@ -90,7 +90,7 @@ The silence is unusual for them, and that’s worth noticing. It tells you somet
 
 That’s the question to answer first. How the feedback landed can wait until you talk. A missing reply does not tell you how they feel.
 
-You may also be wondering, “Did I damage our working relationship?” Naming that question doesn’t make “yes” any more certain. It only says what the explanation is about. Nor is a named question necessarily the last one. The name makes the same point: [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
+You may also be wondering, “Did I damage our working relationship?” Naming that question doesn’t make “yes” any more certain. A named question gives an explanation a target, not a warrant. Nor is a named question necessarily the last one. The name makes the same point: [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
 
 **What explanation, if any, is justified?**
 
