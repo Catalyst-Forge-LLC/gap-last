@@ -1,7 +1,7 @@
 ---
 title: "Name the question before you answer the silence"
 date: 2026-09-23
-description: When a silence already feels like a verdict, the fill is the story you added and the bound is what the evidence can hold. What happens underneath, and four steps before your next move.
+description: When a silence already feels like a verdict, the fill is the story you added and the bound is what the evidence can hold. What happens underneath, and four questions before your next move.
 tags: [method]
 ---
 
@@ -55,36 +55,36 @@ Even caution can feed the cycle. Someone who has been misunderstood before may o
 
 There may be a real disagreement underneath. Around it, we can build a second conflict out of motives neither person has established. One way to interrupt the cycle is to pause before responding, and separate what happened from what we concluded.
 
-## Four steps before the next move
+## Four questions before your next move
 
-These are four steps to run before you answer, before you send, or before you decide the silence has already spoken.
+When a silence has already started to feel like an answer, slow down. Before you reply, before you send, before you decide what it meant, ask yourself four questions.
 
-1. State what happened. Be specific, and mark what you’re unsure of.
-2. Check what the evidence rules out. If nothing is excluded yet, say “nothing yet.”
-3. Name the remaining question. What do you need to understand, and would answering it help you decide what to do?
-4. Keep any explanation provisional and within scope. It should answer the question you named, fit the evidence, and remain open to revision.
+1. What actually happened? Say it as plainly as you can, and admit what you don’t know.
+2. What can I rule out? Often the honest answer is “nothing yet.”
+3. What do I still need to understand? Name the question, and ask whether the answer would change what you do next.
+4. What explanation, if any, can I hold for now? Only one that answers your question and fits what you know. Hold it loosely, so it can change.
 
-The fourth step can end without an explanation. Sometimes the useful result is a clearer question or a next action that doesn’t require knowing the answer.
+You may reach the end with no explanation at all. That still counts. You have a clearer question, or a next step that doesn’t depend on knowing why.
 
-You can go through all four steps and still arrive at the verdict you started with. The steps only help if you’re willing to revise that verdict.
+The questions only help if you’re willing to be wrong. You can answer all four and land exactly where you started, if the verdict was never really open.
 
-## A practical example: four steps on a silence
+## One silence, four questions
 
 You gave a colleague feedback on a draft they’d put real work into. You thought you’d chosen your words carefully. They usually reply within a few hours. A full day has passed with nothing. The thought that keeps coming back is: *I was too harsh, and now they’re upset with me.*
 
-**What happened?**
+**What actually happened?**
 
 “I sent feedback yesterday morning. They usually reply within a few hours, and they haven’t. I don’t know whether they’ve read it.”
 
 That’s more precise than “they’re upset with me,” which already assumes the reason.
 
-**What does the evidence rule out?**
+**What can I rule out?**
 
 “Nothing yet.”
 
-The silence is unusual for them, and that’s worth noticing. It tells you something is different, not what. The delay alone doesn’t establish hurt, distraction, disagreement, or a technical problem. Nor does “they’d have replied by now if they were fine” exclude those alternatives. That belief tells you what you expected, not what prevented a reply in this instance.
+The silence is unusual for them, and that’s worth noticing. It tells you something is different, not what. They might be hurt. They might be busy, or disagree, or never have seen the message. “They’d have replied by now if they were fine” doesn’t settle it. That tells you what you expected, not what happened on their end.
 
-**What is the remaining question?**
+**What do I still need to understand?**
 
 “Have they had a chance to read this, and when can we discuss it?”
 
@@ -92,7 +92,7 @@ That’s the question to answer first. How the feedback landed can wait until yo
 
 You may also be wondering, “Did I damage our working relationship?” Naming that question doesn’t make “yes” any more certain. A named question gives an explanation a target, not a warrant. Nor is a named question necessarily the last one. The name makes the same point: [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
 
-**What explanation, if any, is justified?**
+**What explanation, if any, can I hold for now?**
 
 “They may be occupied. They may need time to think. I don’t yet know.”
 
@@ -140,7 +140,7 @@ What you owe is honesty about the line where the evidence ends and your interpre
 
 The other person’s conduct is theirs to answer for. You can make a reasonable effort to understand someone, but you can’t make them revise an interpretation or join a conversation. Being responsible for your contribution doesn’t make you responsible for securing their understanding.
 
-These steps work best when both people use them. They still help when only you do. You can catch an inference before it becomes an accusation, ask a better question, or wait before replying. None of that requires the other person to know the name Gap Last, and none of it makes you responsible for carrying the whole relationship.
+These questions work best when both people ask them. They still help when only you do. You can catch a guess before it becomes an accusation, ask a better question, or wait before replying. None of that requires the other person to know the name Gap Last, and none of it makes you responsible for carrying the whole relationship.
 
 ## You can act without knowing why
 
