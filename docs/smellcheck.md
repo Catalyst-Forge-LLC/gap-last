@@ -70,7 +70,9 @@ Chesterton post, and that draft.
   Do not split "instrument" and "method" as two public identities.
   The paper is the argument. The skill and CLI keep the order.
   Prefer a picture the reader can see. A visual that lands
-  sticks; a metaphor they have to decode does not. Keep
+  sticks; a metaphor they have to decode does not. Spell a
+  translation sentence (reach, warrant, establish, permit,
+  inference). A picture they can see stays. Keep
   "smuggle" (a cause slipping in unpaid), "one breath" (how
   little time you have), and Chesterton's fence and plaque
   (that metaphor is the subject). Say "face the same

@@ -17,7 +17,7 @@ The jump can happen so quickly that we experience the conclusion before we recog
 
 Most of these conclusions are verdicts about where we stand: whether we are respected, trusted, cared for, wanted. That’s why they arrive so fast, and why they are so hard to put down. They rarely come from nowhere. Often these verdicts are borrowed from the last time something like this happened, sometimes with someone else entirely.
 
-A gap is a question you don’t have the answer to yet. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more certain than the moment warrants.
+A gap is a question you don’t have the answer to yet. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more sure than this one moment supports.
 
 [Gap Last](/) is a method for keeping explanations accountable to what is known, and it works between people too. It won’t settle every disagreement, but it can help us notice when we’ve begun responding to a story as though it were something the other person actually did.
 
@@ -90,7 +90,7 @@ The silence is unusual for them, and that’s worth noticing. It tells you somet
 
 That’s the question to answer first. How the feedback landed can wait until you talk. A missing reply does not tell you how they feel.
 
-You may also be wondering, “Did I damage our working relationship?” Naming that question doesn’t make “yes” any more certain. A named question gives an explanation a target, not a warrant. Nor is a named question necessarily the last one. The name makes the same point: [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
+You may also be wondering, “Did I damage our working relationship?” Naming that question doesn’t make “yes” any more certain. It only says what the explanation is about. Nor is a named question necessarily the last one. The name makes the same point: [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
 
 **What explanation, if any, is justified?**
 
@@ -110,7 +110,7 @@ The next move can be sound even while the reason remains unknown.
 
 That follow-up asks without accusing them, or apologizing for harm you haven’t established. The next task is to listen for what their answer adds, including information that changes your view.
 
-If you learn they were dealing with a sick child, you have a credible explanation for their unavailability. That weakens the inference that the delay signals hurt feelings. It doesn’t establish everything they feel about the feedback, but it gives you a reason to reconsider what you made of the silence.
+If you learn they were dealing with a sick child, you have a credible explanation for their unavailability. That makes “they’re hurt” a weaker story. It still does not tell you everything they feel about the feedback, but it gives you a reason to reconsider what you made of the silence.
 
 Other answers may show that the two of you saw the events differently. What did each person believe had been agreed? What else needed their attention? Their account can change what you think happened, and with it the question of why.
 
@@ -148,7 +148,7 @@ Sometimes the problem isn’t one unclear moment. It’s a pattern: the same thi
 
 If someone repeatedly cancels commitments, you can address the cancellations. If they insult you, you can object to the words they used. If they won’t discuss a recurring problem, that refusal is itself something you can take into account. You don’t need certainty about a person’s motives to set a boundary around their behavior.
 
-“I don’t know why this keeps happening, but I can’t keep making plans on these terms” stays on the evidence side of that line and still permits action.
+“I don’t know why this keeps happening, but I can’t keep making plans on these terms” stays with what you know, and you can still act.
 
 Staying open to new evidence doesn’t mean expecting a different outcome from an established pattern. You can revise your understanding if new evidence arrives, and still decide now on the evidence you have.
 
