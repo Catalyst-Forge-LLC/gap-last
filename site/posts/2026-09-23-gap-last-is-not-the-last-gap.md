@@ -21,7 +21,7 @@ The [working paper](/paper) puts the split in the guardrails. Gap Last is the or
 
 [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved) is the receipt from the week that named the method. Wednesday's question was why the ice detached. Thursday's images moved the object to rock. The first leftover was retired. It was not answered, and it was not the last question. Why that rock failed is still open.
 
-[Name the question before you answer the silence](/posts/2026-09-23-name-the-question-before-you-answer-the-silence) is the same refusal in a silence between people. Naming one uncertainty does not mean you have found every relevant unknown. It means you can see which gap you are trying to fill. "Have I lost their respect?" is a real question. Asking it does not make "yes" the last word.
+[Name the question before you answer the silence](/posts/2026-09-23-name-the-question-before-you-answer-the-silence) is the same refusal in a silence between people. Naming one uncertainty does not mean you have found every relevant unknown. It means you can see which gap you are trying to fill. "Did I damage our working relationship?" is a real question. Asking it does not make "yes" the last word.
 
 ## What a closed gap does
 

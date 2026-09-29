@@ -70,33 +70,35 @@ You can go through all four steps and still arrive at the verdict you started wi
 
 ## A practical example: four steps on a silence
 
-You sent feedback on some shared work. A full day has passed without a reply. Your first interpretation is: *They iced me out because they don’t respect the work.*
+You gave a colleague feedback on a draft they’d put real work into. You chose your words carefully, but some of it was hard to hear. They usually reply within a few hours. A full day has passed with nothing. The thought that keeps coming back is: *I was too harsh, and now they’re upset with me.*
 
 **What happened?**
 
-“I sent feedback a full day ago and haven’t received a reply. I don’t know whether they’ve read it.”
+“I sent feedback yesterday morning. They usually reply within a few hours, and they haven’t. I don’t know whether they’ve read it.”
 
-That’s more precise than “they stopped talking to me,” which may already imply a deliberate withdrawal.
+That’s more precise than “they’re upset with me,” which already assumes the reason.
 
 **What does the evidence rule out?**
 
 “Nothing yet.”
 
-The delay alone doesn’t establish contempt, distraction, disagreement, or a technical problem. Nor does “they would have replied if they cared” exclude those alternatives. That belief tells you what you expected, not what prevented a reply in this instance.
+The silence is unusual for them, and that’s worth noticing. It tells you something is different, not what. The delay alone doesn’t establish hurt, distraction, disagreement, or a technical problem. Nor does “they’d have replied by now if they were fine” exclude those alternatives. That belief tells you what you expected, not what prevented a reply in this instance.
 
 **What is the remaining question?**
 
 “Have they had a chance to read this, and when can we discuss it?”
 
-That’s the question to answer first. How the feedback landed can wait until you talk. A verdict about their character would reach much further than the immediate uncertainty requires.
+That’s the question to answer first. How the feedback landed can wait until you talk. A verdict about how they feel would reach much further than the immediate uncertainty requires.
 
-You may also be wondering, “Have I lost their respect?” Naming that question doesn’t make “yes” any more certain. A named question gives an explanation a target, not a warrant. Nor is a named question necessarily the last one. The name makes the same point: [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
+You may also be wondering, “Did I damage our working relationship?” Naming that question doesn’t make “yes” any more certain. A named question gives an explanation a target, not a warrant. Nor is a named question necessarily the last one. The name makes the same point: [Gap Last, not last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap).
 
 **What explanation, if any, is justified?**
 
 “They may be occupied. They may need time to think. I don’t yet know.”
 
 If you need a working explanation to plan around, keep its status visible: “I’m going to assume they need more time and follow up tomorrow.” The trouble starts when the guess loses its label and becomes something you claim to know.
+
+If *they’re upset with me* loses its label, the next move is easy to predict: “Sorry if that came across harsh. Feel free to ignore the second point.” That message apologizes for a hurt nobody has reported, and it walks back feedback that may have been right.
 
 You don’t need to choose among the possibilities to send a useful follow-up:
 
@@ -106,9 +108,9 @@ The next move can be sound even while the reason remains unknown.
 
 ## Put the question on the table
 
-That follow-up asks without making the other person defend against an accusation. The next task is to listen for what their answer adds, including information that changes your view.
+That follow-up asks without accusing them, or apologizing for harm you haven’t established. The next task is to listen for what their answer adds, including information that changes your view.
 
-If you learn they were dealing with a sick child, you have a credible explanation for their unavailability. That weakens the inference that the delay signals contempt. It doesn’t establish everything they feel about you or the work, but it gives you a reason to reconsider what you made of the silence.
+If you learn they were dealing with a sick child, you have a credible explanation for their unavailability. That weakens the inference that the delay signals hurt feelings. It doesn’t establish everything they feel about the feedback, but it gives you a reason to reconsider what you made of the silence.
 
 Other answers may show that the two of you saw the events differently. What did each person believe had been agreed? What else needed their attention? Their account can change what you think happened, and with it the question of why.
 
