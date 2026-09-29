@@ -70,7 +70,7 @@ You can go through all four steps and still arrive at the verdict you started wi
 
 ## A practical example: four steps on a silence
 
-You gave a colleague feedback on a draft they’d put real work into. You chose your words carefully, but some of it was hard to hear. They usually reply within a few hours. A full day has passed with nothing. The thought that keeps coming back is: *I was too harsh, and now they’re upset with me.*
+You gave a colleague feedback on a draft they’d put real work into. You thought you’d chosen your words carefully. They usually reply within a few hours. A full day has passed with nothing. The thought that keeps coming back is: *I was too harsh, and now they’re upset with me.*
 
 **What happened?**
 
