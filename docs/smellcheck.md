@@ -79,6 +79,9 @@ Chesterton post, and that draft.
   situation," not "meet the same shape." Say "older, and
   related," not "older relative." Drop ornamental animals,
   knives, and trophies.
+- Steps stay in the post's voice. In a warm post, the four moves are
+  questions a person asks ("What can I rule out?"), not a procedure
+  to run. If an example walks the steps, its headings match them.
 - Langtang miniature: do not lead with a preferred actor. Do not punch
   past the loss. The why is preparation and mitigation, not a puzzle.
 - Reference docs (CLI, Run, template): core only. Do not inject a scene.
