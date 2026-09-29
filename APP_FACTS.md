@@ -1,6 +1,6 @@
 ---
 app_facts_version: 0.1.0
-name: gaplast
+name: Gap Last
 type: CLI tool
 status: active
 license: MIT
@@ -25,7 +25,7 @@ credits:
   built_by: "Catalyst Forge — https://www.catalystforge.com/"
 ---
 
-# gaplast
+# Gap Last
 
 `CLI tool` · **active** · MIT
 
@@ -56,4 +56,4 @@ _None listed_
 ---
 *Generated with [AppFacts](https://appfacts.dev) · Built by [Catalyst Forge](https://www.catalystforge.com/) · [Visual label][appfacts-label]*
 
-[appfacts-label]: https://appfacts.dev/v#af1.eNpNkM1qxDAMhF8l6LAnJ6FXXwOFhW0v3VspRWsLx13_ESmhYcm7Fyct9KjRMPMxD1hAPylIGAk0OCwBWUCBrKUKw-XcSM4BFLCgzAwa0IhfCBQEbyhxtb2cr4fD3EE_IGByM7r6ua6F3szkSw2d5iR-L3rNlrovrkU5B58caCipRNgUWCoM-v1DwW32wdbAguaOjj4jJnQ0_ZkVCLGABmHTnE5Nypaatq1iYz1L75Ol767eR5nJsfhQAfbohg-yTcGYI5UDeRQprPv-d4zO0lLZqWT2kqf1v8XLON86k2M_oGBYWdrnPDlqL5ehBrT7nNsPmFl4YQ
+[appfacts-label]: https://appfacts.dev/v#af1.eNpNjkFrwzAMhf-K0aEnJ2FXXwsbhWyX9TbGUG3henVsESllofS_DzcMdtTTx_feDa7gniwUnAgcvCCbEUXBgq7ckv14MFprBguiqIuAA_SargQWcvJUpGGvh-NG-Au4G2QsccHYPseV6d3PiZt0XoqmR9NbDdR_SyuqNacSwQEXnuBuIRALuI9PC6cl5dCEjP6Ckb4mLBhp_oMtKImCAxVvdjtTaiDTdS00IYkOqQT66du9lfk6ccptwENtZFt2t3CuE_E2-azK4oYhImcU7QNd23biKknrvP5Hkp6XU-_rNOxRMa-i3XOdI3XjuG-Crhng_gtyn3hB
