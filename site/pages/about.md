@@ -20,7 +20,7 @@ Gap Last got its name from a week in late August 2026, watching the understandin
 
 The name is [Gap Last, not Last Gap](/posts/2026-09-23-gap-last-is-not-the-last-gap). Naming a leftover question is not the same as knowing you have the last one. A later trace can move the question. Treating the gap you named as closed, when you do not yet know enough to say so, is the same thin move the method exists to stop.
 
-It exists because a cause that is wrong, or too thin, aims the next warning system, the next treatment, the next fix at the wrong object. The people in the path of the next similar event deserve an accurate account. A flood off [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved), a Himalayan peak, in late August 2026 is where that cost shows.
+It exists because a cause that is wrong, or too thin, aims the next warning system, the next treatment, the next fix at the wrong object. The people in the path of the next similar event deserve an accurate account. That week on [Langtang Lirung](/posts/2026-08-31-langtang-the-bound-moved) is what made the method. A debris flood had buried homes downstream, and the first account, a glacier collapse, was already being defended and planned against while it was still only what the cloudy images could show. The next warning, the next wall, the next evacuation plan would have been built for ice. Thursday's images moved the failure to rock. A cause latched onto too early doesn't just miss. It spends the preparation on the wrong object, and the people below stay exposed.
 
 If the first question is "who caused it?", reconstruct first. The prohibition is the product. The method does not promise that a causal account will always be available.
 
