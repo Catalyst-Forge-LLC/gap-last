@@ -59,16 +59,16 @@ There may be a real disagreement underneath. Around it, we can build a second co
 
 When a silence has already started to feel like an answer, slow down. Before you reply, before you send, before you decide what it meant, ask yourself four questions.
 
-1. What actually happened? Say it as plainly as you can, and admit what you don’t know.
-2. What can I rule out? Often the honest answer is “nothing yet.”
-3. What do I still need to understand? Name the question, and ask whether the answer would change what you do next.
-4. What explanation, if any, can I hold for now? Only one that answers your question and fits what you know. Hold it loosely, so it can change.
+1. *What actually happened?* Say it as plainly as you can, and admit what you don’t know.
+2. *What can I rule out?* Often the honest answer is “nothing yet.”
+3. *What do I still need to understand?* Name the question, and ask whether the answer would change what you do next.
+4. *What explanation, if any, can I hold for now?* But only an explanation that answers your question and fits what you know. Hold it loosely, so it can change.
 
-You may reach the end with no explanation at all. That still counts. You have a clearer question, or a next step that doesn’t depend on knowing why.
+You may reach the end with no explanation at all. That still counts. You have a clearer question, or a next step that doesn’t depend on knowing *why*.
 
-The questions only help if you’re willing to be wrong. You can answer all four and land exactly where you started, if the verdict was never really open.
+These questions only help if you’re willing to be wrong. If you can answer all four and land exactly where you started, perhaps the verdict was never really open.
 
-## One silence, four questions
+## Example: One silence, four questions
 
 You gave a colleague feedback on a draft they’d put real work into. You thought you’d chosen your words carefully. They usually reply within a few hours. A full day has passed with nothing. The thought that keeps coming back is: *I was too harsh, and now they’re upset with me.*
 
@@ -94,33 +94,33 @@ You may also be wondering, “Did I damage our working relationship?” Naming t
 
 **What explanation, if any, can I hold for now?**
 
-“They may be occupied. They may need time to think. I don’t yet know.”
+“They may be occupied. They may need time to think. I don’t know yet.”
 
-If you need a working explanation to plan around, keep its status visible: “I’m going to assume they need more time and follow up tomorrow.” The trouble starts when the guess loses its label and becomes something you claim to know.
+If you need a working explanation to plan around, keep its status plain and visible: “I’m going to assume they need more time and follow up tomorrow.” The trouble starts when the explanation loses its "guess" label and becomes something you claim to know.
 
-If *they’re upset with me* loses its label, the next move is easy to predict: “Sorry if that came across harsh. Feel free to ignore the second point.” That message apologizes for a hurt nobody has reported, and it walks back feedback that may have been right.
+If *they’re upset with me* loses its label, the next move is easy to predict: “Sorry if that came across harsh. Feel free to ignore my second point.” That message apologizes for a hurt nobody has reported, and it walks back feedback that may have been right.
 
-You don’t need to choose among the possibilities to send a useful follow-up:
+You don’t have to choose among all these possibilities to send a useful follow-up:
 
 “Have you had a chance to look at the feedback? I’d like to talk it through. Would tomorrow work?”
 
-The next move can be sound even while the reason remains unknown.
+The next move can be clear and defined even while the reason remains unknown.
 
 ## Put the question on the table
 
-That follow-up asks without accusing them, or apologizing for harm you haven’t established. The next task is to listen for what their answer adds, including information that changes your view.
+A useful follow-up asks without accusing them, or apologizing for harm you haven’t established. The next task is to listen for what their answer adds, including information that illuminates the gap and changes your view.
 
 If you learn they were dealing with a sick child, you have a credible explanation for their unavailability. That makes “they’re hurt” a weaker story. It still does not tell you everything they feel about the feedback, but it gives you a reason to reconsider what you made of the silence.
 
-Other answers may show that the two of you saw the events differently. What did each person believe had been agreed? What else needed their attention? Their account can change what you think happened, and with it the question of why.
+Other answers may show that the two of you saw the events differently. What did each person believe had been agreed? What else needed their attention? Their account can change what you think happened, and with it the question of *why*.
 
 If you talk and something still feels unresolved, it helps to distinguish three things: what you noticed, what you made of it, and what you want to understand.
 
 “After I sent the feedback, the conversation went quiet. I worried that you were angry with me. How did my message land for you?”
 
-Your interpretation is now visible as an interpretation. The other person has something specific to answer. On your side, there’s another question: What could I learn that would change my view?
+Your interpretation is now visible as an interpretation. The other person has something specific to answer. On your side, there’s a question to ask yourself: what could they tell me that would change what I think the silence meant?
 
-Perhaps they read your feedback differently than you meant it (a sentence can allow a reading you never intended; [Misemphasis](https://misemphasis.com) looks for those readings). Perhaps something unrelated interrupted them. Perhaps they were angry, but about a part of the exchange you hadn’t noticed. Their answer is more evidence, not a verdict. You can weigh it without automatically accepting or rejecting it.
+Perhaps the message sat unread under everything else. Perhaps something unrelated came up, and the reply slipped. Perhaps they did read it, and it landed differently than you meant (a sentence can allow a reading you never intended; [Misemphasis](https://misemphasis.com) looks for those readings). Perhaps they were upset, but about a part of the exchange you hadn’t noticed. Whatever they say is more evidence, not a verdict. You can weigh it without automatically accepting or rejecting it.
 
 If nothing they could say or show would change your conclusion, you’re no longer asking a question. You may already be deciding how to respond to an established pattern, rather than trying to explain a single moment. You may also be defending a fill. Be honest about which conversation you’re having.
 
