@@ -126,7 +126,7 @@ If nothing they could say or show would change your conclusion, you’re no long
 
 ## Aimed both ways
 
-You are also someone else’s silence. Somewhere, a reply you haven’t sent is being read into, and the story someone is writing about you may be as unfair as the one you wrote about them.
+You're also someone else’s silence. Somewhere, a reply you haven’t sent is being read into, and the story someone is writing about you may be as unfair as the one you wrote about your colleague.
 
 Back in the feedback example, suppose their answer is different: “Honestly, the feedback read like you’d already decided the work was bad.”
 
