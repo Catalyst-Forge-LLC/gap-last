@@ -12,7 +12,7 @@ not the last gap), with the silence post last. No reading order is declared
 for a reader who arrives through the posts index, so the spine below is one
 possible order, not the only one.
 
-Broken: 0. Intentional but verify: 0. Judgment calls: 1.
+Broken: 0. Intentional but verify: 0. Judgment calls: 0.
 
 Resolved on 2026-09-29, after review:
 
@@ -21,7 +21,8 @@ Resolved on 2026-09-29, after review:
 - F-002: the chain paragraph moved out of the desk-stamp excerpt to
   sit after the nine sections, where "the file keeps them apart"
   points at the list.
-- The About / Langtang pair (F-003) stays, on purpose.
+- F-003: About now names the consequence and points at the Langtang
+  post, which keeps the full account.
 - Separately, the silence post's closing checklist dropped "Is
   someone reading my silence right now?", which the deed section
   already asks.
@@ -36,20 +37,9 @@ None.
 
 ## Judgment calls
 
-1. **F-003** · **about.s1** (line 23) — repetition_redundant (sibling)
-   The people in the path of the next similar event deserve an accurate
-   account
-   Action: Keep the Langtang instance. On About, leave the sentence that
-   names the consequence and point at the post for the rest.
-   Evidence: The pair is about line 23 and langtang line 42. Job of each:
-   say why an accurate account is owed, because the next warning system
-   gets built on whatever cause is written down, and a wrong one leaves
-   people exposed while believing they are safe. The Langtang page is
-   where that job belongs, and it earned the sentence. About restates it
-   in full, one clause shorter, with nothing new between the two. A
-   shorter cousin ("Someone will build those on whatever cause you write
-   down," method line 11) earns its place as a reason inside the method
-   page and is not part of this pair.
+None. F-003 was resolved: About keeps the sentence that names the
+consequence and points at the Langtang post, which keeps the full
+account.
 
 ## Reverse outline
 
