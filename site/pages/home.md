@@ -61,7 +61,8 @@ Those four lines are the start. When you want the work to stay, fill the [nine-s
 | --- | --- |
 | Four-line exercise | A conversation or a sticky note. No install. |
 | Nine-section file | The artifact you keep. Outline and a filled excerpt: [Method](/method) |
-| Skill | An agent follows the same order. [Install in your agent](/run) |
+| Reconstruction skill (`gaplast`) | An agent follows the incident order. [Install in your agent](/run) |
+| Engineering skill (`gaplast-engineering`) | Examine a feature, integration, or refactor before choosing an intervention. [Engineering](/engineering) |
 | CLI | Validates or emits the file. No model call |
 | [Working paper](/paper) | The longer argument. Not required to start |
 | [Posts](/posts) | Langtang, Chesterton's Fence, and [Gap Last is not the last gap](/posts/2026-09-23-gap-last-is-not-the-last-gap) |

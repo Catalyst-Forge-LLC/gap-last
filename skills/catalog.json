@@ -1,0 +1,22 @@
+[
+  {
+    "name": "gaplast",
+    "artifact": "reconstruction",
+    "requiredMembers": [
+      "SKILL.md",
+      "SKILL_FACTS.md",
+      "references/gap-last-tool-spec.md",
+      "references/reconstruction-template.md"
+    ]
+  },
+  {
+    "name": "gaplast-engineering",
+    "artifact": "engineering decision",
+    "requiredMembers": [
+      "SKILL.md",
+      "SKILL_FACTS.md",
+      "references/engineering-spec.md",
+      "references/decision-template.md"
+    ]
+  }
+]

@@ -7,6 +7,12 @@ tags: [catalyst-forge, gap-last, tools]
 
 # Gap Last: tool spec
 
+Scope: the `gaplast` reconstruction skill and reconstruction CLI.
+The separate `gaplast-engineering` skill applies the discipline to
+prospective software decisions and owns its own specification. Its
+decision record is not a CLI reconstruction; the contract below is
+unchanged for reconstruction.
+
 *Instrument contract, 2026-08-31. Paper:
 `docs/constraint-first-reconstruction.md`.*
 

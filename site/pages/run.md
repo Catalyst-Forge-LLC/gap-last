@@ -12,6 +12,14 @@ The CLI in this repo checks a reconstruction file. It does not call a model, and
 
 npm [`gaplast`](https://www.npmjs.com/package/gaplast) is a name hold (`0.0.0`). It does not contain this implementation. Do not install that package expecting the skill.
 
+## Choose the scope
+
+This page's incident example uses `gaplast`. For features, integrations,
+refactors, and architecture decisions, install the separate
+[`gaplast-engineering` skill](/engineering). Its download, first-use
+packet, and compact decision record are on that page. Choose either
+folder independently. Engineering records are not CLI reconstructions.
+
 ## Supported hosts
 
 | Host | Scope | Required | Notes |
@@ -19,6 +27,7 @@ npm [`gaplast`](https://www.npmjs.com/package/gaplast) is a name hold (`0.0.0`).
 | Cursor | Project or user skills folder | Readable skill folder | Host listing / discovery not independently verified in this docs pass |
 | Claude Code | Project or `~/.claude/skills/` | Readable skill folder | Same |
 | Claude.ai | Uploaded skill zip | Chat | Same |
+| Codex | `~/.codex/skills/gaplast/` | Readable skill folder | Same; replace the copied folder to update |
 | Other agents that read `SKILL.md` | Manual copy | Readable skill folder | Unverified; follow that host’s skill docs |
 
 A folder on disk is not proof the agent loaded the skill. Prefer the host’s skill list or a visible file-read of `SKILL.md`. A plausible reconstruction alone does not prove loading.

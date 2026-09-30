@@ -16,6 +16,7 @@ export default defineFilepressConfig({
   nav: [
     { label: "Home", href: "/" },
     { label: "Method", href: "/method" },
+    { label: "Engineering", href: "/engineering" },
     { label: "Paper", href: "/paper" },
     { label: "Install in your agent", href: "/run" },
     { label: "Posts", href: "/posts" },
@@ -26,6 +27,7 @@ export default defineFilepressConfig({
     { label: "See the rest of the Catalyst Forge shelf.", href: "https://catalystforge.com/tools/" },
     { label: "RSS", href: "/rss.xml" },
     { label: "Method", href: "/method" },
+    { label: "Engineering", href: "/engineering" },
     { label: "Paper", href: "/paper" },
     { label: "Install in your agent", href: "/run" },
     { label: "Posts", href: "/posts" },

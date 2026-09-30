@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 /**
- * Copy skills/gaplast to the site static tree and write a STORE zip.
- * Required members: SKILL.md, references/gap-last-tool-spec.md,
- * references/reconstruction-template.md.
+ * Copy the skill catalog's packs to the site static tree and STORE ZIPs.
+ * Import syncSkills for checks with an isolated output directory.
  */
 import {
   cpSync,
@@ -13,24 +12,14 @@ import {
   statSync,
   writeFileSync,
 } from "node:fs";
-import { dirname, join, relative } from "node:path";
+import { dirname, isAbsolute, join, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const skillName = "gaplast";
-const skillSrc = join(root, "skills", skillName);
-const siteSkillDir = join(root, "site", "static", "skills", skillName);
-const siteZipPath = join(root, "site", "static", "skills", `${skillName}.zip`);
-
-const requiredMembers = [
-  "SKILL.md",
-  "references/gap-last-tool-spec.md",
-  "references/reconstruction-template.md",
-];
+const repositoryRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 
 function walk(dir) {
   const out = [];
-  for (const name of readdirSync(dir)) {
+  for (const name of readdirSync(dir).sort()) {
     const full = join(dir, name);
     if (statSync(full).isDirectory()) out.push(...walk(full));
     else out.push(full);
@@ -109,21 +98,37 @@ function writeStoreZip(entries, destPath) {
   writeFileSync(destPath, Buffer.concat([...locals, ...centrals, eocd]));
 }
 
-for (const member of requiredMembers) {
-  const full = join(skillSrc, member);
-  if (!statSync(full, { throwIfNoEntry: false })?.isFile()) {
-    console.error(`Missing required skill member: ${member}`);
-    process.exit(1);
+export function syncSkills({ root = repositoryRoot, outputDir = join(root, "site", "static", "skills") } = {}) {
+  const catalog = JSON.parse(readFileSync(join(root, "skills", "catalog.json"), "utf8"));
+  // Validate the entire catalog before changing any existing bundle.
+  const names = new Set();
+  for (const { name, requiredMembers } of catalog) {
+    if (!/^[a-z0-9-]+$/.test(name) || names.has(name)) throw new Error(`Invalid skill name: ${name}`);
+    names.add(name);
+    for (const member of requiredMembers) {
+      const skillRoot = resolve(root, "skills", name);
+      const full = resolve(skillRoot, member);
+      const fromSkill = relative(skillRoot, full);
+      if (isAbsolute(fromSkill) || fromSkill.startsWith("..") || !statSync(full, { throwIfNoEntry: false })?.isFile()) {
+        throw new Error(`Missing or invalid skill member: ${name}/${member}`);
+      }
+    }
   }
+  const outputRoot = resolve(outputDir);
+  mkdirSync(outputRoot, { recursive: true });
+  for (const { name } of catalog) {
+    const skillSrc = join(root, "skills", name);
+    const destination = resolve(outputRoot, name);
+    if (dirname(destination) !== outputRoot) throw new Error("Skill destination escaped output directory");
+    rmSync(destination, { recursive: true, force: true });
+    cpSync(skillSrc, destination, { recursive: true });
+    const zipEntries = walk(skillSrc).map((full) => ({
+      name: `${name}/${relative(skillSrc, full).replace(/\\/g, "/")}`,
+      data: readFileSync(full),
+    }));
+    writeStoreZip(zipEntries, join(outputRoot, `${name}.zip`));
+  }
+  return catalog.map(({ name }) => name);
 }
 
-rmSync(siteSkillDir, { recursive: true, force: true });
-cpSync(skillSrc, siteSkillDir, { recursive: true });
-
-const files = walk(skillSrc);
-const zipEntries = files.map((full) => ({
-  name: `${skillName}/${relative(skillSrc, full).replace(/\\/g, "/")}`,
-  data: readFileSync(full),
-}));
-mkdirSync(dirname(siteZipPath), { recursive: true });
-writeStoreZip(zipEntries, siteZipPath);
+if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) syncSkills();
