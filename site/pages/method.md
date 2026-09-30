@@ -46,6 +46,8 @@ When you want the work to stay, you fill a file. Nine sections, that order only.
 8. Remainder. What is still unknown, stated as a result.
 9. Reconstruction log. If later evidence changed the object: old question, new question.
 
+A flood, a death, a failed launch, a family story: each is a chain, and each link asks a different question. Early stories press those questions into one. The file keeps them apart.
+
 [Template](https://github.com/Catalyst-Forge-LLC/gap-last/blob/master/docs/reconstruction-template.md).
 
 ### Excerpt from the desk-stamp incident
@@ -61,8 +63,6 @@ Illustrative. Same fictional CI flake as the [home page](/).
 **Allowed hypothesis.** Leftover `dist/` on a reused runner. Points at that gap only.
 
 **Discriminating trace.** The next failure’s log shows `dist/` present before `tsc`.
-
-A flood, a death, a failed launch, a family story: each is a chain, and each link asks a different question. Early stories press those questions into one. The file keeps them apart.
 
 The last section is the plaque on the fence. It says which gap this closed, how sure you were, and what evidence would move it, so the next person who finds what you built does not have to guess why it stands. That is the debt the Gap Last method owes [Chesterton's Fence](/posts/2026-09-04-the-other-side-of-chestertons-fence).
 

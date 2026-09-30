@@ -15,7 +15,7 @@ Sometimes we ask. Sometimes we arrive already holding an answer to a question we
 
 The jump can happen so quickly that we experience the conclusion before we recognize the question. It doesn’t feel like reasoning. It feels like knowing.
 
-Most of these conclusions are verdicts about where we stand: whether we are respected, trusted, cared for, wanted. That’s why they arrive so fast, and why they are so hard to put down. They rarely come from nowhere. Often these verdicts are borrowed from the last time something like this happened, sometimes with someone else entirely.
+Most of these conclusions are verdicts about where we stand: whether we are respected, trusted, cared for, wanted. That’s why they arrive so fast, and why they are so hard to set aside. They rarely come from nowhere. Often these verdicts are borrowed from the last time something like this happened, sometimes with someone else entirely.
 
 A gap is a question you don’t have the answer to yet. We have incomplete access to other people’s experience, but we still have to decide what their actions mean and how to respond. Familiarity can make us more informed. It can also make us more sure than this one moment supports.
 
@@ -173,7 +173,6 @@ When an exchange starts to feel like a verdict, ask:
 - Am I counting later events as confirmation?
 - Is a second hurt building on the first?
 - Am I defending my intention instead of hearing their experience?
-- Is someone reading my silence right now?
 
 ## Try it on one open question
 

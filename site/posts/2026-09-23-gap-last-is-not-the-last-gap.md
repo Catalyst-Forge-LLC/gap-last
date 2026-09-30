@@ -27,7 +27,7 @@ The [working paper](/paper) puts the split in the guardrails. Gap Last is the or
 
 A thin cause and a premature last gap fail the same way. Both write an explanation down before the question can hold it. The next move follows whatever was written. On a mountain, that move is a warning system or a wall. In a thread that went cold, it is an accusation, a matching silence, or a boundary set for a motive nobody has established.
 
-Remainder is a result. "We may never know the last increment" is allowed. What is not allowed is calling the gap you can see today the last one, and then building as if nothing later could move it.
+A remainder is what is still unknown, stated as a result. "We may never know the last increment" is allowed. What is not allowed is calling the gap you can see today the last one, and then building as if nothing later could move it.
 
 The order stays the same. Say what happened, and how sure you are. Use what is already known, fully. Name what is still unknown, as a question. Only then propose a cause, and only for that question. When better evidence arrives, let the question move.
 
