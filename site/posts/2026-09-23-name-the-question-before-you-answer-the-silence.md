@@ -144,7 +144,7 @@ These questions work best when both people ask them. They still help when only y
 
 ## You can act without knowing why
 
-Sometimes the problem isn’t one unclear moment. It’s a pattern: the same thing keeps happening, and it keeps hurting you. Gap Last isn’t an instruction to keep finding generous explanations for it.
+Sometimes the problem isn’t one unclear moment. It’s a pattern: the same thing keeps happening, and it keeps hurting you. You don’t owe a pattern a fresh benefit of the doubt every time it repeats.
 
 If someone repeatedly cancels commitments, you can address the cancellations. If they insult you, you can object to the words they used. If they won’t discuss a recurring problem, that refusal is itself something you can take into account. You don’t need certainty about a person’s motives to set a boundary around their behavior.
 
@@ -152,7 +152,7 @@ If someone repeatedly cancels commitments, you can address the cancellations. If
 
 Staying open to new evidence doesn’t mean expecting a different outcome from an established pattern. You can revise your understanding if new evidence arrives, and still decide now on the evidence you have.
 
-Asking better questions may lead to understanding. It may also show you that an agreement isn’t dependable or that a conversation isn’t possible right now. Curiosity doesn’t commit you to an endless effort to get an answer.
+Asking better questions may lead to understanding. It may also show you that you can’t count on what they agreed to, or that a conversation isn’t possible right now. Curiosity doesn’t commit you to an endless effort to get an answer.
 
 ## Improvement still counts
 
