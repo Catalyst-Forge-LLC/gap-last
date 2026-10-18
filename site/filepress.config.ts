@@ -4,10 +4,9 @@ const github = "https://github.com/Catalyst-Forge-LLC/gap-last";
 
 export default defineFilepressConfig({
   title: "Gap Last",
-  description:
-    "Reconstruct what happened before committing to an explanation. Stay with what happened long enough to name what is still unknown, so the next similar event is not met with the last wrong story.",
+  description: "When a failure or disagreement invites a quick explanation, Gap Last separates observations, constraints, and open questions. Keep only hypotheses that address what is still unknown.",
   tagline: "Don't commit to a cause until you can name the gap.",
-  lede: 'What happened · still unknown',
+  lede: "Reconstruction method with optional agent skills",
   url: "https://gaplast.dev",
   author: "Catalyst Forge LLC",
   logo: "/logo.png",

@@ -1,17 +1,12 @@
 ---
-title: Name what is still unknown before you propose a cause.
-description: Reconstruct what happened before committing to an explanation. Gap Last separates observations, constraints, and unresolved questions, then proposes hypotheses that address the remaining gap.
+title: "Name the gap before choosing a cause."
+description: "When a failure or disagreement invites a quick explanation, Gap Last separates observations, constraints, and open questions. Keep only hypotheses that address what is still unknown."
 order: 0
 ---
 
-A test failed twice on CI, passed locally, and passed on the third Actions run with no code change. A story is already forming. Gap Last is the pause that writes down what you observed, what you can already rule out, and what is still unknown, before you commit to a cause.
+<section class="value-hero" aria-label="Gap Last overview"><div class="value-intro"><p class="value-kind">Reconstruction method with optional agent skills</p><h1>Name the gap before choosing a cause.</h1><p class="value-lede">When a failure or disagreement invites a quick explanation, Gap Last separates observations, constraints, and open questions. Keep only hypotheses that address what is still unknown.</p><div class="cta-row"><a class="cta cta-primary" href="#four-lines-no-tool-required">Try the four-line exercise</a><a class="cta cta-secondary" href="#a-worked-incident-illustrative">See the incident example</a></div><p class="value-limit">No install is needed for the exercise. Agent skills preserve the order. The CLI checks the file without calling a model.</p></div><figure class="value-proof"><figcaption>Illustrative example</figcaption><p><strong>Starting point</strong><br>The same commit fails twice on CI, then passes without a code change.</p><div class="value-result"><p><strong>What you get</strong><br>Known: the source did not change. Unknown: why did unlink fail on two runs?</p></div><p>Inspect the relevant logs before adopting a story about a reused runner.</p><p class="value-note">Illustrative incident. A plausible hypothesis is not an established cause.</p></figure></section>
 
-The formal name is **constraint-first reconstruction**. You can use the four-line exercise without a paper, an account, or an agent.
-
-<div class="cta-row">
-  <a class="cta cta-primary" href="/run">Install in your agent</a>
-  <a class="cta cta-secondary" href="https://github.com/Catalyst-Forge-LLC/gap-last">View on GitHub</a>
-</div>
+[Investigating an incident? Use reconstruction.](/method) · [Planning a feature or refactor? Use the engineering pass.](/engineering)
 
 ## A worked incident (illustrative)
 
