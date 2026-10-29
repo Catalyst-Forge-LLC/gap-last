@@ -1,12 +1,18 @@
 ---
-title: "Name the gap before choosing a cause."
-description: "When a failure or disagreement invites a quick explanation, Gap Last separates observations, constraints, and open questions. Keep only hypotheses that address what is still unknown."
+title: "Investigate the question before choosing the answer."
+description: "Before explaining a failure or choosing an engineering change, separate what you observed, what you want to achieve, and what remains unknown. Gap Last helps you find the next useful check or a recommendation supported by the evidence."
 order: 0
 ---
 
-<section class="value-hero" aria-label="Gap Last overview"><div class="value-intro"><p class="value-kind">Reconstruction method with optional agent skills</p><h1>Name the gap before choosing a cause.</h1><p class="value-lede">When a failure or disagreement invites a quick explanation, Gap Last separates observations, constraints, and open questions. Keep only hypotheses that address what is still unknown.</p><div class="cta-row"><a class="cta cta-primary" href="#four-lines-no-tool-required">Try the four-line exercise</a><a class="cta cta-secondary" href="#a-worked-incident-illustrative">See the incident example</a></div><p class="value-limit">No install is needed for the exercise. Agent skills preserve the order. The CLI checks the file without calling a model.</p></div><figure class="value-proof"><figcaption>Illustrative example</figcaption><p><strong>Starting point</strong><br>The same commit fails twice on CI, then passes without a code change.</p><div class="value-result"><p><strong>What you get</strong><br>Known: the source did not change. Unknown: why did unlink fail on two runs?</p></div><p>Inspect the relevant logs before adopting a story about a reused runner.</p><p class="value-note">Illustrative incident. A plausible hypothesis is not an established cause.</p></figure></section>
+<section class="value-hero" aria-label="Gap Last overview"><div class="value-intro"><p class="value-kind">Investigation and engineering assessment methods for your agent</p><h1>Investigate the question before choosing the answer.</h1><p class="value-lede">Before explaining a failure or choosing an engineering change, separate what you observed, what you want to achieve, and what remains unknown. Gap Last helps you find the next useful check or a recommendation supported by the evidence.</p><div class="cta-row"><a class="cta cta-primary" href="#four-lines-no-tool-required">Try the four-line exercise</a><a class="cta cta-secondary" href="#a-worked-incident-illustrative">See the incident example</a></div><p class="value-limit">No install is needed for the exercise. Agent skills preserve the order. The CLI validates reconstruction files without calling a model.</p></div><figure class="value-proof"><figcaption>Illustrative example</figcaption><p><strong>Starting point</strong><br>The same commit fails twice on CI, then passes without a code change.</p><div class="value-result"><p><strong>What you get</strong><br>Known: the source did not change. Unknown: why did unlink fail on two runs?</p></div><p>Inspect the relevant logs before adopting a story about a reused runner.</p><p class="value-note">Illustrative incident. A plausible hypothesis is not an established cause.</p></figure></section>
 
 [Investigating an incident? Use reconstruction.](/method) · [Planning a feature or refactor? Use the engineering pass.](/engineering)
+
+## Two ways to use Gap Last
+
+**Investigate what happened.** Reconstruct an incident from observations, rule out only what the evidence contradicts, and name the remaining question. The result may be a cause to test or a specific next check.
+
+**Decide what to change.** Assess a proposed feature, integration, or refactor against its goal and the existing system. Compare alternatives and identify what would justify implementation. This produces a proportionate assessment, not a nine-section incident report. [See the engineering example](/engineering).
 
 ## A worked incident (illustrative)
 

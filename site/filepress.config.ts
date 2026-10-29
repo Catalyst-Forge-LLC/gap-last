@@ -4,9 +4,9 @@ const github = "https://github.com/Catalyst-Forge-LLC/gap-last";
 
 export default defineFilepressConfig({
   title: "Gap Last",
-  description: "When a failure or disagreement invites a quick explanation, Gap Last separates observations, constraints, and open questions. Keep only hypotheses that address what is still unknown.",
+  description: "Before explaining a failure or choosing an engineering change, separate what you observed, what you want to achieve, and what remains unknown. Gap Last helps you find the next useful check or a recommendation supported by the evidence.",
   tagline: "Don't commit to a cause until you can name the gap.",
-  lede: "Reconstruction method with optional agent skills",
+  lede: "Investigation and engineering assessment methods for your agent",
   url: "https://gaplast.dev",
   author: "Catalyst Forge LLC",
   logo: "/logo.png",

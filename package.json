@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Reconstruct what happened before committing to an explanation. Constraint-first reconstruction: validate and emit the nine-section artifact.",
+  "description": "Investigation and engineering assessment methods: separate evidence, goals, and unknowns before choosing an explanation or change. CLI validates reconstruction files.",
   "license": "MIT",
   "author": "Catalyst Forge LLC",
   "keywords": [

@@ -1,6 +1,10 @@
 # Gap Last
 
-Reconstruct what happened before committing to an explanation.
+**Investigate the question before choosing the answer.**
+
+Before explaining a failure or choosing an engineering change, separate what you observed, what you want to achieve, and what remains unknown. Gap Last helps you find the next useful check or a recommendation supported by the evidence.
+
+Use reconstruction to investigate a past event. Use the engineering pass to assess a feature, integration, or refactor before deciding what to build. Both keep the evidence and open questions visible.
 
 ## Choose the scope
 
